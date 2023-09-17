@@ -1,0 +1,33 @@
+<resources>
+    <string name="q1">Question 1</string>
+    <string name="q2">Question 2</string>
+    <string name="q3">Question 3</string>
+    <string name="q4">Question 4</string>
+    <string name="q5">Question 5</string>
+    <string name="q6">Question 6</string>
+    <string name="q7">Question 7</string>
+    <string name="q8">Question 8</string>
+    <string name="q9">Question 9</string>
+    <string name="q10">Question 10</string>
+    <string name="q11">Question 11</string>
+    <string name="q12">Question 12</string>
+    <string name="q13">Question 13</string>
+    <string name="q14">Question 14</string>
+    <string name="q15">Question 15</string>
+    <string name="q16">Question 16</string>
+    <string name="q17">Question 17</string>
+    <string name="q18">Question 18</string>
+    <string name="q19">Question 19</string>
+    <string name="q20">Question 20</string>
+    <string name="q21">Question 21</string>
+    <string name="q22">Question 22</string>
+    <string name="q23">Question 23</string>
+    <string name="q24">Question 24</string>
+    <string name="q25">Question 25</string>
+    <string name="q26">Question 26</string>
+    <string name="q27">Question 27</string>
+    <string name="q28">Question 28</string>
+    <string name="q29">Question 29</string>
+    <string name="q30">Question 30</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActuarialExams</string>
+    <string name="done">Done!</string>
+    <string name="you_scored">"You scored: %s"</string>
+    <string name="exit">Exit</string>
+    <string name="restart_test">Restart Test</string>
+</resources>

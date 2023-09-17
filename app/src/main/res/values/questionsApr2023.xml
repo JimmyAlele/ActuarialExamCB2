@@ -1,0 +1,68 @@
+<resources>
+    <string name="question_1">In economics, the problem of scarcity:</string>
+    <string name="question_2">What is the combined effect of a fall in the cost of production and a fall in consumer
+    income on the equilibrium price and quantity of a normal good?</string>
+    <string name="question_3">Economies of scale means:</string>
+    <string name="question_4">Which of the following does NOT necessarily apply to a perfectly competitive firm
+    that produces in both the short run and the long run?</string>
+    <string name="question_5">The prisoner’s dilemma, applied to a situation involving two oligopolistic firms,
+    illustrates that:</string>
+    <string name="question_6">The welfare consequences of third-degree price discrimination are to the benefit of:</string>
+    <string name="question_7">The demand for Good X has a price elasticity of -1. Tax on Good X is £10 per unit. If
+    the government decides to reduce the tax on Good X to £5 per unit, this would shift
+    the supply curve for Good X down by:</string>
+    <string name="question_8">An economy moves from producing 15 units of Good X and six units of Good Y to
+    instead producing 16 units of Good X and three units of Good Y. How many units of
+    Good Y is the opportunity cost of the 16th unit of Good X?</string>
+    <string name="question_9">Which of the following best describes an annual demand curve?</string>
+    <string name="question_10">If a maximum price for Good X is fixed above the market equilibrium price, there will
+    be:</string>
+    <string name="question_11">A firm’s short-run total costs are £250 when ten units are produced and its total
+    variable costs are £100. The marginal cost of producing the tenth unit is £27 and the
+    marginal cost of producing the eleventh unit is £23. Which of the following is TRUE?</string>
+    <string name="question_12">Skipped</string>
+    <string name="question_13">Global Airways, which is a profit-maximising firm, has to decide whether or not to
+    run an extra daily flight between London and Manchester. The total daily fixed costs
+    of the airline are £4,000, the total variable costs of the extra flight are £4,500 and the
+    expected average revenue from the extra flight is £50 with 85 passengers. In such
+    circumstances, Global Airways will:</string>
+    <string name="question_14">Good X is an inferior good (but not a Giffen good). If a budget line is drawn with
+    quantity of Good Y on the vertical axis and quantity of Good X on the horizontal axis, a
+    fall in price of Good X will cause the budget line of the consumer to:</string>
+    <string name="question_15">Which of the following could explain why a country’s aggregate demand curve may
+    shift inwards to the left?</string>
+    <string name="question_16">Which of the following statements about real variables in the economy is TRUE?</string>
+    <string name="question_17">In an economy operating significantly below the full employment level of output, the
+    adoption of an expansionary fiscal policy combined with a contractionary monetary
+    policy will result in:</string>
+    <string name="question_18">Which one of the following would NOT constitute a supply-side economic policy for
+    reducing unemployment?</string>
+    <string name="question_19">In a simple closed economy with no taxes, consumption is given by the relationship:
+    C = £50 million + 0.6 Y
+    where C is consumption expenditure and Y is GDP.
+    If government expenditure is £100 million and investment is £50 million, what will be
+    the equilibrium value of GDP of the economy?</string>
+    <string name="question_20">Which one of the following is most likely to lead to cost-push inflation?</string>
+    <string name="question_21">Other things remaining the same, in a closed economy, the effect of a cut in
+    government expenditure is to:</string>
+    <string name="question_22">Assume that the actual rate of unemployment is below the natural rate of
+    unemployment because the expected rate of inflation is below the actual rate of
+    inflation. If the expected rate of inflation rises to equal the actual rate of inflation,
+    then real wage growth will start to:</string>
+    <string name="question_23">Which of the following is the correct response for the missing words, (i) and (ii), in
+    the statement below?
+    Automatic stabilisers act to ___(i) ___ government expenditures and ___(ii)___
+    government revenues during a recession.</string>
+    <string name="question_24">In a closed economy, planned investment is £20 million, government expenditure is
+    £40 million, planned savings are £15 million and taxes are £25 million. Which of the
+    following is most likely to occur?</string>
+    <string name="question_25">According to the quantity theory of money, an increase in the money supply is least
+    likely to lead to inflation if the:</string>
+    <string name="question_26">Other things being equal in an economy with zero economic growth, if the expected
+    rate of inflation on which wage settlements are based is 3% p.a. and the money supply
+    is increasing at 4% p.a., then there will be a short-run:</string>
+
+
+
+
+    </resources>
