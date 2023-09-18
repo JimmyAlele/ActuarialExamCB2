@@ -44,18 +44,18 @@ class ActuarialExamsViewModel: ViewModel() {
             selectedOptions[index] != answer -> scoresList[index] = 0
         }
 
-        /*_uiState.update { currentState ->
+        _uiState.update { currentState ->
             currentState.copy(
                 questionsAnswered = currentState.questionsAnswered.inc()
             )
-        }*/
+        }
     }
 
     fun testFinished () {
         _uiState.update { currentState ->
             currentState.copy(
+                score = scoresList.sumOf{it},
                 testFinished = true,
-                score = _uiState.value.score + scoresList.sumOf{it}
             )
         }
     }

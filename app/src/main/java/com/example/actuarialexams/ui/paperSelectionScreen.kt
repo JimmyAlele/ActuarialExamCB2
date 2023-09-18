@@ -92,11 +92,14 @@ fun QuestionCard(
     onOption: () -> Unit,
     selectedOptions: MutableList<Int?>,
     currentQuestion: Int,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    actuarialExamsViewModel: ActuarialExamsViewModel = viewModel()
 ) {
+    val actuarialExamsUiState by actuarialExamsViewModel.uiState.collectAsState()
     Card(
         elevation = CardDefaults.cardElevation(32.dp),
         shape = RoundedCornerShape(8.dp),
+        colors = CardDefaults.cardColors(MaterialTheme.colorScheme.error),
         modifier = Modifier
             .fillMaxWidth()
     ) {
@@ -139,7 +142,7 @@ fun RadioGroup(
     modifier: Modifier = Modifier,
     actuarialExamsViewModel: ActuarialExamsViewModel = viewModel()
 ) {
-    val actuarialExamsUiState by actuarialExamsViewModel.uiState.collectAsState()
+    //val actuarialExamsUiState by actuarialExamsViewModel.uiState.collectAsState()
     val choices: MutableList<String> = mutableListOf()
     stringResource(id = questionChoices).split("ENDSTOP").forEach{
         choices.add(it.substringAfter(" ")
@@ -159,7 +162,7 @@ fun RadioGroup(
                         onClick = {
                             actuarialExamsViewModel.getTextChoices(text, choices)
                             onOption()
-                                  },
+                        },
                         role = Role.RadioButton
                     )
                     .padding(start = 4.dp, top = 12.dp),
