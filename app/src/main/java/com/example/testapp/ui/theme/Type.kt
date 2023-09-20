@@ -1,4 +1,4 @@
-package com.example.actuarialexams.ui.theme
+package com.example.testapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

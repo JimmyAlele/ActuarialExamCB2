@@ -1,4 +1,4 @@
-package com.example.actuarialexams.ui.theme
+package com.example.testapp.ui.theme
 
 
 import android.app.Activity

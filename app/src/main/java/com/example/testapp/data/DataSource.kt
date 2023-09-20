@@ -1,6 +1,6 @@
-package com.example.actuarialexams.data
+package com.example.testapp.data
 
-import com.example.actuarialexams.R
+import com.example.testapp.R
 
 data class DataSource(
     val questionNumber: Int,
@@ -37,3 +37,33 @@ val questionsList: List<DataSource> = listOf(
     DataSource(R.string.q25, R.string.question_25, R.string.choices_25, 2),
     DataSource(R.string.q26, R.string.question_26, R.string.choices_26, 1),
     )
+
+
+data class QuestionsBank (
+    val year: Int,
+    val session_one: String,
+    val session_two: String,
+        )
+
+val questionsBankList = listOf(
+    QuestionsBank(2023, "April", "September"),
+    QuestionsBank(2022, "April", "September"),
+    QuestionsBank(2021, "April", "September"),
+    QuestionsBank(2020, "April", "September"),
+    QuestionsBank(2019, "April", "September"),
+    QuestionsBank(2018, "April", "September"),
+    QuestionsBank(2017, "April", "September"),
+    QuestionsBank(2016, "April", "September"),
+    QuestionsBank(2015, "April", "September"),
+    QuestionsBank(2014, "April", "September"),
+    QuestionsBank(2013, "April", "September"),
+    QuestionsBank(2012, "April", "September"),
+    QuestionsBank(2011, "April", "September"),
+    QuestionsBank(2010, "April", "September"),
+    QuestionsBank(2009, "April", "September"),
+    QuestionsBank(2008, "April", "September"),
+    QuestionsBank(2007, "April", "September"),
+    QuestionsBank(2006, "April", "September"),
+    QuestionsBank(2005, "April", "September"),
+)
+

@@ -1,4 +1,4 @@
-package com.example.actuarialexams.ui
+package com.example.testapp.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -16,22 +16,17 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.lifecycle.viewmodel.compose.viewModel
-import androidx.navigation.NavHostController
 
 @Composable
 fun HomeScreen(
-    navController: NavHostController,
-    actuarialExamsViewModel: ActuarialExamsViewModel = viewModel(),
+    onGoToQuestionsBankButtonClicked: () -> Unit,
+    modifier: Modifier = Modifier
 ) {
-    val actuarialExamsUiState by actuarialExamsViewModel.uiState.collectAsState()
-
     Column (
         modifier = Modifier
             .fillMaxSize()
@@ -84,7 +79,7 @@ fun HomeScreen(
         }
         Spacer(modifier = Modifier.weight(1f))
         Button(
-            onClick = {navController.navigate("paper selection screen")},
+            onClick = onGoToQuestionsBankButtonClicked,
             modifier = Modifier
                 .padding(32.dp)) {
             Text(
@@ -93,4 +88,10 @@ fun HomeScreen(
             )
         }
     }
+}
+
+@Preview (showBackground = true)
+@Composable
+fun HomeScreenPreview () {
+    HomeScreen(onGoToQuestionsBankButtonClicked = { /*TODO*/ })
 }

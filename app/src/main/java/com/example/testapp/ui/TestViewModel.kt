@@ -1,24 +1,21 @@
-package com.example.actuarialexams.ui
+package com.example.testapp.ui
 
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import com.example.actuarialexams.data.questionsList
+import com.example.testapp.data.questionsList
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 
-class ActuarialExamsViewModel: ViewModel() {
+class TestViewModel: ViewModel() {
 
     // ActuarialExams UI state
-    private val _uiState = MutableStateFlow(ActuarialExamsUiState())
-    val uiState: StateFlow<ActuarialExamsUiState> = _uiState.asStateFlow()
-
-    private var choices by mutableStateOf(mutableListOf(""))
-
-    private var text by mutableStateOf("")
+    private val _uiState = MutableStateFlow(TestUiState())
+    val uiState: StateFlow<TestUiState> = _uiState.asStateFlow()
 
     private var selectedAnswers: MutableList<Int?> by mutableStateOf(mutableListOf(*arrayOfNulls(questionsList.size)))
 
@@ -28,12 +25,7 @@ class ActuarialExamsViewModel: ViewModel() {
     //var selectedOptions: MutableList<Int?> by mutableStateOf(MutableList(questionsList.size){0})
     //var selectedOptions: MutableList<Int?> = MutableList(questionsList.size){2}
 
-    fun getTextChoices(_text: String, _choices: MutableList<String>) {
-        text = _text
-        choices = _choices
-    }
-
-    fun checkAnswer (index: Int, answer: Int) {
+    fun checkAnswer (index: Int, answer: Int, text: String, choices: MutableList<String>) {
         selectedOptions[index] = choices.indexOf(text)
         //selectedAnswers is a mutableList that stores values of the answers entered by the user
         //might be useful
@@ -56,6 +48,15 @@ class ActuarialExamsViewModel: ViewModel() {
             currentState.copy(
                 score = scoresList.sumOf{it},
                 testFinished = true,
+                enableClickable = false,
+            )
+        }
+    }
+
+    fun reviewTest () {
+        _uiState.update { currentState ->
+            currentState.copy(
+                reviewTest = true,
             )
         }
     }

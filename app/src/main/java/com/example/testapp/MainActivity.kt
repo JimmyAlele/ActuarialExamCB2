@@ -1,4 +1,4 @@
-package com.example.actuarialexams
+package com.example.testapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,12 +6,9 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.actuarialexams.ui.Nav
-import com.example.actuarialexams.ui.theme.ActuarialExamsTheme
+import com.example.testapp.ui.TestApp
+import com.example.testapp.ui.theme.ActuarialExamsTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,7 +20,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Nav()
+                    TestApp()
                 }
             }
         }
