@@ -4,5 +4,5 @@
     <string name="you_scored">"You scored: %s"</string>
     <string name="exit">Exit</string>
     <string name="review_test">Review Test</string>
-    <string name="home">Home</string>
+    <string name="home">Back to Home</string>
 </resources>

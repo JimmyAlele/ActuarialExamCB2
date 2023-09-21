@@ -1,22 +1,31 @@
 package com.example.testapp.ui
 
 import android.app.Activity
+import android.graphics.drawable.Icon
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Check
+import androidx.compose.material.icons.filled.CheckCircle
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Text
@@ -24,7 +33,10 @@ import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.text.font.FontWeight
@@ -47,6 +59,7 @@ fun TestScreen(
     onReviewTestButtonClicked: () -> Unit,
     testFinished: Boolean,
     reviewTest: Boolean,
+    showAlertDialog: Boolean,
     modifier: Modifier
 ) {
     var answer: Int = 0
@@ -74,27 +87,35 @@ fun TestScreen(
                 )
             }
             item {
-                Button(onClick = onSubmitButtonClicked)
-                 {
-                    Text(
-                        text = "Submit",
-                        fontSize = 16.sp
+                Row(
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                ) {
+                    Button(
+                        enabled = enableClickable,
+                        onClick = onSubmitButtonClicked
                     )
-                }
-            }
+                    {
+                        Text(
+                            text = "Submit",
+                            fontSize = 16.sp
+                        )
+                    }
 
-            item {
-                Button(onClick = onCancelButtonClicked)
-                {
-                    Text(
-                        text = "Cancel",
-                        fontSize = 16.sp
-                    )
+                    Button(onClick = onCancelButtonClicked)
+                    {
+                        Text(
+                            text = "Cancel",
+                            fontSize = 16.sp
+                        )
+                    }
                 }
             }
         }
     }
-    if (testFinished) {
+    if (testFinished && showAlertDialog) {
         FinalScoreDialog(
             score = score,
             onCancelButtonClicked = onCancelButtonClicked,
@@ -136,24 +157,67 @@ fun QuestionCard(
                 .fillMaxWidth()
                 .padding(12.dp)
         ) {
-            Text(
-                text = (stringResource(question.questionNumber)),
-                fontSize = 20.sp,
-                fontWeight = FontWeight.SemiBold,
-                //textAlign = TextAlign.Start,
+            if (!reviewTest) {
+                Text(
+                    text = (stringResource(question.questionNumber)),
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    //textAlign = TextAlign.Start,
+                )
+            } else {
+                Row (
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        ) {
+                    Text(
+                        text = (stringResource(question.questionNumber)),
+                        fontSize = 20.sp,
+                        fontWeight = FontWeight.SemiBold
+                    )
 
-            )
+                    Text(
+                        text = ("Correct Answer: Option ${answer + 1}"),
+                        fontSize = 12.sp,
+                        fontWeight = FontWeight.SemiBold,
+                    )
+                }
+            }
+
             Text(
                 text = stringResource(id = question.question),
                 fontSize = 16.sp,
                 textAlign = TextAlign.Start
             )
+
+            if (question.imageRes != null) {
+                Row (
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.Center,
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(8.dp)
+                        .height(120.dp)
+                        ) {
+                    Image(
+                        painter = painterResource(R.drawable.apr2023_q12_image),
+                        contentDescription = null,
+                        alignment = Alignment.Center,
+                        contentScale = ContentScale.Fit,
+                        modifier = Modifier
+                            .size(500.dp)
+                    )
+                }
+            }
+
             RadioGroup(
                 questionChoices = question.choices,
                 enableClickable = enableClickable,
                 onOptionSelected = onOptionSelected,
                 selectedOptions = selectedOptions,
                 currentQuestion = currentQuestion,
+                reviewTest = reviewTest,
                 answer = answer,
             )
         }
@@ -168,6 +232,7 @@ fun RadioGroup(
     selectedOptions: MutableList<Int?>,
     currentQuestion: Int,
     answer: Int,
+    reviewTest: Boolean,
     modifier: Modifier = Modifier,
 ) {
     val choices: MutableList<String> = mutableListOf()
@@ -182,20 +247,37 @@ fun RadioGroup(
             Row(
                 Modifier
                     .fillMaxWidth()
-                    //.height(56.dp)
                     .selectable(
                         selected = (choices.indexOf(text) == selectedOptions[currentQuestion]),
                         enabled = enableClickable,
-                        onClick = {onOptionSelected( currentQuestion, answer , text, choices )},
+                        onClick = { onOptionSelected(currentQuestion, answer, text, choices) },
                         role = Role.RadioButton
                     )
                     .padding(start = 4.dp, top = 12.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                RadioButton(
-                    selected = (choices.indexOf(text) == selectedOptions[currentQuestion]),
-                    onClick = {onOptionSelected( currentQuestion, answer, text, choices )}
-                )
+
+                if (reviewTest) {
+                    // show icons that highlight whether the option is right or wrong
+                    // will only show when the app is in reviewTest mode
+                    when (choices.indexOf(text)) {
+                        answer -> Icon(
+                            imageVector = Icons.Default.CheckCircle,
+                            contentDescription = "tick"
+                        )
+                        else -> Icon(
+                            painter = painterResource(id = R.drawable.cancel_24px),
+                            contentDescription = "cross"
+                        )
+                    }
+                } else {
+                    //show ordinary radio buttons if test is in progress
+                    RadioButton(
+                        enabled = enableClickable,
+                        selected = (choices.indexOf(text) == selectedOptions[currentQuestion]),
+                        onClick = {onOptionSelected( currentQuestion, answer, text, choices )}
+                    )
+                }
                 Text(
                     text = text,
                     style = MaterialTheme.typography.bodyLarge,

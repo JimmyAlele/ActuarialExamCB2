@@ -57,8 +57,24 @@ class TestViewModel: ViewModel() {
         _uiState.update { currentState ->
             currentState.copy(
                 reviewTest = true,
+                showAlertDialog = false,
+                enableClickable = false
             )
         }
+    }
+
+    fun resetTest () {
+        _uiState.update { currentState ->
+            currentState.copy(
+            testFinished = false,
+            reviewTest = false,
+            enableClickable = true,
+            showAlertDialog = true
+            )
+        }
+        //selectedAnswers.clear()
+        //selectedOptions.clear()
+        //scoresList.clear()
     }
 }
 

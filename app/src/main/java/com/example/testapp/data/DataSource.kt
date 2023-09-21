@@ -6,7 +6,8 @@ data class DataSource(
     val questionNumber: Int,
     val question: Int,
     val choices: Int,
-    val answer: Int
+    val answer: Int,
+    val imageRes: Int? = null
 )
 
 val questionsList: List<DataSource> = listOf(
@@ -21,7 +22,7 @@ val questionsList: List<DataSource> = listOf(
     DataSource(R.string.q9, R.string.question_9, R.string.choices_9, 2),
     DataSource(R.string.q10, R.string.question_10, R.string.choices_10, 0),
     DataSource(R.string.q11, R.string.question_11, R.string.choices_11, 3),
-    DataSource(R.string.q12, R.string.question_12, R.string.choices_12, 2),
+    DataSource(R.string.q12, R.string.question_12, R.string.choices_12, 2, R.drawable.apr2023_q12_image),
     DataSource(R.string.q13, R.string.question_13, R.string.choices_13, 0),
     DataSource(R.string.q14, R.string.question_14, R.string.choices_14, 1),
     DataSource(R.string.q15, R.string.question_15, R.string.choices_15, 1),

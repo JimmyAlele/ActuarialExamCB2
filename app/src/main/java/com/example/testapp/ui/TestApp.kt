@@ -62,19 +62,43 @@ fun TestApp(
                 selectedOptions = viewModel.selectedOptions,
                 score = uiState.score,
                 onSubmitButtonClicked = { viewModel.testFinished() },
-                onCancelButtonClicked = {},
+                onCancelButtonClicked = {
+                    viewModel.resetTest()
+                    navController.popBackStack(TestAppScreens.HomeScreen.name, inclusive = false)
+                                        },
                 onReviewTestButtonClicked = {
                     viewModel.reviewTest()
                     navController.navigate(TestAppScreens.TestReviewScreen.name)
                                             },
                 testFinished = uiState.testFinished,
                 reviewTest = uiState.reviewTest,
+                showAlertDialog = uiState.showAlertDialog,
                 modifier = Modifier
             )
         }
 
         composable(route = TestAppScreens.TestReviewScreen.name){
-            TestReviewScreen()
+            TestScreen(
+                questions = questionsList,
+                enableClickable = uiState.enableClickable,
+                onOptionSelected = { index: Int, answer: Int, text: String, choices: MutableList<String> ->
+                    viewModel.checkAnswer(index, answer, text, choices) },
+                selectedOptions = viewModel.selectedOptions,
+                score = uiState.score,
+                onSubmitButtonClicked = { viewModel.testFinished() },
+                onCancelButtonClicked = {
+                    viewModel.resetTest()
+                    navController.popBackStack(TestAppScreens.HomeScreen.name, inclusive = false)
+                                        },
+                onReviewTestButtonClicked = {
+                    viewModel.reviewTest()
+                    navController.navigate(TestAppScreens.TestReviewScreen.name)
+                },
+                testFinished = uiState.testFinished,
+                reviewTest = uiState.reviewTest,
+                showAlertDialog = uiState.showAlertDialog,
+                modifier = Modifier
+            )
         }
     }
 }
