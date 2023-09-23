@@ -1,0 +1,126 @@
+<resources>
+    "<string name='apr2021_choices_1'>A –2 and the two goods are complements.
+ENDSTOPB –0.5 and the two goods are complements.
+ENDSTOPC –2 and the two goods are substitutes.
+ENDSTOPD –0.5 and the two goods are substitutes.</string>"
+    "<string name='apr2021_choices_2'>A quantity of productive inputs.
+ENDSTOPB quantity of inputs on one axis and quantity of outputs on the other axis.
+ENDSTOPC quantities of finished goods.
+ENDSTOPD prices of productive inputs.</string>"
+    "<string name='apr2021_choices_3'>A £30
+ENDSTOPB £40
+ENDSTOPC £50
+ENDSTOPD £60.</string>"
+    "<string name='apr2021_choices_4'>A The curve will shift to the left and become less elastic.
+ENDSTOPB The curve will shift to the right and become less elastic.
+ENDSTOPC The curve will shift to the left and become more elastic.
+ENDSTOPD The curve will shift to the right and become more elastic.</string>"
+    "<string name='apr2021_choices_5'>A the average revenue is equal to marginal cost.
+ENDSTOPB the industry demand curve must be perfectly elastic.
+ENDSTOPC there may be difficulty for some firms in exiting the industry.
+ENDSTOPD there are no supernormal profits in the short run.</string>"
+    "<string name='apr2021_choices_6'>A total utility of water is less than the total utility of diamonds.
+ENDSTOPB total utility of water is greater than the total utility of diamonds.
+ENDSTOPC marginal utility of water is less than the marginal utility of diamonds.
+ENDSTOPD marginal utility of water divided by the marginal utility of diamonds, is greater
+than the price of water divided by the price of diamonds.</string>"
+    "<string name='apr2021_choices_7'>A A firm’s fear that if it raises its price then the rise will be matched by
+competitors, but if it cuts its price then the cut will not be matched by
+competitors
+ENDSTOPB Supernormal profits
+ENDSTOPC A belief that one firm’s actions has an influence on the actions of other firms
+ENDSTOPD Advertising and other non-price competition.</string>"
+    "<string name='apr2021_choices_8'>A raise its price and increase output.
+ENDSTOPB lower its price and decrease output.
+ENDSTOPC lower its price and increase output.
+ENDSTOPD raise its price and decrease output.</string>"
+    "<string name='apr2021_choices_9'>A the joint output of the two firms is greater than the monopoly output, but less
+than the perfect competition output.
+ENDSTOPB the joint output of the two firms is identical to the monopoly output.
+ENDSTOPC the joint output of the two firms is identical to the perfect competition output.
+ENDSTOPD the output of the two firms will always be identical.</string>"
+    "<string name='apr2021_choices_10'>A Firm A – High; Firm ENDSTOPB – Low
+B Firm A – High; Firm B – High
+ENDSTOPC Firm A – Low; Firm B – Low
+ENDSTOPD Firm A – Low; Firm B – High</string>"
+    "<string name='apr2021_choices_11'>A If more labour is added to a given amount of capital, the marginal product of
+labour falls.
+ENDSTOPB If the ratio of labour to capital increases by 100%, the output of the firm
+increases by less than 100%.
+ENDSTOPC If the input of both capital and labour increases by 120%, the output of the
+firm increases by 100%.
+ENDSTOPD If more labour is added to a given amount of capital, the marginal product of
+labour rises.</string>"
+    "<string name='apr2021_choices_12'>A The price of Good X will rise by £10.
+ENDSTOPB The price of Good X will fall by more than £10.
+ENDSTOPC The price of Good X will fall by less than £10.
+ENDSTOPD The price of Good X will fall by £20.</string>"
+    "<string name='apr2021_choices_13'>A the market price to fall and the quantity supplied to rise.
+ENDSTOPB the market price to fall and the quantity supplied to fall.
+ENDSTOPC both market price and quantity supplied to fall.
+ENDSTOPD no change to the market price or output.</string>"
+    "<string name='apr2021_choices_14'>A A fall in investment due to the associated rise in interest rates
+ENDSTOPB A fall in consumer demand due to fear of higher future taxes
+ENDSTOPC A fall in demand for exports due to an exchange rate appreciation caused by
+the associated rise in interest rates
+ENDSTOPD Reduced import expenditure due to increased government demand for
+domestically produced goods.</string>"
+    "<string name='apr2021_choices_15'>A fall as the short-term interest rate falls.
+ENDSTOPB fall as the short-term interest rate rises.
+ENDSTOPC rise as the short-term interest rate falls.
+ENDSTOPD rise as the short-term interest rate rises.</string>"
+    "<string name='apr2021_choices_16'>A a rise.
+ENDSTOPB a fall.
+ENDSTOPC no change.
+ENDSTOPD uncertain.</string>"
+    "<string name='apr2021_choices_17'>A the influence of fiscal policy on the level of inflation and unemployment.
+ENDSTOPB the influence of monetary policy on the level of inflation and unemployment.
+ENDSTOPC an inverse relationship between inflation and unemployment.
+ENDSTOPD a positive relationship between inflation and unemployment.</string>"
+    "<string name='apr2021_choices_18'>A elastic is the demand for money and the more interest elastic is the level of
+investment.
+ENDSTOPB inelastic is the demand for money and the less interest elastic is the level of
+investment.
+ENDSTOPC elastic is the demand for money and the less interest elastic is the level of
+investment.
+ENDSTOPD inelastic is the demand for money and the more interest elastic is the level of
+investment.</string>"
+    "<string name='apr2021_choices_19'>A the national income and interest rates will both rise.
+ENDSTOPB the national income and interest rates will both fall.
+ENDSTOPC the effect on both national income and interest rates is uncertain.
+ENDSTOPD the national income will rise but the effect on interest rates is uncertain.</string>"
+    "<string name='apr2021_choices_20'>A government expenditure.
+ENDSTOPB taxation.
+ENDSTOPC money supply.
+ENDSTOPD none of the above.</string>"
+    "<string name='apr2021_choices_21'>A Fixed interest rate borrowers lose
+ENDSTOPB Menu costs
+ENDSTOPC Shoe-leather costs
+ENDSTOPD Fixed interest rate lenders lose.</string>"
+    "<string name='apr2021_choices_22'>A autonomous saving.
+ENDSTOPB the marginal propensity to consume.
+ENDSTOPC the marginal propensity to import.
+ENDSTOPD the marginal rate of taxation.</string>"
+    "<string name='apr2021_choices_23'>A lead to an actual rate of unemployment that is temporarily greater than the
+natural rate.
+ENDSTOPB lead to an actual rate of unemployment that is temporarily lower than the
+natural rate.
+ENDSTOPC increase the natural rate of unemployment.
+ENDSTOPD decrease the natural rate of unemployment.</string>"
+    "<string name='apr2021_choices_24'>A The real rate of interest is negative.
+ENDSTOPB The rate of inflation is less than the real rate of interest.
+ENDSTOPC The real rate of interest is 11%.
+ENDSTOPD The nominal rate of interest exceeds the real rate of interest.</string>"
+    "<string name='apr2021_choices_25'>A The demand for money is negatively related to the interest rate.
+ENDSTOPB The demand for money is positively related to nominal income.
+ENDSTOPC The demand for money is negatively related to the general price level.
+ENDSTOPD The demand to hold money is positively related to real income.</string>"
+    "<string name='apr2021_choices_26'>A fall and the unemployment rate would rise.
+ENDSTOPB fall and the unemployment rate would fall.
+ENDSTOPC rise and the unemployment rate would fall.
+ENDSTOPD rise and the unemployment rate would rise.</string>"
+
+
+
+
+</resources>

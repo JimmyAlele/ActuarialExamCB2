@@ -1,7 +1,6 @@
 package com.example.testapp.ui
 
 import android.app.Activity
-import android.graphics.drawable.Icon
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -18,9 +17,7 @@ import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Check
 import androidx.compose.material.icons.filled.CheckCircle
-import androidx.compose.material.icons.filled.Close
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
@@ -33,7 +30,6 @@ import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
@@ -201,7 +197,7 @@ fun QuestionCard(
                         .height(120.dp)
                         ) {
                     Image(
-                        painter = painterResource(R.drawable.apr2023_q12_image),
+                        painter = painterResource(R.drawable.apr2023_img_12),
                         contentDescription = null,
                         alignment = Alignment.Center,
                         contentScale = ContentScale.Fit,

@@ -1,0 +1,126 @@
+<resources>
+    "<string name='apr2015_choices_1'>A 5%.
+ENDSTOPB 7%.
+ENDSTOPC 8%.
+ENDSTOPD 10%.</string>"
+    "<string name='apr2015_choices_2'>A The demand for Good X to fall and the price of Good X to fall.
+ENDSTOPB The demand for Good X to fall and the price of Good X to rise.
+ENDSTOPC The demand for Good X to rise and the price of Good X to fall.
+ENDSTOPD The demand for Good X to rise and the price of Good X to rise.</string>"
+    "<string name='apr2015_choices_3'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will rise.
+ENDSTOPD The effect on quantity is indeterminate but price will fall.</string>"
+    "<string name='apr2015_choices_4'>A short run excess profits are competed away by firms leaving the industry.
+ENDSTOPB short run excess profits are competed away by new firms entering the industry.
+ENDSTOPC short run excess profits lead to price rises.
+ENDSTOPD short run excess profits are caused by barriers to entry and exit.</string>"
+    "<string name='apr2015_choices_5'>A 2%.
+ENDSTOPB 4%.
+ENDSTOPC 6%.
+ENDSTOPD 8%.</string>"
+    "<string name='apr2015_choices_6'>A buying a large farm.
+ENDSTOPB buying another supermarket.
+ENDSTOPC setting up a number of new smaller outlets.
+ENDSTOPD buying a car rental business.</string>"
+    "<string name='apr2015_choices_7'>A frictional unemployment.
+ENDSTOPB seasonal unemployment.
+ENDSTOPC structural unemployment.
+ENDSTOPD technical unemployment.</string>"
+    "<string name='apr2015_choices_8'>A Average physical product is maximised when average physical product equals
+marginal physical product.
+ENDSTOPB Average physical product is maximised when marginal physical product is
+maximised.
+ENDSTOPC Marginal physical product increases when average physical product is above
+marginal physical product.
+ENDSTOPD Average physical product increases when marginal physical product is below
+average physical product.</string>"
+    "<string name='apr2015_choices_9'>A average cost curve.
+ENDSTOPB average variable cost curve.
+ENDSTOPC marginal cost curve above the lowest point of the average variable cost curve.
+ENDSTOPD marginal cost curve above the lowest point of the average total cost curve.</string>"
+    "<string name='apr2015_choices_10'>A Perfect competition is distinguished from all other market structures because
+of the assumption of no barriers to entry/exit from the industry.
+ENDSTOPB Firms under monopolistic competition face horizontal demand curves for their
+products.
+ENDSTOPC A monopoly will find that its average revenue is always greater than its
+average costs.
+ENDSTOPD Under perfect competition, in the long run, each firm will find that its
+marginal cost is equal to its average cost of production.</string>"
+    "<string name='apr2015_choices_11'>A When the monopolistically competitive industry achieves a long-run
+equilibrium, price is greater than marginal cost.
+ENDSTOPB Monopolistically competitive firms offer differentiated products and face a
+downward sloping demand curve.
+ENDSTOPC Under monopolistic competition, the price charged to the consumer is equal to
+the average revenue of the firm.
+ENDSTOPD Monopolistically competitive firms can earn supernormal profits in the long
+run.</string>"
+    "<string name='apr2015_choices_12'>A it faces a perfectly elastic demand curve.
+ENDSTOPB consumers of its product are willing and able to resell their purchase.
+ENDSTOPC it faces a downward sloping demand curve.
+ENDSTOPD it is a price taker.</string>"
+    "<string name='apr2015_choices_13'>A savings, taxes and investment are withdrawals.
+ENDSTOPB savings, imports and taxes are withdrawals.
+ENDSTOPC investment, government expenditure and imports are injections.
+ENDSTOPD investment, exports and consumption are injections.</string>"
+    "<string name='apr2015_choices_14'>A Gross Domestic Product is greater than Gross National Income.
+ENDSTOPB Gross Domestic Product is less than Gross National Income.
+ENDSTOPC Gross Domestic Product is the same as Gross National Income.
+ENDSTOPD We cannot say whether Gross Domestic Product differs from Gross National
+Income from this information.</string>"
+    "<string name='apr2015_choices_15'>A add net income from abroad and deduct transfer payments.
+ENDSTOPB deduct net income from abroad and add capital depreciation.
+ENDSTOPC add net income from abroad.
+ENDSTOPD add net income from abroad and deduct capital depreciation.</string>"
+    "<string name='apr2015_choices_16'>A zero.
+ENDSTOPB £100 million.
+ENDSTOPC £100 million.
+ENDSTOPD £500 million.</string>"
+    "<string name='apr2015_choices_17'>A £130 million
+ENDSTOPB £140 million
+ENDSTOPC £150 million
+ENDSTOPD £160 million</string>"
+    "<string name='apr2015_choices_18'>A An increase in trade union powers.
+ENDSTOPB An appreciation of the domestic currency’s exchange rate.
+ENDSTOPC An increased budget deficit which causes interest rates to rise.
+ENDSTOPD An increase in the profit margins applied by firms.</string>"
+    "<string name='apr2015_choices_19'>A decrease the country’s imports.
+ENDSTOPB increase the country’s exports.
+ENDSTOPC shift the country’s currency supply curve in the foreign exchange market to the
+right requiring central bank purchases of the domestic currency to maintain the
+fixed exchange rate.
+ENDSTOPD shift the demand curve for the country’s foreign exchange to the right
+requiring central bank purchases of the domestic currency to maintain the
+fixed exchange rate.</string>"
+    "<string name='apr2015_choices_20'>A increasing social security benefits
+ENDSTOPB increasing the money supply
+ENDSTOPC reducing corporate and personal taxation
+ENDSTOPD increasing government expenditure aimed at exploiting the multiplier effect</string>"
+    "<string name='apr2015_choices_21'>A small change in the rate of interest and the level of investment.
+ENDSTOPB large change in the rate of interest and the level of investment.
+ENDSTOPC small change in the rate of interest and a relatively large change in the level of
+investment.
+ENDSTOPD large change in the rate of interest and a relatively small change in the level of
+investment.</string>"
+    "<string name='apr2015_choices_22'>A governments are pursuing an expansionary monetary policy.
+ENDSTOPB high rates of interest are discouraging borrowing.
+ENDSTOPC banks are not holding excess cash reserves.
+ENDSTOPD all proceeds of loans are re-deposited with banks.</string>"
+    "<string name='apr2015_choices_23'>A 50
+ENDSTOPB 15
+ENDSTOPC 10
+ENDSTOPD none of the above</string>"
+    "<string name='apr2015_choices_24'>A national income will tend to increase.
+ENDSTOPB national income will tend to decrease.
+ENDSTOPC unemployment and production will tend to fall.
+ENDSTOPD the general level of prices will tend to fall.</string>"
+    "<string name='apr2015_choices_25'>A higher domestic interest rates and an exchange rate appreciation.
+ENDSTOPB higher domestic interest rates and an exchange rate depreciation.
+ENDSTOPC lower domestic interest rates and an exchange rate appreciation.
+ENDSTOPD lower domestic interest rates and an exchange rate depreciation.</string>"
+    "<string name='apr2015_choices_26'>A inflation and the exchange rate
+ENDSTOPB economic growth and unemployment
+ENDSTOPC inflation and economic growth
+ENDSTOPD unemployment and the exchange rate</string>"
+
+</resources>

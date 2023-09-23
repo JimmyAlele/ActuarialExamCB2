@@ -1,0 +1,130 @@
+<resources>
+    "<string name='sep2017_choices_1'>A Adverse selection describes the fact that people who know that they are a
+particularly bad risk are more inclined to take out insurance.
+ENDSTOPB Adverse selection describes the fact that a policyholder may act in a way
+which makes the insured event more likely to occur.
+ENDSTOPC Adverse selection describes the fact that people who know that they are a
+particularly bad risk are less inclined to take out insurance.
+ENDSTOPD Adverse selection describes the risk that an insurance company will face false
+insurance claims.</string>"
+    "<string name='sep2017_choices_2'>A entry into new markets
+ENDSTOPB risk sharing
+ENDSTOPC capital pooling
+ENDSTOPD to reduce overall managerial remuneration</string>"
+    "<string name='sep2017_choices_3'>A a firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC a firm charges each customer the maximum price that he/she is prepared to
+pay.
+ENDSTOPD different firms charge different prices for the same product.</string>"
+    "<string name='sep2017_choices_4'>A a perfect substitute
+ENDSTOPB an imperfect substitute
+ENDSTOPC a perfect complement
+ENDSTOPD an imperfect complement</string>"
+    "<string name='sep2017_choices_5'>A The income elasticity of demand is negative.
+ENDSTOPB The income elasticity of demand is between zero and one.
+ENDSTOPC The demand for the good increases as income falls.
+ENDSTOPD The demand will rise if its price falls.</string>"
+    "<string name='sep2017_choices_6'>A a market system.
+ENDSTOPB macroeconomics.
+ENDSTOPC competition.
+ENDSTOPD opportunity cost.</string>"
+    "<string name='sep2017_choices_7'>A to make the demand for the product more price elastic
+ENDSTOPB to shift the demand for the firm’s product to the right
+ENDSTOPC to increase barriers to entry
+ENDSTOPD to increase sales and so help the firm exploit economies of scale</string>"
+    "<string name='sep2017_choices_8'>A Marginal cost cannot exceed average total cost.
+ENDSTOPB Marginal cost is equal to average variable cost when average variable cost is at
+a minimum.
+ENDSTOPC Average fixed cost always falls as output rises.
+ENDSTOPD Average total cost exceeds average variable cost by an amount that declines
+with increasing output.</string>"
+    "<string name='sep2017_choices_9'>A decides on the viability of producing the by-product after it has made the
+decision to produce the main product.
+ENDSTOPB selects the level of output of the by-product where marginal cost of the byproduct
+equals its marginal revenue.
+ENDSTOPC selects the combined output where the combined marginal cost equals the
+combined marginal revenue.
+ENDSTOPD uses cost-based pricing for the main product and the by-product.</string>"
+    "<string name='sep2017_choices_10'>A In monopolistic competition, supernormal profits cannot be made in the long
+run.
+ENDSTOPB Price discrimination is impossible under perfect competition.
+ENDSTOPC Collusion may occur between firms in oligopolistic competition.
+ENDSTOPD A firm in perfect competition faces a perfectly inelastic demand curve.</string>"
+    "<string name='sep2017_choices_11'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect price.
+ENDSTOPC the firm has to reduce the price on all units sold in order to sell the additional
+unit.
+ENDSTOPD the law of diminishing returns directly affects the price of an imperfectly
+competitive firm’s product.</string>"
+    "<string name='sep2017_choices_12'>A There is a large number of firms.
+ENDSTOPB There is an absence of barriers to entry into the market.
+ENDSTOPC Demand for each firm is infinitely price elastic.
+ENDSTOPD The output decisions of one firm may exert a significant influence on other
+firms in the industry.</string>"
+    "<string name='sep2017_choices_13'>A the dominant firm hypothesis.
+ENDSTOPB collusion.
+ENDSTOPC non-cooperative oligopoly.
+ENDSTOPD product differentiation.</string>"
+    "<string name='sep2017_choices_14'>A a rise in the average price of imports relative to the average price of exports
+ENDSTOPB a fall in the quantity of imports relative to the quantity of exports
+ENDSTOPC a rise in the quantity of exports while imports remain the same
+ENDSTOPD a rise in the average price of exports relative to the average price of imports</string>"
+    "<string name='sep2017_choices_15'>A national income and interest rates will both rise
+ENDSTOPB national income and interest rates will both fall
+ENDSTOPC the effect on both national income and interest rates is uncertain
+ENDSTOPD national income will rise but the effect on interest rates is uncertain</string>"
+    "<string name='sep2017_choices_16'>A a fall in investment due to the associated rise in the interest rate
+ENDSTOPB a fall in consumer demand due to the fear of higher future taxes
+ENDSTOPC reduced import expenditure due to increased government demand for
+domestically produced goods
+ENDSTOPD a fall in demand for exports due to an exchange rate appreciation as a result of
+the associated rise in the interest rate</string>"
+    "<string name='sep2017_choices_17'>A the marginal cost curve cuts the marginal revenue curve.
+ENDSTOPB the marginal cost curve cuts the demand curve.
+ENDSTOPC the average cost curve cuts the marginal revenue curve.
+ENDSTOPD the average cost curve cuts the demand curve.</string>"
+    "<string name='sep2017_choices_18'>A increasing social security benefits
+ENDSTOPB increasing the money supply
+ENDSTOPC reducing corporate and personal taxation
+ENDSTOPD increasing government expenditure aimed at exploiting the multiplier effect</string>"
+    "<string name='sep2017_choices_19'>A rise and reduce money demand.
+ENDSTOPB rise and raise money demand.
+ENDSTOPC fall and reduce money demand.
+ENDSTOPD fall and raise money demand.</string>"
+    "<string name='sep2017_choices_20'>A The real rate of interest is positive.
+ENDSTOPB The expected rate of inflation is less than the real rate of interest.
+ENDSTOPC The real rate of interest is greater than the nominal rate of interest.
+ENDSTOPD The real rate of interest is –1%.</string>"
+    "<string name='sep2017_choices_21'>A a fall in the interest rate of Country A with an even bigger fall in Country B’s
+interest rate
+ENDSTOPB a fall in the interest rate of Country A with constant interest rate in Country B
+ENDSTOPC a rise in the interest rate of Country A with an even bigger rise in Country B’s
+interest rate
+ENDSTOPD a fall in the interest rate of Country A with a rise in the interest rate of Country
+B</string>"
+    "<string name='sep2017_choices_22'>A decrease and the domestic money supply will rise.
+ENDSTOPB decrease and the domestic money supply will fall.
+ENDSTOPC increase and the domestic money supply will rise.
+ENDSTOPD increase and the domestic money supply will fall.</string>"
+    "<string name='sep2017_choices_23'>A the total population.
+ENDSTOPB the total labour force.
+ENDSTOPC the number of employed.
+ENDSTOPD the number in the population who are of working age.</string>"
+    "<string name='sep2017_choices_24'>A fall and unemployment would rise.
+ENDSTOPB fall and unemployment would fall.
+ENDSTOPC rise and unemployment would fall.
+ENDSTOPD rise and unemployment would rise.</string>"
+    "<string name='sep2017_choices_25'>A the higher the level of prices, the lower will be the rate of unemployment.
+ENDSTOPB the higher the rate of inflation, the lower will be the rate of unemployment.
+ENDSTOPC the lower the level of prices, the lower will be the rate of unemployment.
+ENDSTOPD the higher the rate of inflation, the higher will be the rate of unemployment.</string>"
+    "<string name='sep2017_choices_26'>A salaries of school teachers
+ENDSTOPB net income from abroad
+ENDSTOPC company profits
+ENDSTOPD investment expenditure</string>"
+
+</resources>

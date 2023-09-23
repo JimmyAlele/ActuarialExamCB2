@@ -1,0 +1,129 @@
+<resources>
+    "<string name='apr2018_choices_1'>A Opportunity cost is equal to total revenue minus total variable cost.
+ENDSTOPB Opportunity cost is constant.
+ENDSTOPC Opportunity cost is the cost in terms of the best foregone alternative.
+ENDSTOPD Opportunity cost is the addition to total cost of producing one extra unit of a
+good.</string>"
+    "<string name='apr2018_choices_2'>A a decrease in labour productivity in industry X
+ENDSTOPB a fall in the price of raw materials used to produce Good X
+ENDSTOPC a decrease in wages in industry X
+ENDSTOPD a government subsidy on the production of Good X</string>"
+    "<string name='apr2018_choices_3'>A the demand for Good X to fall and price of Good X to fall
+ENDSTOPB the demand for Good X to fall and price of Good X to rise
+ENDSTOPC the demand for Good X to rise and price of Good X to fall
+ENDSTOPD the demand for Good X to rise and price of Good X to rise</string>"
+    "<string name='apr2018_choices_4'>A people who know they are a bad risk are more inclined to take out insurance.
+ENDSTOPB people who know they are a bad risk are less inclined to take out insurance.
+ENDSTOPC a policyholder may act in a way which makes an insured event less likely to
+occur.
+ENDSTOPD a policyholder may act in a way which makes an insured event more likely to
+occur.</string>"
+    "<string name='apr2018_choices_5'>A raise their price in the short run but restore the price back to its original level
+in the long run.
+ENDSTOPB keep their price constant in both the short run and the long run.
+ENDSTOPC raise their price in both the short run and the long run.
+ENDSTOPD keep their price constant in the short run but raise their price in the long run.</string>"
+    "<string name='apr2018_choices_6'>A marginal cost curve cuts the demand curve.
+ENDSTOPB marginal cost curve cuts the marginal revenue curve.
+ENDSTOPC average cost curve cuts the marginal revenue curve.
+ENDSTOPD average cost curve cuts the demand curve.</string>"
+    "<string name='apr2018_choices_7'>A significant economies of scale
+ENDSTOPB heavy potential advertising costs
+ENDSTOPC large capital requirements
+ENDSTOPD constant returns to scale</string>"
+    "<string name='apr2018_choices_8'>A £15,000
+ENDSTOPB £12,000
+ENDSTOPC £7,000
+ENDSTOPD not possible to calculate from the information given</string>"
+    "<string name='apr2018_choices_9'>A Under perfect competition, in the long run all firms produce where marginal
+costs equal average revenue.
+ENDSTOPB Under monopolistic competition firms produce differentiated products.
+ENDSTOPC Under oligopoly, firms make decisions taking into account the possible
+reactions of their competitors.
+ENDSTOPD Under monopoly, a profit maximising firm with positive marginal costs always
+produces in the region of price inelastic demand.</string>"
+    "<string name='apr2018_choices_10'>A attempts to maximise sales after assuming that the other firm will attempt to
+maximise sales.
+ENDSTOPB assumes the other firm will produce a given output and then chooses its profit
+maximising output.
+ENDSTOPC assumes the other firm’s price is given and then chooses its profit maximising
+price.
+ENDSTOPD will attempt to collude with the other firm so as to set a price and output level
+which will maximise industry level profits.</string>"
+    "<string name='apr2018_choices_11'>A The launch phase
+ENDSTOPB The growth phase
+ENDSTOPC The innovation phase
+ENDSTOPD The decline phase</string>"
+    "<string name='apr2018_choices_12'>A Tier 1 plus Tier 2 capital divided by total assets
+ENDSTOPB Tier 1 plus Tier 2 capital divided by risk weighted assets
+ENDSTOPC Tier 1 capital divided by total assets
+ENDSTOPD Tier 1 capital divided by risk weighted assets</string>"
+    "<string name='apr2018_choices_13'>A a rise in the average price of exports relative to the average price of imports
+ENDSTOPB a rise in the average price of imports relative to the average price of exports
+ENDSTOPC an appreciation of the domestic currency
+ENDSTOPD a rise in the domestic country’s terms of trade index from 100 to 120</string>"
+    "<string name='apr2018_choices_14'>A expansionary fiscal policy
+ENDSTOPB expansionary monetary policy
+ENDSTOPC better education and training
+ENDSTOPD a reduction in trade union powers</string>"
+    "<string name='apr2018_choices_15'>A Gross Domestic Product is greater than Gross National Income.
+ENDSTOPB Gross Domestic Product is less than Gross National Income.
+ENDSTOPC Gross Domestic Product is the same as Gross National Income.
+ENDSTOPD we cannot say whether Gross Domestic Product differs from Gross National
+Income from this information.</string>"
+    "<string name='apr2018_choices_16'>A 4.76%
+ENDSTOPB 5.0%
+ENDSTOPC 6.25%
+ENDSTOPD 6.67%</string>"
+    "<string name='apr2018_choices_17'>A an increase in interest rates
+ENDSTOPB a depreciation in its exchange rate
+ENDSTOPC a fall in government expenditure
+ENDSTOPD a decrease in business confidence</string>"
+    "<string name='apr2018_choices_18'>A the annual cycle of output.
+ENDSTOPB the long run trend path of output after removing short run variations.
+ENDSTOPC the periodic fluctuations of output around the long run trend.
+ENDSTOPD none of the above.</string>"
+    "<string name='apr2018_choices_19'>A lenders will gain at the expense of borrowers and employers will gain at the
+expense of workers.
+ENDSTOPB lenders will gain at the expense of borrowers and workers will gain at the
+expense of employers.
+ENDSTOPC borrowers will gain at the expense of lenders and employers will gain at the
+expense of workers.
+ENDSTOPD borrowers will gain at the expense of lenders and workers will gain at the
+expense of employers.</string>"
+    "<string name='apr2018_choices_20'>A a rise in the value of the fiscal multiplier.
+ENDSTOPB a decrease in the transactions demand for money.
+ENDSTOPC a rise in the rate of interest.
+ENDSTOPD an increase in the speculative demand for money.</string>"
+    "<string name='apr2018_choices_21'>A give an actual rate of unemployment which is temporarily greater than the
+natural rate.
+ENDSTOPB give an actual rate of unemployment which is temporarily lower than the
+natural rate.
+ENDSTOPC increase the natural rate of unemployment.
+ENDSTOPD decrease the natural rate of unemployment.</string>"
+    "<string name='apr2018_choices_22'>A investment is determined by the rate of change of national income.
+ENDSTOPB national income is determined by the rate of change of investment.
+ENDSTOPC investment is increased when interest rates fall.
+ENDSTOPD national income is increased when interest rates fall.</string>"
+    "<string name='apr2018_choices_23'>A an expansionary fiscal policy.
+ENDSTOPB an expansionary monetary policy.
+ENDSTOPC a contractionary fiscal policy.
+ENDSTOPD a contractionary monetary policy.</string>"
+    "<string name='apr2018_choices_24'>A higher domestic interest rates and an appreciation of the domestic currency.
+ENDSTOPB higher domestic interest rates and a depreciation of the domestic currency.
+ENDSTOPC lower domestic interest rates and an appreciation of the domestic currency.
+ENDSTOPD lower domestic interest rates and a depreciation of the domestic currency.</string>"
+    "<string name='apr2018_choices_25'>A increases in social security benefits designed to increase expenditures of
+unemployed workers
+ENDSTOPB measures designed to increase trade union powers so that real wage rises can
+increase expenditures of employed workers
+ENDSTOPC increases in Tariffs designed to increase production of domestic goods
+ENDSTOPD reduction in corporate taxation</string>"
+    "<string name='apr2018_choices_26'>A Exports become cheaper when measured in the foreign currency.
+ENDSTOPB Imports become more expensive when measured in the domestic currency.
+ENDSTOPC Export volumes will decrease.
+ENDSTOPD Import volumes will decrease.</string>"
+
+
+
+</resources>

@@ -1,0 +1,126 @@
+<resources>
+    "<string name='sep2021_choices_1'>A (i) only
+ENDSTOPB (ii) only
+ENDSTOPC (iii) only
+ENDSTOPD (i), (ii) and (iii).</string>"
+    "<string name='sep2021_choices_2'>A a market system.
+ENDSTOPB macroeconomics.
+ENDSTOPC competition.
+ENDSTOPD opportunity cost.</string>"
+    "<string name='sep2021_choices_3'>A the good becomes less expensive relative to all other products.
+ENDSTOPB the change in price causes a decline in purchasing power.
+ENDSTOPC the good becomes more expensive relative to all other products.
+ENDSTOPD the change in price causes an increase in purchasing power.</string>"
+    "<string name='sep2021_choices_4'>A Firms expect future prices to rise.
+ENDSTOPB At higher levels of output, firms will incur higher costs.
+ENDSTOPC The higher the price, the more profitable a good becomes to produce.
+ENDSTOPD Firms expect future prices to fall.</string>"
+    "<string name='sep2021_choices_5'>A 2%.
+ENDSTOPB 4%.
+ENDSTOPC 6%.
+ENDSTOPD 8%.</string>"
+    "<string name='sep2021_choices_6'>A less than the price.
+ENDSTOPB greater than the price.
+ENDSTOPC equal to the price.
+ENDSTOPD below average variable cost.</string>"
+    "<string name='sep2021_choices_7'>A produce at the lowest point of its long run average cost curve.
+ENDSTOPB have excess capacity.
+ENDSTOPC produce at a socially efficient output level.
+ENDSTOPD produce at the lowest point of its marginal cost curve.</string>"
+    "<string name='sep2021_choices_8'>A people who know that they are a particularly high risk are more inclined to
+take out insurance.
+ENDSTOPB people who know that they are a particularly high risk are less inclined to take
+out insurance.
+ENDSTOPC an insurance company will face false insurance claims.
+ENDSTOPD a policyholder may act in a way that makes the insured event more likely to
+occur.</string>"
+    "<string name='sep2021_choices_9'>A The marginal cost of producing the fourth item is greater than the marginal
+cost of producing the first item.
+ENDSTOPB The marginal cost of producing the fourth item is less than the marginal
+revenue from selling the fourth item.
+ENDSTOPC The marginal revenue from selling the sixth item is positive.
+ENDSTOPD The marginal revenue from selling the third item is greater than the marginal
+cost of producing the third item.</string>"
+    "<string name='sep2021_choices_10'>A A firm doubles its inputs of capital and labour and its output more than
+doubles.
+ENDSTOPB A firm doubles the number of products it produces and also doubles its
+research budget.
+ENDSTOPC A firm produces a new product and in so doing lowers the average cost of
+producing its existing products.
+ENDSTOPD A firm produces a new product and in so doing lowers the price it charges on
+its existing products.</string>"
+    "<string name='sep2021_choices_11'>A constant returns to scale.
+ENDSTOPB decreasing returns to scale.
+ENDSTOPC increasing returns to scale.
+ENDSTOPD the law of diminishing returns.</string>"
+    "<string name='sep2021_choices_12'>A Marginal physical product is equal to total physical product divided by
+average product.
+ENDSTOPB Average physical product is always greater than marginal physical product.
+ENDSTOPC Marginal physical product can never become negative.
+ENDSTOPD Average physical product can never become negative.</string>"
+    "<string name='sep2021_choices_13'>A Average physical product at 2 units of labour and marginal physical product at
+1 unit of labour
+ENDSTOPB Average physical product at 3 units of labour and marginal physical product at
+2 units of labour
+ENDSTOPC Average physical product at 4 units of labour and marginal physical product at
+3 units of labour
+ENDSTOPD Average physical product at 5 units of labour and marginal physical product at
+4 units of labour.</string>"
+    "<string name='sep2021_choices_14'>A raise their price in the short run but restore the price back to its original level
+in the long run.
+ENDSTOPB keep their price constant in both the short run and the long run.
+ENDSTOPC raise their price in both the short run and the long run.
+ENDSTOPD keep their price constant in the short run but raise their price in the long run.</string>"
+    "<string name='sep2021_choices_15'>A shut down its production.
+ENDSTOPB decrease its level of output but continue to produce carpets.
+ENDSTOPC reduce its fixed costs of production.
+ENDSTOPD increase its level of output.</string>"
+    "<string name='sep2021_choices_16'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect price.
+ENDSTOPC the firm has to reduce the price on all units sold in order to sell an additional
+unit.
+ENDSTOPD of the law of diminishing returns.</string>"
+    "<string name='sep2021_choices_17'>A €20,000
+ENDSTOPB €15,000
+ENDSTOPC €7,000
+ENDSTOPD €12,000.</string>"
+    "<string name='sep2021_choices_18'>A Increasing social security benefits
+ENDSTOPB Increasing the money supply
+ENDSTOPC Reducing corporate and personal taxation
+ENDSTOPD Increasing government expenditure aimed at exploiting the multiplier effect.</string>"
+    "<string name='sep2021_choices_19'>A an increase in aggregate demand and a reduction in real output.
+ENDSTOPB an increase in aggregate demand and an increase in real output.
+ENDSTOPC a reduction in aggregate demand and a reduction in real output.
+ENDSTOPD a reduction in aggregate demand and an increase in real output.</string>"
+    "<string name='sep2021_choices_20'>A 8%
+ENDSTOPB 11.1%
+ENDSTOPC 12.5%
+ENDSTOPD 13%.</string>"
+    "<string name='sep2021_choices_21'>A higher domestic interest rates and an exchange rate appreciation.
+ENDSTOPB higher domestic interest rates and an exchange rate depreciation.
+ENDSTOPC lower domestic interest rates and an exchange rate appreciation.
+ENDSTOPD lower domestic interest rates and an exchange rate depreciation.</string>"
+    "<string name='sep2021_choices_22'>A Increased government expenditure on domestically produced goods
+ENDSTOPB Increased money supply
+ENDSTOPC Reduced corporate and personal taxation
+ENDSTOPD A privatisation programme.</string>"
+    "<string name='sep2021_choices_23'>A an increase in the quantity of labour demanded.
+ENDSTOPB the labour supply curve to shift to the left.
+ENDSTOPC an increase in the quantity of labour supplied.
+ENDSTOPD the demand for labour curve to shift to the left.</string>"
+    "<string name='sep2021_choices_24'>A length of time for the typical job search increased.
+ENDSTOPB level of unemployment benefits paid to unemployed workers decreased.
+ENDSTOPC level of labour productivity rose.
+ENDSTOPD rate of inflation increased.</string>"
+    "<string name='sep2021_choices_25'>A rise and reduce money demand.
+ENDSTOPB rise and raise money demand.
+ENDSTOPC fall and reduce money demand.
+ENDSTOPD fall and raise money demand.</string>"
+    "<string name='sep2021_choices_26'>A fall in the real interest rate.
+ENDSTOPB rise in the nominal wage rate.
+ENDSTOPC rise in the real wage rate.
+ENDSTOPD rise in the nominal interest rate.</string>"
+
+</resources>

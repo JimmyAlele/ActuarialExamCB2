@@ -1,0 +1,127 @@
+<resources>
+    "<string name='apr2014_choices_1'>A Primary Production
+ENDSTOPB Secondary Production
+ENDSTOPC Tertiary Production
+ENDSTOPD Manufacturing Production</string>"
+    "<string name='apr2014_choices_2'>A 8 units of Good X.
+ENDSTOPB 10 units of Good X.
+ENDSTOPC 2 units of Good X.
+ENDSTOPD 1.25 units of Good X.</string>"
+    "<string name='apr2014_choices_3'>A its price decreases.
+ENDSTOPB the price of a substitute rises.
+ENDSTOPC the price of a complement rises.
+ENDSTOPD consumers’ incomes fall.</string>"
+    "<string name='apr2014_choices_4'>A The quantity that producers would like to sell annually.
+ENDSTOPB The quantity that producers are willing and able to sell at each income over the
+next year.
+ENDSTOPC The quantity that producers are willing and able to produce over the next year.
+ENDSTOPD The quantity that producers are willing and able to sell at each price annually.</string>"
+    "<string name='apr2014_choices_5'>A an excess supply of Good X.
+ENDSTOPB an excess demand for Good X.
+ENDSTOPC no tendency for the market price of Good X to change.
+ENDSTOPD an upward pressure on the price of Good X.</string>"
+    "<string name='apr2014_choices_6'>A The average cost for 11 units is greater than that for 10 units.
+ENDSTOPB The total fixed costs for 11 units are £165.
+ENDSTOPC The average fixed cost for 11 units is the same as the marginal cost of the 11th
+unit.
+ENDSTOPD The average fixed cost for 11 units is less than the marginal cost of the 11th
+unit.</string>"
+    "<string name='apr2014_choices_7'>A no change in price and a surplus.
+ENDSTOPB no change in price and a shortage.
+ENDSTOPC a fall in price and a fall in the quantity sold.
+ENDSTOPD a fall in price and a rise in the quantity sold.</string>"
+    "<string name='apr2014_choices_8'>A marginal cost of production.
+ENDSTOPB marginal benefit to consumers.
+ENDSTOPC average revenue of the monopolist.
+ENDSTOPD average cost of the monopolist.</string>"
+    "<string name='apr2014_choices_9'>A positive.
+ENDSTOPB above its average physical product.
+ENDSTOPC negative.
+ENDSTOPD falling.</string>"
+    "<string name='apr2014_choices_10'>A A firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB Consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC A firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPD Different firms charge different prices for the same product.</string>"
+    "<string name='apr2014_choices_11'>A Strategy 1
+ENDSTOPB Strategy 2
+ENDSTOPC Strategy 3
+ENDSTOPD Strategy 4</string>"
+    "<string name='apr2014_choices_12'>A not run the extra flight as it will expect to lose £4,500 from its profits.
+ENDSTOPB not run the extra flight as its expected profit of £500 is insufficient to cover its
+fixed costs.
+ENDSTOPC run the extra flight as it will add £500 to its profits or reduce losses by £500.
+ENDSTOPD run the extra flight as the expected revenue of £5,500 is more than its fixed
+costs.</string>"
+    "<string name='apr2014_choices_13'>A Demand for Good X is price elastic.
+ENDSTOPB A cut in the price of Good X will increase revenue for a firm producing
+Good X.
+ENDSTOPC Good X is a luxury good.
+ENDSTOPD Good X is an inferior good.</string>"
+    "<string name='apr2014_choices_14'>A £200 million
+ENDSTOPB £312.5 million
+ENDSTOPC £1,000 million
+ENDSTOPD £800 million</string>"
+    "<string name='apr2014_choices_15'>A A decrease in trade union powers.
+ENDSTOPB An appreciation of the domestic currency\'s exchange rate.
+ENDSTOPC A fall in labour productivity.
+ENDSTOPD A decrease in the profit margins applied by firms.</string>"
+    "<string name='apr2014_choices_16'>A lower short term interest rates because the aggregate demand curve shifts to
+the left.
+ENDSTOPB raise short term interest rates because the aggregate demand curve shifts to the
+left.
+ENDSTOPC lower short term interest rates because the aggregate demand curve shifts to
+the right.
+ENDSTOPD raise short term interest rates because the aggregate demand curve shifts to the
+right.</string>"
+    "<string name='apr2014_choices_17'>A fall and real output will rise.
+ENDSTOPB fall and real output will fall.
+ENDSTOPC rise and real output will rise.
+ENDSTOPD rise and real output will fall.</string>"
+    "<string name='apr2014_choices_18'>A The US dollar appreciates and the Chinese renminbi depreciates.
+ENDSTOPB The US dollar depreciates and the Chinese renminbi depreciates.
+ENDSTOPC The US dollar appreciates and the Chinese renminbi appreciates.
+ENDSTOPD The US dollar depreciates and the Chinese renminbi appreciates.</string>"
+    "<string name='apr2014_choices_19'>A (i) increase, (ii) decrease
+ENDSTOPB (i) increase, (ii) increase
+ENDSTOPC (i) decrease, (ii) increase
+ENDSTOPD (i) decrease, (ii) decrease</string>"
+    "<string name='apr2014_choices_20'>A national income falls.
+ENDSTOPB national income rises.
+ENDSTOPC governments decrease the personal income tax rate.
+ENDSTOPD government expenditure increases.</string>"
+    "<string name='apr2014_choices_21'>A frictional unemployment and structural unemployment.
+ENDSTOPB regional unemployment and seasonal unemployment.
+ENDSTOPC structural unemployment and regional unemployment.
+ENDSTOPD frictional unemployment and seasonal unemployment.</string>"
+    "<string name='apr2014_choices_22'>A an expansionary fiscal policy.
+ENDSTOPB an expansionary monetary policy.
+ENDSTOPC a contractionary fiscal policy.
+ENDSTOPD a contractionary monetary policy.</string>"
+    "<string name='apr2014_choices_23'>A velocity of circulation decreases.
+ENDSTOPB real national income increases.
+ENDSTOPC velocity of circulation and nominal national income are constant.
+ENDSTOPD velocity of circulation and the real national income are constant.</string>"
+    "<string name='apr2014_choices_24'>A reduce the domestic price of the imported good.
+ENDSTOPB increase domestic consumption of the imported good.
+ENDSTOPC increase domestic production of the imported good.
+ENDSTOPD increase the quantity imported of the good.</string>"
+    "<string name='apr2014_choices_25'>A buy the euro in the foreign exchange market and increase its foreign exchange
+reserves.
+ENDSTOPB buy the euro in the foreign exchange market and decrease its foreign exchange
+reserves.
+ENDSTOPC sell the euro in the foreign exchange market and increase its foreign exchange
+reserves.
+ENDSTOPD sell the euro in the foreign exchange market and decrease its foreign exchange
+reserves.</string>"
+    "<string name='apr2014_choices_26'>A A fall in the price of its imports combined with a rise in the price of its
+exports.
+ENDSTOPB A fall in the price of its imports combined with a fall in the price of its exports.
+ENDSTOPC A rise in the price of its imports combined with a rise in the price of its
+exports.
+ENDSTOPD A rise in the price of its imports combined with a fall in the price of its
+exports.</string>"
+
+
+</resources>

@@ -1,0 +1,112 @@
+<resources>
+    "<string name='apr2011_choices_1'>A Opportunity cost is equal to total revenue minus total variable cost.
+ENDSTOPB Opportunity cost is constant.
+ENDSTOPC Opportunity cost is the cost in terms of the best foregone alternative.
+ENDSTOPD Opportunity cost is equal to a firm’s supernormal profits.</string>"
+    "<string name='apr2011_choices_2'>A Demand to watch football has a high price elasticity.
+ENDSTOPB Consumer preference has changed in favour of watching football.
+ENDSTOPC Demand to watch football has a very low price elasticity.
+ENDSTOPD The prices of alternative attractions have fallen.</string>"
+    "<string name='apr2011_choices_3'>A rise.
+ENDSTOPB be indeterminate.
+ENDSTOPC fall.
+ENDSTOPD remain unchanged.</string>"
+    "<string name='apr2011_choices_4'>A provide a means of allocating resources.
+ENDSTOPB ensure that consumer wants are satisfied.
+ENDSTOPC enable the government to control prices.
+ENDSTOPD ensure the goods that society needs are produced.</string>"
+    "<string name='apr2011_choices_5'>A There would be a surplus on the market and bread producers’ income would
+fall.
+ENDSTOPB There would be an equilibrium in the market but the change in bread
+producers’ income would be uncertain.
+ENDSTOPC There would be a shortage on the market and bread producers’ income would
+rise.
+ENDSTOPD There would be a surplus on the market but the change in bread producers’
+income would be uncertain.</string>"
+    "<string name='apr2011_choices_6'>A It is −1.
+ENDSTOPB It is infinite elasticity.
+ENDSTOPC It is +1.
+ENDSTOPD It is zero elasticity.</string>"
+    "<string name='apr2011_choices_7'>A Firms expect future prices to rise.
+ENDSTOPB At higher levels of output firms will incur higher costs.
+ENDSTOPC The higher the price the more profitable it becomes to produce.
+ENDSTOPD The price of a good remains high over a given time period.</string>"
+    "<string name='apr2011_choices_8'>A people are risk lovers.
+ENDSTOPB people are risk averse.
+ENDSTOPC people are risk diversifiers.
+ENDSTOPD people are risk neutral.</string>"
+    "<string name='apr2011_choices_9'>A The curve will shift to the left and become more inelastic.
+ENDSTOPB The curve will shift to the right and become less elastic.
+ENDSTOPC The curve will shift to the left and become more elastic.
+ENDSTOPD The curve will shift to the right and become less inelastic.</string>"
+    "<string name='apr2011_choices_10'>A Total revenue is less than total costs.
+ENDSTOPB Total revenue is less than total fixed costs.
+ENDSTOPC Average revenue is less than average fixed cost.
+ENDSTOPD Average revenue is less than average variable cost.</string>"
+    "<string name='apr2011_choices_11'>A Firms are free to enter and leave the market.
+ENDSTOPB Firms produce differentiated products.
+ENDSTOPC Firms cannot earn abnormal profits in the short run.
+ENDSTOPD There must be a large number of small firms.</string>"
+    "<string name='apr2011_choices_12'>A 2,000 units.
+ENDSTOPB 1,750 units.
+ENDSTOPC 250 units.
+ENDSTOPD None of the above.</string>"
+    "<string name='apr2011_choices_13'>A increase their price and increase output.
+ENDSTOPB lower their price and increase output.
+ENDSTOPC increase their price and lower output.
+ENDSTOPD lower their price and lower output.</string>"
+    "<string name='apr2011_choices_14'>A New markets
+ENDSTOPB Risk sharing
+ENDSTOPC Capital pooling
+ENDSTOPD Economies of scale</string>"
+    "<string name='apr2011_choices_15'>A 75
+ENDSTOPB 120
+ENDSTOPC 125
+ENDSTOPD 150</string>"
+    "<string name='apr2011_choices_16'>A comparative advantage.
+ENDSTOPB absolute advantage.
+ENDSTOPC different factor endowments.
+ENDSTOPD all of the above.</string>"
+    "<string name='apr2011_choices_17'>A A decrease in interest rates.
+ENDSTOPB A rise in exchange rates.
+ENDSTOPC A rise in government expenditure.
+ENDSTOPD An increase in business confidence.</string>"
+    "<string name='apr2011_choices_18'>A unemployment will fall.
+ENDSTOPB the balance of trade will tend to improve.
+ENDSTOPC inflation will tend to rise.
+ENDSTOPD national income will rise.</string>"
+    "<string name='apr2011_choices_19'>A Frictional unemployment
+ENDSTOPB Cyclical unemployment
+ENDSTOPC Seasonal unemployment
+ENDSTOPD Structural unemployment</string>"
+    "<string name='apr2011_choices_20'>A £150 million
+ENDSTOPB £130 million
+ENDSTOPC £120 million
+ENDSTOPD £110 million</string>"
+    "<string name='apr2011_choices_21'>A Decrease interest rates and increase income tax rates.
+ENDSTOPB Increase interest rates and leave income tax rates unchanged.
+ENDSTOPC Decrease interest rates and decrease income tax rates.
+ENDSTOPD Increase interest rates and increase income tax rates.</string>"
+    "<string name='apr2011_choices_22'>A Visible payments
+ENDSTOPB Income flows
+ENDSTOPC Portfolio investment
+ENDSTOPD Direct investment</string>"
+    "<string name='apr2011_choices_23'>A Lower the bank’s liquidity ratio and increase the bank deposits multiplier.
+ENDSTOPB Increase the bank’s liquidity ratio and lower the bank deposits multiplier.
+ENDSTOPC Lower the bank’s liquidity ratio and leave the bank deposits multiplier
+unchanged.
+ENDSTOPD The effect on the bank’s liquidity ratio and the bank deposits multiplier will be
+uncertain.</string>"
+    "<string name='apr2011_choices_24'>A An increase in the frequency of payments to individuals.
+ENDSTOPB An increase in real Gross Domestic Product.
+ENDSTOPC A decrease in the rate of interest.
+ENDSTOPD An increase in prices.</string>"
+    "<string name='apr2011_choices_25'>A Inflation and the exchange rate
+ENDSTOPB Economic growth and unemployment
+ENDSTOPC Inflation and economic growth
+ENDSTOPD Unemployment and the exchange rate</string>"
+    "<string name='apr2011_choices_26'>A governments are pursuing an expansionary monetary policy.
+ENDSTOPB high rates of interest are discouraging borrowing.
+ENDSTOPC banks are not holding excess cash reserves.
+ENDSTOPD all proceeds of loans are re-deposited with banks.</string>"
+</resources>

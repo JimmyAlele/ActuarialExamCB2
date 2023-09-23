@@ -1,0 +1,119 @@
+<resources>
+    "<string name='sep2018_choices_1'>A equal to total revenue minus total variable cost.
+ENDSTOPB constant.
+ENDSTOPC the cost in terms of the best foregone alternative.
+ENDSTOPD equal to a firm’s supernormal profits.</string>"
+    "<string name='sep2018_choices_2'>A An increase in consumers’ incomes.
+ENDSTOPB A rise in the price of cars.
+ENDSTOPC An increase in the price of petrol.
+ENDSTOPD An increase in the price charged to use public transport.</string>"
+    "<string name='sep2018_choices_3'>A increase the demand for fruit sorbet and strawberries.
+ENDSTOPB decrease the demand for fruit sorbet and increase the demand for strawberries.
+ENDSTOPC decrease the demand for fruit sorbet and strawberries.
+ENDSTOPD increase the demand for fruit sorbet and decrease the demand for strawberries.</string>"
+    "<string name='sep2018_choices_4'>A risk lovers.
+ENDSTOPB risk averse.
+ENDSTOPC risk seekers.
+ENDSTOPD risk neutral.</string>"
+    "<string name='sep2018_choices_5'>A Moral hazard describes the fact that people who know that they are a
+particularly bad risk are more inclined to take out insurance.
+ENDSTOPB Moral hazard describes the fact that a policyholder may act in a way which
+makes the insured event more likely to occur.
+ENDSTOPC Moral hazard describes the fact that people who know that they are a
+particularly bad risk are less inclined to take out insurance.
+ENDSTOPD Moral hazard describes the risk that an insurance company will face false
+insurance claims.</string>"
+    "<string name='sep2018_choices_6'>A different consumers’ tastes but not different quality products.
+ENDSTOPB same quality products.
+ENDSTOPC different quality products with different production costs.
+ENDSTOPD different varieties of the same product offered at the same price.</string>"
+    "<string name='sep2018_choices_7'>A short run average total cost falls as output rises.
+ENDSTOPB long run average total cost falls as output rises.
+ENDSTOPC long run average total cost rises as output rises.
+ENDSTOPD short run average total cost rises as output rises.</string>"
+    "<string name='sep2018_choices_8'>A average physical product falls.
+ENDSTOPB average physical product rises.
+ENDSTOPC marginal physical product falls.
+ENDSTOPD marginal physical product rises.</string>"
+    "<string name='sep2018_choices_9'>A Marginal cost exceeds average variable cost.
+ENDSTOPB Marginal cost equals average variable cost.
+ENDSTOPC Marginal cost is less than average variable cost.
+ENDSTOPD Marginal cost exceeds average total cost.</string>"
+    "<string name='sep2018_choices_10'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect price.
+ENDSTOPC the firm has to reduce the price on all previous units sold in order to sell the
+additional unit.
+ENDSTOPD the law of diminishing returns directly affects the price of an imperfectly
+competitive firm’s product.</string>"
+    "<string name='sep2018_choices_11'>A Establishment of world brands.
+ENDSTOPB Increasing travel, creating global consumers.
+ENDSTOPC Per capita income converging among industrialised nations.
+ENDSTOPD Reduction of tariff barriers.</string>"
+    "<string name='sep2018_choices_12'>A comparative advantage.
+ENDSTOPB absolute advantage.
+ENDSTOPC different factor endowments.
+ENDSTOPD all of the above.</string>"
+    "<string name='sep2018_choices_13'>A increases in a recession and falls in a boom.
+ENDSTOPB arises when the unemployed lack the skills needed by newly created jobs.
+ENDSTOPC arises when those seeking work give up hope of finding a job.
+ENDSTOPD occurs as the result of a transition from one job to another.</string>"
+    "<string name='sep2018_choices_14'>A 5.9%
+ENDSTOPB 5.3%
+ENDSTOPC 5.0%
+ENDSTOPD 6.3%</string>"
+    "<string name='sep2018_choices_15'>A decreases and national income is lower.
+ENDSTOPB decreases and national income is higher.
+ENDSTOPC increases and national income is lower.
+ENDSTOPD increases and national income is higher.</string>"
+    "<string name='sep2018_choices_16'>A Menu costs.
+ENDSTOPB Cost of employing extra resources.
+ENDSTOPC Arbitrary redistribution of wealth from lenders to borrowers.
+ENDSTOPD Arbitrary redistribution of wealth from borrowers to lenders.</string>"
+    "<string name='sep2018_choices_17'>A Savings, taxes and investment are withdrawals.
+ENDSTOPB Exports, imports and government expenditure are withdrawals.
+ENDSTOPC Investment, government expenditure and exports are injections.
+ENDSTOPD Investment, exports and consumption are injections.</string>"
+    "<string name='sep2018_choices_18'>A I only.
+ENDSTOPB II only.
+ENDSTOPC I and II only.
+ENDSTOPD I, II and III.</string>"
+    "<string name='sep2018_choices_19'>A The US dollar could appreciate and the Chinese renminbi depreciate.
+ENDSTOPB The US dollar could depreciate and the Chinese renminbi depreciate.
+ENDSTOPC The US dollar could appreciate and the Chinese renminbi appreciate.
+ENDSTOPD The US dollar could depreciate and the Chinese renminbi appreciate.</string>"
+    "<string name='sep2018_choices_20'>A speculative motive for holding money.
+ENDSTOPB transactions motive for holding money.
+ENDSTOPC precautionary motive for holding money.
+ENDSTOPD asset motive for holding money.</string>"
+    "<string name='sep2018_choices_21'>A The sale of Treasury Bills in the financial markets.
+ENDSTOPB A demand for special deposits from the commercial banks to be placed with
+the central bank.
+ENDSTOPC A rise in the central bank lending rate.
+ENDSTOPD A lowering of the reserve requirements on commercial banks.</string>"
+    "<string name='sep2018_choices_22'>A the influence of fiscal policy on the level of inflation and unemployment.
+ENDSTOPB the influence of monetary policy on the level of inflation and unemployment.
+ENDSTOPC a negative relationship between inflation and unemployment.
+ENDSTOPD a positive relationship between inflation and unemployment.</string>"
+    "<string name='sep2018_choices_23'>A an increase in the quantity of labour demanded.
+ENDSTOPB the labour supply curve to shift to the left.
+ENDSTOPC an increase in the quantity of labour supplied.
+ENDSTOPD the demand for the labour curve to shift to the left.</string>"
+    "<string name='sep2018_choices_24'>A Time lags.
+ENDSTOPB Uncertainty.
+ENDSTOPC Crowding out.
+ENDSTOPD The accelerator.</string>"
+    "<string name='sep2018_choices_25'>A an increase in aggregate demand and a reduction in real output and
+unemployment.
+ENDSTOPB an increase in aggregate demand, real output and unemployment.
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment.
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment.</string>"
+    "<string name='sep2018_choices_26'>A government expenditure.
+ENDSTOPB taxation.
+ENDSTOPC money supply.
+ENDSTOPD transfer payments.</string>"
+
+</resources>

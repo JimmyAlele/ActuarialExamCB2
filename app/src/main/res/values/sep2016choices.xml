@@ -1,0 +1,126 @@
+<resources>
+    "<string name='sep2016_choices_1'>A the establishment of freedom of entry and exit.
+ENDSTOPB the establishment of a system of market prices.
+ENDSTOPC a choice between the production of consumer goods and the sacrifice of
+alternatives.
+ENDSTOPD a decision to be made on the degree to which capital will be used in the
+production process rather than labour.</string>"
+    "<string name='sep2016_choices_2'>A constant.
+ENDSTOPB equal to a firm’s supernormal profits.
+ENDSTOPC equal to total revenue minus total variable cost.
+ENDSTOPD the cost in terms of the best foregone alternative.</string>"
+    "<string name='sep2016_choices_3'>A Price rises, quantity demanded falls and quantity supplied rises.
+ENDSTOPB Price rises, quantity demanded falls and quantity supplied falls.
+ENDSTOPC Price falls, quantity demanded rises and quantity supplied falls.
+ENDSTOPD Price falls, quantity demanded rises and quantity supplied rises.</string>"
+    "<string name='sep2016_choices_4'>A The prices of alternative attractions have fallen.
+ENDSTOPB Demand to watch football has a high price elasticity.
+ENDSTOPC Demand to watch football has a low price elasticity.
+ENDSTOPD Consumer preference has changed in favour of watching football.</string>"
+    "<string name='sep2016_choices_5'>A risk lovers.
+ENDSTOPB risk averse.
+ENDSTOPC risk neutral.
+ENDSTOPD risk diversifiers.</string>"
+    "<string name='sep2016_choices_6'>A higher for A than for ENDSTOPB and A will have a higher total utility.
+B higher for A than for B and A will have a lower total utility.
+ENDSTOPC lower for A than for B and A will have a higher total utility.
+ENDSTOPD lower for A than for B and A will have a lower total utility.</string>"
+    "<string name='sep2016_choices_7'>A same quality products.
+ENDSTOPB different quality products with different production costs.
+ENDSTOPC different consumers’ tastes but not different quality products.
+ENDSTOPD different varieties of the same product offered at the same price.</string>"
+    "<string name='sep2016_choices_8'>A When the input of both capital and labour doubles, output doubles.
+ENDSTOPB When the input of both capital and labour doubles, output remains constant.
+ENDSTOPC When the ratio of labour to capital doubles, the output of the firm also
+doubles.
+ENDSTOPD When more labour is added to a given amount of capital, the marginal physical
+product of labour remains unchanged.</string>"
+    "<string name='sep2016_choices_9'>A uses cost-based pricing for the main and the by-product.
+ENDSTOPB selects the combined output where the combined marginal cost equals the
+combined marginal revenue.
+ENDSTOPC decides on the viability of producing the by-product after it has made the
+decision to produce the main product.
+ENDSTOPD selects the level of output of the by-product where the marginal cost of the byproduct
+equals its marginal revenue.</string>"
+    "<string name='sep2016_choices_10'>A Marginal cost exceeds average total cost.
+ENDSTOPB Marginal cost equals average variable cost.
+ENDSTOPC Marginal cost exceeds average variable cost.
+ENDSTOPD Marginal cost is less than average variable cost.</string>"
+    "<string name='sep2016_choices_11'>A Collusion may occur between firms in oligopolistic competition.
+ENDSTOPB A firm in perfect competition faces a perfectly inelastic demand curve.
+ENDSTOPC In monopolistic competition, supernormal profits cannot be made in the long
+run.
+ENDSTOPD Price discrimination would allow the monopolist to produce the socially
+efficient level of output.</string>"
+    "<string name='sep2016_choices_12'>A Product proliferation.
+ENDSTOPB Constant returns to scale.
+ENDSTOPC Investment in spare capacity.
+ENDSTOPD High advertising expenditure.</string>"
+    "<string name='sep2016_choices_13'>A merger.
+ENDSTOPB franchise.
+ENDSTOPC joint venture.
+ENDSTOPD licensing agreement.</string>"
+    "<string name='sep2016_choices_14'>A trade account
+ENDSTOPB current account
+ENDSTOPC capital account
+ENDSTOPD financial account</string>"
+    "<string name='sep2016_choices_15'>A regional.
+ENDSTOPB structural.
+ENDSTOPC technological.
+ENDSTOPD demand-deficient.</string>"
+    "<string name='sep2016_choices_16'>A increase the money supply
+ENDSTOPB increase unemployment benefit
+ENDSTOPC increase government expenditure
+ENDSTOPD increase information flows on job availability</string>"
+    "<string name='sep2016_choices_17'>A an appreciation of the domestic currency
+ENDSTOPB a decrease in interest rates
+ENDSTOPC a rise in government expenditure
+ENDSTOPD an increase in business confidence</string>"
+    "<string name='sep2016_choices_18'>A reduce both output and employment.
+ENDSTOPB increase both output and employment.
+ENDSTOPC increase output and reduce employment.
+ENDSTOPD reduce output and increase employment.</string>"
+    "<string name='sep2016_choices_19'>A the long run trend path of output after removing short run variations.
+ENDSTOPB the periodic fluctuations of output around the long run trend.
+ENDSTOPC the annual cycle of output.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2016_choices_20'>A a decrease in direct taxes
+ENDSTOPB an increase in consumer expenditure
+ENDSTOPC a depreciation of the domestic currency
+ENDSTOPD a decrease in imported commodity prices</string>"
+    "<string name='sep2016_choices_21'>A company profits
+ENDSTOPB investment expenditure
+ENDSTOPC net income from abroad
+ENDSTOPD salaries of school teachers</string>"
+    "<string name='sep2016_choices_22'>A zero.
+ENDSTOPB +£100 million.
+ENDSTOPC £100 million.
+ENDSTOPD +£500 million.</string>"
+    "<string name='sep2016_choices_23'>A a relatively small change in both the rate of interest and the level of
+investment.
+ENDSTOPB a relatively large change in both the rate of interest and the level of
+investment.
+ENDSTOPC a relatively large change in the rate of interest and a relatively small change in
+the level of investment.
+ENDSTOPD a relatively small change in the rate of interest and a relatively large change in
+the level of investment.</string>"
+    "<string name='sep2016_choices_24'>A The demand for money is negatively related to the interest rate.
+ENDSTOPB The demand for money is negatively related to wealth.
+ENDSTOPC The demand for money is negatively related to the general price level.
+ENDSTOPD The demand for money is negatively related to real income.</string>"
+    "<string name='sep2016_choices_25'>A reduce the cash reserves of commercial banks and reduce the monetary base.
+ENDSTOPB reduce the cash reserves of commercial banks and increase the monetary base.
+ENDSTOPC increase the cash reserves of commercial banks and reduce the monetary base.
+ENDSTOPD increase the cash reserves of commercial banks and increase the monetary
+base.</string>"
+    "<string name='sep2016_choices_26'>A reduce the demand for money, reduce interest rates and cause investment to
+rise.
+ENDSTOPB increase the demand for money, reduce interest rates and cause investment to
+rise.
+ENDSTOPC reduce the demand for money, increase interest rates and cause investment to
+fall.
+ENDSTOPD increase the demand for money, increase interest rates and cause investment to
+fall.</string>"
+
+
+</resources>

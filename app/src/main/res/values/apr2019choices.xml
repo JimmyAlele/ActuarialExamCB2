@@ -1,0 +1,116 @@
+<resources>
+    "<string name='apr2019_choices_1'>A Price elasticity of demand is minus one and price falls.
+ENDSTOPB Demand is price elastic and price falls.
+ENDSTOPC Demand is price inelastic and price falls.
+ENDSTOPD Demand is price inelastic and price rises.</string>"
+    "<string name='apr2019_choices_2'>A 1.33 units of Good X.
+ENDSTOPB 2 units of Good X.
+ENDSTOPC 8 units of Good X.
+ENDSTOPD 10 units of Good X.</string>"
+    "<string name='apr2019_choices_3'>A An increase in labour productivity in industry X.
+ENDSTOPB A fall in the price of raw materials used to produce Good X.
+ENDSTOPC An increase in wages in industry X.
+ENDSTOPD A government subsidy on the production of Good X.</string>"
+    "<string name='apr2019_choices_4'>A A rise in the price charged to consumers of more than £7.50.
+ENDSTOPB A rise in the price charged to consumers of £7.50.
+ENDSTOPC A rise in the price charged to consumers of between £5 and £7.50.
+ENDSTOPD A rise in the price charged to consumers of less than £5.</string>"
+    "<string name='apr2019_choices_5'>A 125 units.
+ENDSTOPB 95 units.
+ENDSTOPC 80 units.
+ENDSTOPD 70 units.</string>"
+    "<string name='apr2019_choices_6'>A (i) only
+ENDSTOPB (i) and (ii) only
+ENDSTOPC (i) and (iii) only
+ENDSTOPD (i), (ii) and (iii)</string>"
+    "<string name='apr2019_choices_7'>A The long run average total cost curve passes through the minimum point of all
+the short run average total cost curves.
+ENDSTOPB The minimum efficient scale is the point at which long run average costs must
+begin to fall.
+ENDSTOPC In the long run a firm cannot alter its fixed costs of production.
+ENDSTOPD If a firm doubles all its inputs and its output rises by 50 per cent then this is
+indicative of diseconomies of scale.</string>"
+    "<string name='apr2019_choices_8'>A greater than one.
+ENDSTOPB equal to zero.
+ENDSTOPC between zero and one.
+ENDSTOPD one.</string>"
+    "<string name='apr2019_choices_9'>A Under perfect competition, in the long run all firms make only normal profits.
+ENDSTOPB Firms under monopolistic competition produce homogeneous products.
+ENDSTOPC Under oligopoly, firms make decisions taking into account the possible
+reactions of their competitors.
+ENDSTOPD A profit maximising monopoly will equate its marginal costs to its marginal
+revenue.</string>"
+    "<string name='apr2019_choices_10'>A Equilibrium price will be equal to marginal cost.
+ENDSTOPB There are no barriers to entry.
+ENDSTOPC The average revenue curve is greater than the marginal revenue curve.
+ENDSTOPD Only normal profits are made in the long run.</string>"
+    "<string name='apr2019_choices_11'>A increase price and reduce output.
+ENDSTOPB reduce price and reduce output.
+ENDSTOPC increase price and increase output.
+ENDSTOPD close down.</string>"
+    "<string name='apr2019_choices_12'>A rightward shift of the supply curve for Good X.
+ENDSTOPB leftward shift of the supply curve for Good X.
+ENDSTOPC rightward shift of the demand curve for Good X.
+ENDSTOPD leftward shift of the demand curve for Good X.</string>"
+    "<string name='apr2019_choices_13'>A 20
+ENDSTOPB 30
+ENDSTOPC 40
+ENDSTOPD 50</string>"
+    "<string name='apr2019_choices_14'>A gross fixed capital formation.
+ENDSTOPB capital depreciation.
+ENDSTOPC consumption expenditure.
+ENDSTOPD net income from abroad.</string>"
+    "<string name='apr2019_choices_15'>A The multiplier has a value of greater than 4.
+ENDSTOPB At the equilibrium level of income, consumption expenditure is £260 million.
+ENDSTOPC The economy is in equilibrium if output is £300 million.
+ENDSTOPD None of the above.</string>"
+    "<string name='apr2019_choices_16'>A rise as the short-term interest rate falls.
+ENDSTOPB rise as the short-term interest rate rises.
+ENDSTOPC fall as the short-term interest rate rises.
+ENDSTOPD fall as the short-term interest rate falls.</string>"
+    "<string name='apr2019_choices_17'>A (i) increase, (ii) decrease
+ENDSTOPB (i) increase, (ii) increase
+ENDSTOPC (i) decrease, (ii) increase
+ENDSTOPD (i) decrease, (ii) decrease</string>"
+    "<string name='apr2019_choices_18'>A £150 million
+ENDSTOPB £130 million
+ENDSTOPC £120 million
+ENDSTOPD £110 million</string>"
+    "<string name='apr2019_choices_19'>A Decrease interest rates and increase income tax rates.
+ENDSTOPB Increase interest rates and decrease income tax rates.
+ENDSTOPC Decrease interest rates and decrease income tax rates.
+ENDSTOPD Increase interest rates and increase income tax rates.</string>"
+    "<string name='apr2019_choices_20'>A the government spends more money.
+ENDSTOPB the government buys Treasury bills from the public.
+ENDSTOPC a citizen buys a newly issued corporate bond.
+ENDSTOPD a firm obtains an overdraft from a bank.</string>"
+    "<string name='apr2019_choices_21'>A Exports become less expensive when measured in the foreign currency.
+ENDSTOPB Imports become cheaper when measured in the domestic currency.
+ENDSTOPC Export volumes will increase.
+ENDSTOPD Import volumes will decrease.</string>"
+    "<string name='apr2019_choices_22'>A Increased government expenditure on domestically produced goods.
+ENDSTOPB Increasing the money supply.
+ENDSTOPC Reducing the general level of interest rates to increase the supply of loans.
+ENDSTOPD A privatisation programme.</string>"
+    "<string name='apr2019_choices_23'>A An increase in the marginal propensity to save.
+ENDSTOPB An increase in government expenditure.
+ENDSTOPC An increase in the marginal propensity to consume.
+ENDSTOPD An increase in income tax rates.</string>"
+    "<string name='apr2019_choices_24'>A Interest rates must have risen.
+ENDSTOPB The velocity of circulation must have fallen.
+ENDSTOPC The price level must have risen by the same proportion as the increase in the
+money supply.
+ENDSTOPD Taxes must have risen.</string>"
+    "<string name='apr2019_choices_25'>A unemployment benefit.
+ENDSTOPB government expenditure.
+ENDSTOPC information on job availability.
+ENDSTOPD the money supply.</string>"
+    "<string name='apr2019_choices_26'>A increase and the domestic money supply will fall.
+ENDSTOPB increase and the domestic money supply will rise.
+ENDSTOPC decrease and the domestic money supply will rise.
+ENDSTOPD decrease and the domestic money supply will fall.</string>"
+
+
+
+
+</resources>

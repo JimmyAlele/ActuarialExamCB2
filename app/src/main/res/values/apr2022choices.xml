@@ -1,0 +1,117 @@
+<resources>
+    "<string name='apr2022_choices_1'>A A rise in the price of cars
+ENDSTOPB A fall in the price of public transport
+ENDSTOPC A fall in car insurance premiums
+ENDSTOPD A rise in consumers’ incomes.</string>"
+    "<string name='apr2022_choices_2'>A The use of the price mechanism to solve the question of what to produce
+ENDSTOPB A minimal role for government
+ENDSTOPC State ownership of the most important industries and private ownership of the
+other industries
+ENDSTOPD Freedom of entry and exit into various industries.</string>"
+    "<string name='apr2022_choices_3'>A 1/4 of a unit of Good Y.
+ENDSTOPB 4 units of Good Y.
+ENDSTOPC 10 units of Good Y.
+ENDSTOPD 20 units of Good Y.</string>"
+    "<string name='apr2022_choices_4'>A A fall in consumers’ incomes
+ENDSTOPB A rise in the price of Good X
+ENDSTOPC A fall in the price of a substitute Good Y
+ENDSTOPD A rise in the price of a complementary Good Y.</string>"
+    "<string name='apr2022_choices_5'>A An increase in labour productivity in the production of Good X
+ENDSTOPB A fall in price of inputs used to produce Good X
+ENDSTOPC An increase in real wages for workers producing Good X
+ENDSTOPD A government subsidy on the production of Good X.</string>"
+    "<string name='apr2022_choices_6'>A 208 units.
+ENDSTOPB 216 units.
+ENDSTOPC 75 units.
+ENDSTOPD 50 units.</string>"
+    "<string name='apr2022_choices_7'>A one unit of Good X and four units of Good Y.
+ENDSTOPB two units of Good X and three units of Good Y.
+ENDSTOPC three units of Good X and two units of Good Y.
+ENDSTOPD four units of Good X and one unit of Good Y.</string>"
+    "<string name='apr2022_choices_8'>A consumer has reached a point of equilibrium with respect to the consumption
+of Good X.
+ENDSTOPB consumer is consuming too much of Good X and should decrease their
+consumption to obtain positive marginal utility.
+ENDSTOPC consumer can increase their total utility by reducing consumption of Good X.
+ENDSTOPD total utility from consuming Good X must be zero.</string>"
+    "<string name='apr2022_choices_9'>A average variable cost.
+ENDSTOPB average fixed cost.
+ENDSTOPC marginal cost.
+ENDSTOPD average total cost.</string>"
+    "<string name='apr2022_choices_10'>A In the long run, firms make only normal profits.
+ENDSTOPB Price is equal to marginal cost.
+ENDSTOPC Price is equal to average revenue.
+ENDSTOPD An individual firm can raise its price without losing all its customers.</string>"
+    "<string name='apr2022_choices_11'>A Under monopolistic competition, in the long run, all firms make only normal
+profits.
+ENDSTOPB Firms under monopolistic competition produce homogeneous products.
+ENDSTOPC Under oligopoly, firms make decisions without considering the possible
+reactions of their competitors.
+ENDSTOPD Under monopoly, a profit maximising firm with positive marginal costs
+always produces where the demand is price inelastic.</string>"
+    "<string name='apr2022_choices_12'>A Firm A – High; Firm ENDSTOPB – Low
+B Firm A – High; Firm B – High
+ENDSTOPC Firm A – Low; Firm B – Low
+ENDSTOPD Firm A – Low; Firm B – High.</string>"
+    "<string name='apr2022_choices_13'>A price in Market 2.
+ENDSTOPB price in Market 1.
+ENDSTOPC marginal revenue in Market 2.
+ENDSTOPD average cost in Market 2.</string>"
+    "<string name='apr2022_choices_14'>A The investment multiplier has a value of 5.
+ENDSTOPB At the equilibrium level of income, consumption will be £470 million.
+ENDSTOPC The economy is in equilibrium if output is £500 million.
+ENDSTOPD None of the above.</string>"
+    "<string name='apr2022_choices_15'>A An increase in the income tax rate
+ENDSTOPB A decrease in government expenditure
+ENDSTOPC A decrease in the value of exports
+ENDSTOPD A decrease in the rate of interest.</string>"
+    "<string name='apr2022_choices_16'>A £2,000,000
+ENDSTOPB £800,000
+ENDSTOPC £600,000
+ENDSTOPD £300,000.</string>"
+    "<string name='apr2022_choices_17'>A The simple closed economy multiplier, ignoring taxes, is 2.
+ENDSTOPB The simple closed economy multiplier, including taxes, is 5.
+ENDSTOPC An increase in government expenditure of £10 million will increase the
+national income by £25 million.
+ENDSTOPD An increase in government expenditure of £10 million will increase the
+national income by £10 million.</string>"
+    "<string name='apr2022_choices_18'>A 395, 400.
+ENDSTOPB 395, 390.
+ENDSTOPC 455, 460.
+ENDSTOPD 455, 450.</string>"
+    "<string name='apr2022_choices_19'>A £45,000.
+ENDSTOPB £30,150.
+ENDSTOPC £29,850.
+ENDSTOPD £20,000.</string>"
+    "<string name='apr2022_choices_20'>A Investment income from abroad
+ENDSTOPB Investment expenditure
+ENDSTOPC Export revenue
+ENDSTOPD Government expenditure on employing teachers.</string>"
+    "<string name='apr2022_choices_21'>A £40 million.
+ENDSTOPB £60 million.
+ENDSTOPC £80 million.
+ENDSTOPD £100 million.</string>"
+    "<string name='apr2022_choices_22'>A 0.8
+ENDSTOPB Greater than 0.8
+ENDSTOPC 0.2
+ENDSTOPD Less than 0.2</string>"
+    "<string name='apr2022_choices_23'>A £500 billion
+ENDSTOPB £550 billion
+ENDSTOPC £600 billion
+ENDSTOPD £700 billion.</string>"
+    "<string name='apr2022_choices_24'>A 1%.
+ENDSTOPB 1.25%.
+ENDSTOPC 9%.
+ENDSTOPD 13%.</string>"
+    "<string name='apr2022_choices_25'>A A reduction in unemployment benefit
+ENDSTOPB Better dissemination of information about job vacancies
+ENDSTOPC An extension of job retraining programmes
+ENDSTOPD A reduction in the minimum wage.</string>"
+    "<string name='apr2022_choices_26'>A negative relationship between inflation and economic growth.
+ENDSTOPB positive relationship between inflation and economic growth.
+ENDSTOPC negative relationship between inflation and unemployment.
+ENDSTOPD positive relationship between inflation and unemployment.</string>"
+
+
+
+</resources>

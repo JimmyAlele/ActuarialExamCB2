@@ -1,0 +1,129 @@
+<resources>
+    "<string name='apr2017_choices_1'>A exists only in economies which rely on the market mechanism.
+ENDSTOPB could be eliminated if prices are forced to fall.
+ENDSTOPC means that there are shortages of some goods.
+ENDSTOPD exists because there are insufficient resources to satisfy human wants.</string>"
+    "<string name='apr2017_choices_2'>A a market system.
+ENDSTOPB macroeconomics.
+ENDSTOPC competition.
+ENDSTOPD opportunity cost.</string>"
+    "<string name='apr2017_choices_3'>A franchise.
+ENDSTOPB joint venture.
+ENDSTOPC licensing agreement.
+ENDSTOPD merger.</string>"
+    "<string name='apr2017_choices_4'>A people who know that they are a particularly high risk are more inclined to
+take out insurance.
+ENDSTOPB a policyholder may act in a way which makes the insured event more likely to
+occur.
+ENDSTOPC people who know that they are a particularly high risk are less inclined to take
+out insurance.
+ENDSTOPD an insurance company will face false insurance claims.</string>"
+    "<string name='apr2017_choices_5'>A The curve will shift to the left and become less elastic.
+ENDSTOPB The curve will shift to the right and become less elastic.
+ENDSTOPC The curve will shift to the left and become more elastic.
+ENDSTOPD The curve will shift to the right and become more elastic.</string>"
+    "<string name='apr2017_choices_6'>A A firm doubles its inputs of capital and labour and its output more than
+doubles.
+ENDSTOPB A firm doubles the number of products it produces and also doubles its
+research budget.
+ENDSTOPC A firm produces a new product and in so doing lowers the average cost of
+producing its existing products.
+ENDSTOPD A firm produces a new product and in so doing lowers the price it charges on
+its existing products.</string>"
+    "<string name='apr2017_choices_7'>A constant returns to scale.
+ENDSTOPB decreasing returns to scale.
+ENDSTOPC increasing returns to scale.
+ENDSTOPD the law of diminishing returns.</string>"
+    "<string name='apr2017_choices_8'>A Total revenue is less than total costs.
+ENDSTOPB Total revenue is less than total fixed costs.
+ENDSTOPC Average revenue is less than average fixed cost.
+ENDSTOPD Average revenue is less than average variable cost.</string>"
+    "<string name='apr2017_choices_9'>A The firm can make only normal profits in the long run.
+ENDSTOPB There are no barriers to entry into the market.
+ENDSTOPC The firm can make only normal profits in the short run.
+ENDSTOPD Marginal revenue is equal to average revenue.</string>"
+    "<string name='apr2017_choices_10'>A lower its price and increase output.
+ENDSTOPB raise its price and increase output.
+ENDSTOPC lower its price and decrease output.
+ENDSTOPD raise its price and decrease output.</string>"
+    "<string name='apr2017_choices_11'>A costs of entry and exit are zero and potential entrants can enter the market
+quickly.
+ENDSTOPB existing companies charge identical prices.
+ENDSTOPC the barriers to entry are substantial but the existing firms compete so hard that
+industry profits are kept to the normal level over both the short and long run.
+ENDSTOPD existing firms compete on price and quality so as to maximise industry
+supernormal profits in the long run.</string>"
+    "<string name='apr2017_choices_12'>A entry into new markets
+ENDSTOPB risk sharing
+ENDSTOPC capital pooling
+ENDSTOPD to reduce overall managerial remuneration</string>"
+    "<string name='apr2017_choices_13'>A 83
+ENDSTOPB 125
+ENDSTOPC 250
+ENDSTOPD 80</string>"
+    "<string name='apr2017_choices_14'>A classical
+ENDSTOPB frictional
+ENDSTOPC technological
+ENDSTOPD structural</string>"
+    "<string name='apr2017_choices_15'>A decreases and national income is lower.
+ENDSTOPB decreases and national income is higher.
+ENDSTOPC increases and national income is lower.
+ENDSTOPD increases and national income is higher.</string>"
+    "<string name='apr2017_choices_16'>A An increase in the money supply.
+ENDSTOPB An increase in capital investment expenditure.
+ENDSTOPC An increase in education expenditure.
+ENDSTOPD An increase in research and development expenditure.</string>"
+    "<string name='apr2017_choices_17'>A increases the opportunity cost of holding money and redistributes wealth from
+fixed rate borrowers to lenders.
+ENDSTOPB increases the opportunity cost of holding money and redistributes wealth from
+fixed rate lenders to borrowers.
+ENDSTOPC reduces the opportunity cost of holding money and redistributes wealth from
+fixed rate borrowers to lenders.
+ENDSTOPD reduces the opportunity cost of holding money and redistributes wealth from
+fixed rate lenders to borrowers.</string>"
+    "<string name='apr2017_choices_18'>A may rise or fall and real GDP will fall.
+ENDSTOPB will stay the same and real GDP will rise.
+ENDSTOPC will rise and real GDP will rise.
+ENDSTOPD may rise or fall and real GDP will rise.</string>"
+    "<string name='apr2017_choices_19'>A Gross Domestic Product is greater than Gross National Income.
+ENDSTOPB Gross Domestic Product is less than Gross National Income.
+ENDSTOPC Gross Domestic Product is the same as Gross National Income.
+ENDSTOPD we cannot say whether Gross Domestic Product differs from Gross National
+Income.</string>"
+    "<string name='apr2017_choices_20'>A imports is price elastic and the demand for exports is price inelastic.
+ENDSTOPB imports is price inelastic and the demand for exports is price elastic.
+ENDSTOPC both imports and exports is price inelastic.
+ENDSTOPD both imports and exports is price elastic.</string>"
+    "<string name='apr2017_choices_21'>A An appreciation of a country’s exchange rate will increase its import
+expenditure and decrease its export revenues.
+ENDSTOPB An appreciation of a country’s exchange rate will increase its import volumes
+and decrease its export volumes.
+ENDSTOPC A depreciation of a country’s exchange rate will decrease its import volumes
+and decrease its export volumes.
+ENDSTOPD A depreciation of a country’s exchange rate will decrease its import
+expenditure and increase its export revenues.</string>"
+    "<string name='apr2017_choices_22'>A fall and reduce money demand.
+ENDSTOPB fall and raise money demand.
+ENDSTOPC rise and reduce money demand.
+ENDSTOPD rise and raise money demand.</string>"
+    "<string name='apr2017_choices_23'>A small change in the rate of interest and the level of investment.
+ENDSTOPB large change in the rate of interest and the level of investment.
+ENDSTOPC small change in the rate of interest and a relatively large change in the level of
+investment.
+ENDSTOPD large change in the rate of interest and a relatively small change in the level of
+investment.</string>"
+    "<string name='apr2017_choices_24'>A The real rate of interest is greater than the nominal rate of interest.
+ENDSTOPB The real rate of interest is negative.
+ENDSTOPC The rate of inflation is greater than the real rate of interest.
+ENDSTOPD The real rate of interest is −1%.</string>"
+    "<string name='apr2017_choices_25'>A higher domestic interest rates and an exchange rate appreciation.
+ENDSTOPB higher domestic interest rates and an exchange rate depreciation.
+ENDSTOPC lower domestic interest rates and an exchange rate appreciation.
+ENDSTOPD lower domestic interest rates and an exchange rate depreciation.</string>"
+    "<string name='apr2017_choices_26'>A inflation and the exchange rate
+ENDSTOPB economic growth and unemployment
+ENDSTOPC inflation and economic growth
+ENDSTOPD unemployment and the exchange rate</string>"
+
+
+</resources>

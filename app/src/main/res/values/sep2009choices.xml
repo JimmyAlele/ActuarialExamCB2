@@ -1,0 +1,124 @@
+<resources>
+    "<string name='sep2009_choices_1'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will rise.
+ENDSTOPD The effect on quantity is indeterminate but price will fall.</string>"
+    "<string name='sep2009_choices_2'>A 2.0 per cent.
+ENDSTOPB 2.5 per cent.
+ENDSTOPC 10 per cent.
+ENDSTOPD 38 per cent.</string>"
+    "<string name='sep2009_choices_3'>A an increase in incomes
+ENDSTOPB a rise in car prices
+ENDSTOPC an increase in petrol prices
+ENDSTOPD a rise in the price of rail travel</string>"
+    "<string name='sep2009_choices_4'>A significant economies of scale
+ENDSTOPB heavy potential advertising costs
+ENDSTOPC large capital requirements
+ENDSTOPD constant returns to scale</string>"
+    "<string name='sep2009_choices_5'>A increase as its output increases.
+ENDSTOPB decrease as its output increases.
+ENDSTOPC remain constant as its output increases.
+ENDSTOPD always be greater than its average variable costs of production.</string>"
+    "<string name='sep2009_choices_6'>A raise their price in the short run but the price will fall back to its original level
+in the long run.
+ENDSTOPB keep their price constant both in the short and in the long run.
+ENDSTOPC raise price in both the short run and the long run.
+ENDSTOPD keep price constant in the short run but raise their price in the long run.</string>"
+    "<string name='sep2009_choices_7'>A the market price to fall but quantity supplied to increase.
+ENDSTOPB the market price to rise but quantity supplied to fall.
+ENDSTOPC both market price and quantity supplied to rise.
+ENDSTOPD no change to the market price or quantity supplied.</string>"
+    "<string name='sep2009_choices_8'>A excess demand and shortages.
+ENDSTOPB excess supply and surpluses.
+ENDSTOPC excess demand and surpluses.
+ENDSTOPD excess supply and shortages.</string>"
+    "<string name='sep2009_choices_9'>A its marginal costs of production decrease.
+ENDSTOPB it is making excess profits.
+ENDSTOPC its fixed costs of production decrease.
+ENDSTOPD it is making a loss.</string>"
+    "<string name='sep2009_choices_10'>A When the monopolistically competitive industry achieves a long-run equilibrium,
+price is greater than marginal cost.
+ENDSTOPB Monopolistically competitive firms offer differentiated products and face a
+downward sloping demand curve.
+ENDSTOPC Under monopolistic competition, the price charged to the consumer is equal to the
+average revenue of the firm.
+ENDSTOPD Monopolistically competitive firms can earn supernormal profits in the long run.</string>"
+    "<string name='sep2009_choices_11'>A comparability
+ENDSTOPB indifference
+ENDSTOPC independence
+ENDSTOPD transitivity</string>"
+    "<string name='sep2009_choices_12'>A fall at an increasing rate.
+ENDSTOPB fall at a decreasing rate.
+ENDSTOPC rise at an increasing rate.
+ENDSTOPD rise at a decreasing rate.</string>"
+    "<string name='sep2009_choices_13'>A marginal utility will rise.
+ENDSTOPB total utility will be unchanged.
+ENDSTOPC marginal utility will fall.
+ENDSTOPD money income is unchanged.</string>"
+    "<string name='sep2009_choices_14'>A be less than the average tax rate.
+ENDSTOPB be greater than the average tax rate.
+ENDSTOPC be equal to the average tax rate.
+ENDSTOPD initially be less than, but eventually greater than, the average tax rate.</string>"
+    "<string name='sep2009_choices_15'>A £180 million
+ENDSTOPB £200 million
+ENDSTOPC £220 million
+ENDSTOPD £240 million</string>"
+    "<string name='sep2009_choices_16'>A Savings, taxes and investment are withdrawals.
+ENDSTOPB Exports, imports and government expenditure are withdrawals.
+ENDSTOPC Investment, government expenditure and exports are injections.
+ENDSTOPD Investment, exports and consumption are injections..</string>"
+    "<string name='sep2009_choices_17'>A wages from self employment
+ENDSTOPB property rental income
+ENDSTOPC transfer payments
+ENDSTOPD net property income from abroad</string>"
+    "<string name='sep2009_choices_18'>A The demand for money is interest elastic and private investment is interest
+inelastic.
+ENDSTOPB The demand for money is interest inelastic and private investment is interest
+elastic.
+ENDSTOPC The demand for money and private investment are both interest inelastic.
+ENDSTOPD The demand for money and private investment are both interest elastic.</string>"
+    "<string name='sep2009_choices_19'>A rise and reduce money demand.
+ENDSTOPB rise and raise money demand.
+ENDSTOPC fall and reduce money demand.
+ENDSTOPD fall and raise money demand.</string>"
+    "<string name='sep2009_choices_20'>A £500 million
+ENDSTOPB £700 million
+ENDSTOPC £1,000 million
+ENDSTOPD £1,300 million</string>"
+    "<string name='sep2009_choices_21'>A rise in long term interest rates.
+ENDSTOPB increase in the money supply.
+ENDSTOPC a fall in bond prices.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2009_choices_22'>A increase the cash reserves of commercial banks and increase the monetary
+base.
+ENDSTOPB increase the cash reserves of commercial banks and reduce the monetary base.
+ENDSTOPC reduce the cash reserves of commercial banks and increase the monetary base.
+ENDSTOPD reduce the cash reserves of commercial banks and reduce the monetary base.</string>"
+    "<string name='sep2009_choices_23'>A The IS curve shifts left and the LM curve remains in the same place.
+ENDSTOPB The IS curve shifts right and the LM curve remains in the same place.
+ENDSTOPC The LM curve shifts left and the IS curve remains in the same place.
+ENDSTOPD The LM curve shifts right and the IS curve remains in the same place.</string>"
+    "<string name='sep2009_choices_24'>A investment is increased when interest rates fall.
+ENDSTOPB an increase in investment will lead to a proportionate increase in output.
+ENDSTOPC the rate of change of investment is directly proportional to the rate of change of
+output.
+ENDSTOPD small fluctuations in national income can lead to large fluctuations in investment
+demand.</string>"
+    "<string name='sep2009_choices_25'>A Country A has a comparative advantage and an absolute advantage in
+producing Good Y.
+ENDSTOPB Country B has a comparative advantage in producing Good X and an absolute
+advantage in producing Good Y.
+ENDSTOPC Country A has a comparative advantage in producing Good Y and an absolute
+advantage in producing Good X.
+ENDSTOPD Country B has a comparative advantage in producing Good Y and an absolute
+advantage in producing Good X.</string>"
+    "<string name='sep2009_choices_26'>A An appreciation of a country’s exchange rate will increase its import volumes
+and decrease its export volumes.
+ENDSTOPB An appreciation of a country’s exchange rate will increase its import
+expenditure and decrease its export revenues.
+ENDSTOPC A depreciation of a country’s exchange rate will decrease its import volumes
+and decrease its export volumes.
+ENDSTOPD A depreciation of a country’s exchange rate will decrease its import
+expenditure and increase its export revenues.</string>"
+
+</resources>

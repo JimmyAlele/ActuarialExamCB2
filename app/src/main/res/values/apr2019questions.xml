@@ -1,0 +1,74 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name='apr2019_que_1'>Which one of the following results in a decrease in total consumer expenditure?</string>
+    "<string name='apr2019_que_2'>If an economy moves from producing 10 units of Good X and 5 units of Good Y to
+producing 8 units of Good X and 6 units of Good Y, the opportunity cost of the 6th
+unit of Good Y is:</string>"
+    <string name='apr2019_que_3'>Which one of the following will NOT shift the supply curve for Good X to the right?</string>
+    "<string name='apr2019_que_4'>Good X has a price elasticity of demand equal to –1.5. In such circumstances, a per
+unit sales tax on Good X of £5 will lead to which of the following?</string>"
+    "<string name='apr2019_que_5'>Good Y has a cross elasticity of demand with respect to Good X calculated using the
+average method of –1. Initially 100 units of Good Y are demanded when Good X
+costs 20 pence. A rise in the price of Good X to 25 pence will result in a new level of
+demand for Good Y of:</string>"
+    "<string name='apr2019_que_6'>Making your selection from options A–D below, which of the following statements is
+NOT correct in relation to the Austrian school of thought?
+Economists following the Austrian school of thought:
+(i) place emphasis on individual subjective preferences.
+(ii) focus on market forces determining prices.
+(iii) believe in a centrally planned economic system.</string>"
+    <string name='apr2019_que_7'>Which one of the following is TRUE?</string>
+    "<string name='apr2019_que_8'>A profit maximising monopoly facing a linear demand schedule and having positive
+marginal costs will set its price in the region of the demand curve where the absolute
+price elasticity of demand is:</string>"
+    <string name='apr2019_que_9'>Which one of the following statements about market structure is FALSE?</string>
+    <string name='apr2019_que_10'>Which one of the following is NOT a feature of perfect competition?</string>
+    "<string name='apr2019_que_11'>A managing director of a monopoly firm with constant marginal costs has the
+following data:
+Average revenue = £15
+Marginal revenue = £10
+Marginal cost = £11
+Average variable cost = £11
+Average total cost = £13
+To maximise profits/minimise losses in the short run the firm should:</string>"
+    "<string name='apr2019_que_12'>If the price of Good X has risen and the quantity sold has increased, then there must
+have been a:</string>"
+    "<string name='apr2019_que_13'>A firm with fixed costs of £400 per week and constant average variable costs of £8 per
+unit of output, has the following information about its weekly sales: Which of the following levels of output yields the highest profit?</string>"
+    <string name='apr2019_que_14'>To calculate Gross National Income, you need to know all of the following EXCEPT:</string>
+    "<string name='apr2019_que_15' tools:ignore="TypographyOther">In a simple closed economy with no government sector the consumption function
+relating consumption expenditure (C) to income (Y) is given by the expression:
+C = £40 million + 0.7 Y
+Planned investment is constant at £50 million.
+Which one of the following is TRUE?</string>"
+    "<string name='apr2019_que_16'>If the money supply increases due to an expansionary open market operation by the
+central bank, then the price of treasury bills will:</string>"
+    "<string name='apr2019_que_17'>Which of the following are the correct responses for the missing words (i) and (ii) in
+the following statement?
+Automatic stabilisers act to (i) ________ government expenditures and (ii)________
+government revenues during a recessionary period.</string>"
+    "<string name='apr2019_que_18'>The following data is available on an economy:
+Consumption Expenditure £70 million
+Investment £20 million
+Government Expenditure £40 million
+Exports £20 million
+Imports £30 million
+Net Income from abroad £10 million
+What is the value of its Gross National Income?</string>"
+    "<string name='apr2019_que_19'>An economy with a floating exchange rate has a large deficit on the current account
+of its balance of payments. Which policy combination would be most likely to reduce
+this deficit?</string>"
+    <string name='apr2019_que_20'>The narrow money supply (monetary base) is increased when:</string>
+    "<string name='apr2019_que_21'>Which one of the following is NOT likely to happen following a devaluation of the
+domestic currency on the foreign exchange market?</string>"
+    "<string name='apr2019_que_22'>Which one of the following would NOT constitute a demand side economic policy for
+reducing unemployment?</string>"
+    <string name='apr2019_que_23'>Which of the following will increase the size of the multiplier?</string>
+    "<string name='apr2019_que_24'>If an increase in the level of the money supply results in no change in either the
+nominal or real value of national income, then which of the following is TRUE?</string>"
+    <string name='apr2019_que_25'>One way of reducing the natural rate of unemployment would be to increase:</string>
+    "<string name='apr2019_que_26'>If the central bank has to intervene in the foreign exchange market to prevent the
+home currency from depreciating, then its foreign exchange reserves will:</string>"
+
+
+
+</resources>

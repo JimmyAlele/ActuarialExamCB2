@@ -1,0 +1,128 @@
+<resources>
+    "<string name='apr2010_choices_1'>A Structural.
+ENDSTOPB Demand-deficient.
+ENDSTOPC Regional.
+ENDSTOPD Technological.</string>"
+    "<string name='apr2010_choices_2'>A the long run and short run Phillips curves to shift to the right.
+ENDSTOPB the long run and short run Phillips curves to shift to the left.
+ENDSTOPC the long run Phillips curve to shift to the right and the short run Phillips curves
+to shift to the left.
+ENDSTOPD the long run Phillips curve to shift to the left and the short run Phillips curves
+to shift to the right.</string>"
+    "<string name='apr2010_choices_3'>A A fall in the interest rate of Country A with an even bigger fall in Country B’s
+interest rate.
+ENDSTOPB A fall in the interest rate of Country A with constant interest rate in Country B.
+ENDSTOPC A rise in the interest rate of Country A with an even bigger rise in Country B’s
+interest rate.
+ENDSTOPD A fall in the interest rate of Country A with a rise in the interest rate of
+Country B.</string>"
+    "<string name='apr2010_choices_4'>A An appreciation of a country’s exchange rate will increase its import
+expenditure and decrease its export revenues.
+ENDSTOPB An appreciation of a country’s exchange rate will increase its import volumes
+and decrease its export volumes.
+ENDSTOPC A depreciation of a country’s exchange rate will decrease its import volumes
+and decrease its export volumes.
+ENDSTOPD A depreciation of a country’s exchange rate will decrease its import
+expenditure and increase its export revenues.</string>"
+    "<string name='apr2010_choices_5'>A surplus of £125 billion.
+ENDSTOPB deficit of £125 billion.
+ENDSTOPC surplus of £25 billion.
+ENDSTOPD deficit of £25 billion.</string>"
+    "<string name='apr2010_choices_6'>A Gross Domestic Product is greater than Gross National Product.
+ENDSTOPB Gross Domestic Product is less than Gross National Product.
+ENDSTOPC Gross Domestic Product is the same as Gross National Product.
+ENDSTOPD We cannot say whether Gross Domestic Product differs from Gross National
+Product from this information.</string>"
+    "<string name='apr2010_choices_7'>A higher the price level.
+ENDSTOPB lower the level of real income.
+ENDSTOPC higher the rate of interest.
+ENDSTOPD higher the speculative (asset) demand for money.</string>"
+    "<string name='apr2010_choices_8'>A rise as Treasury bill prices rise.
+ENDSTOPB fall as Treasury bill prices rise.
+ENDSTOPC fall as Treasury bill prices fall.
+ENDSTOPD rise as Treasury bill prices fall.</string>"
+    "<string name='apr2010_choices_9'>A an increase in aggregate demand and a reduction in real output and
+unemployment.
+ENDSTOPB an increase in aggregate demand, real output and unemployment.
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment.
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment.</string>"
+    "<string name='apr2010_choices_10'>A raise government expenditure and reduce tax revenue.
+ENDSTOPB raise government expenditure and raise tax revenue.
+ENDSTOPC reduce government expenditure and raise tax revenue.
+ENDSTOPD reduce government expenditure and reduce tax revenue.</string>"
+    "<string name='apr2010_choices_11'>A increase the output of the existing firms and the industry.
+ENDSTOPB reduce the output of the existing firms and the industry.
+ENDSTOPC reduce the output of the industry and increase the output of the existing firms.
+ENDSTOPD reduce the output of the existing firms and increase the output of the industry.</string>"
+    "<string name='apr2010_choices_12'>A £11.50.
+ENDSTOPB £11.25.
+ENDSTOPC £5.00.
+ENDSTOPD £0.25.</string>"
+    "<string name='apr2010_choices_13'>A average total cost equals marginal cost.
+ENDSTOPB average revenue is greater than marginal cost.
+ENDSTOPC price is greater than average total cost.
+ENDSTOPD average total cost is less than marginal cost.</string>"
+    "<string name='apr2010_choices_14'>A a firm’s competitors match both its price increases and price reductions.
+ENDSTOPB one firm in the industry sets the price for all other firms.
+ENDSTOPC a firm’s competitors match its price reductions but not its price increases.
+ENDSTOPD the price charged by a firm can either rise or fall depending on
+what happens to its competitors’ prices.</string>"
+    "<string name='apr2010_choices_15'>A surplus of Good X and the price will rise.
+ENDSTOPB shortage of Good X and the price will fall.
+ENDSTOPC surplus of Good X and the price will fall.
+ENDSTOPD shortage of Good X and the price will rise.</string>"
+    "<string name='apr2010_choices_16'>A A decrease in the price of Good X.
+ENDSTOPB An increase in the price of a substitute good.
+ENDSTOPC An increase in the price of a complementary good.
+ENDSTOPD A decrease in consumer income.</string>"
+    "<string name='apr2010_choices_17'>A rise at an increasing rate as consumption of Good X increases.
+ENDSTOPB rise at a decreasing rate as consumption of Good X increases.
+ENDSTOPC fall at an increasing rate as consumption of Good X increases.
+ENDSTOPD fall at a decreasing rate as consumption of Good X increases.</string>"
+    "<string name='apr2010_choices_18'>A having insurance makes an individual less careful.
+ENDSTOPB having insurance makes an individual more careful.
+ENDSTOPC the people taking out the insurance are those who have the highest risk.
+ENDSTOPD the people taking out the insurance are those who have the highest risk
+aversion.</string>"
+    "<string name='apr2010_choices_19'>A quantity is 20 and price is 150.
+ENDSTOPB quantity is 30 and price is 100.
+ENDSTOPC quantity is 35 and price is 75.
+ENDSTOPD quantity is 40 and price is 50.</string>"
+    "<string name='apr2010_choices_20'>A quantity demanded of Good X to increase and the demand curve for Good Y
+to shift toward the right.
+ENDSTOPB quantity demanded of Good X to increase and the demand curve for Good Y
+to shift toward the left.
+ENDSTOPC demand curve for Good X to shift to the right and the demand curve for Good
+Y to shift toward the left.
+ENDSTOPD demand curve for Good X to shift to the right and the demand curve for Good
+Y to shift toward the right.</string>"
+    "<string name='apr2010_choices_21'>A price rises and demand for the good is price elastic.
+ENDSTOPB price rises and demand for the good is price inelastic.
+ENDSTOPC consumer income falls and the good is inferior.
+ENDSTOPD consumer income falls and the good is a Giffen good.</string>"
+    "<string name='apr2010_choices_22'>A 1 and 0.25.
+ENDSTOPB 0 and 0.25.
+ENDSTOPC 1 and 0.
+ENDSTOPD 0 and 1.</string>"
+    "<string name='apr2010_choices_23'>A different consumer’s tastes but not different quality products.
+ENDSTOPB same quality products.
+ENDSTOPC different quality products reflecting different production costs.
+ENDSTOPD different varieties offered at the same price.</string>"
+    "<string name='apr2010_choices_24'>A A firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB Consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC A firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPD Different firms charge different prices for the same product.</string>"
+    "<string name='apr2010_choices_25'>A positive.
+ENDSTOPB above its average physical product.
+ENDSTOPC increasing.
+ENDSTOPD below its average physical product.</string>"
+    "<string name='apr2010_choices_26'>A Franchise.
+ENDSTOPB Joint venture.
+ENDSTOPC Merger.
+ENDSTOPD Licensing agreement.</string>"
+
+</resources>

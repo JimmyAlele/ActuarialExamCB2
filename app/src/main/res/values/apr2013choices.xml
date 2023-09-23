@@ -1,0 +1,144 @@
+<resources>
+    "<string name='apr2013_choices_1'>A Price rises, quantity demanded falls and quantity supplied rises.
+ENDSTOPB Price rises, quantity demanded falls and quantity supplied falls.
+ENDSTOPC Price rises, quantity demanded rises and quantity supplied falls.
+ENDSTOPD Price rises, quantity demanded rises and quantity supplied rises.</string>"
+    "<string name='apr2013_choices_2'>A −0.60
+ENDSTOPB −0.78
+ENDSTOPC −1
+ENDSTOPD −0.05</string>"
+    "<string name='apr2013_choices_3'>A demand curve for Good X to shift to the left, and the demand curve for Good
+Y to shift to the left.
+ENDSTOPB demand curve for Good X to shift to the left, and the demand curve for Good
+Y to shift to the right.
+ENDSTOPC quantity demanded of Good X to fall, and the demand curve for Good Y to
+shift to the right.
+ENDSTOPD quantity demanded of Good X to fall, and the demand curve for Good Y to
+shift to the left.</string>"
+    "<string name='apr2013_choices_4'>A £12,000.
+ENDSTOPB £20,000.
+ENDSTOPC £32,000.
+ENDSTOPD £42,000.</string>"
+    "<string name='apr2013_choices_5'>A Marginal utility minus the price of the good.
+ENDSTOPB The total utility consumers get from the consumption of the good.
+ENDSTOPC The total utility consumers get from consumption of the good less the total
+expenditure on the good.
+ENDSTOPD Marginal utility times the price of the good.</string>"
+    "<string name='apr2013_choices_6'>A a firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC a firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPD different firms charge different prices for the same product.</string>"
+    "<string name='apr2013_choices_7'>A Total utility increases at a decreasing rate as income increases.
+ENDSTOPB Marginal utility increases at a decreasing rate as income increases.
+ENDSTOPC Marginal utility decreases at an increasing rate as income falls.
+ENDSTOPD Total utility decreases at an increasing rate as income increases.</string>"
+    "<string name='apr2013_choices_8'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect product price.
+ENDSTOPC the firm has to reduce the price on all units sold in order to sell an additional
+unit.
+ENDSTOPD of the law of diminishing returns.</string>"
+    "<string name='apr2013_choices_9'>A A firm doubles its inputs of capital and labour and its output more than
+doubles.
+ENDSTOPB A firm doubles the number of products it produces and also doubles its
+research budget.
+ENDSTOPC A firm produces a new product and in so doing lowers the average cost of
+producing its existing products.
+ENDSTOPD A firm produces a new product and in so doing lowers the price it charges on
+its existing products.</string>"
+    "<string name='apr2013_choices_10'>A To make the demand for the product more price elastic.
+ENDSTOPB To shift the demand for the firm’s product to the right.
+ENDSTOPC To increase barriers to entry.
+ENDSTOPD To increase sales and so help the firm exploit economies of scale.</string>"
+    "<string name='apr2013_choices_11'>A The average variable cost curve is U-shaped.
+ENDSTOPB The average variable cost curve cuts the marginal cost curve at the minimum
+of the marginal cost curve.
+ENDSTOPC The average variable cost curve is an increasing proportion of average total
+costs as output rises.
+ENDSTOPD The average variable cost curve lies below the average fixed costs of
+production.</string>"
+    "<string name='apr2013_choices_12'>A Investment, government expenditure and exports
+ENDSTOPB Consumption, government expenditure and investment
+ENDSTOPC Consumption, investment and exports
+ENDSTOPD Investment, government expenditure and imports</string>"
+    "<string name='apr2013_choices_13'>A For a firm under perfect competition in the short run, marginal revenue will be
+equal to the average revenue.
+ENDSTOPB In an oligopoly industry, firms make decisions taking into account the possible
+reactions of their competitors.
+ENDSTOPC For a monopolist facing a linear demand curve, average revenue is always less
+than marginal revenue.
+ENDSTOPD A profit maximising monopoly firm with positive marginal costs of production
+charges a price in the region of the demand curve where demand is price
+elastic.</string>"
+    "<string name='apr2013_choices_14'>A close down during the winter season since it would make a loss of £4,500
+during the winter season.
+ENDSTOPB close down during the winter season since its revenue is insufficient to cover
+its fixed costs.
+ENDSTOPC stay open during the winter season as it will add £500 per week to its profits.
+ENDSTOPD stay open during the winter season as the expected revenue of £4,500 is
+greater than its fixed costs.</string>"
+    "<string name='apr2013_choices_15'>A Establishment of world brands
+ENDSTOPB Increasing travel, creating global consumers
+ENDSTOPC Per capita income converging among industrialised nations
+ENDSTOPD Reduction of tariff barriers</string>"
+    "<string name='apr2013_choices_16'>A A rise in the average price of imports relative to the average price of exports.
+ENDSTOPB A fall in the quantity of imports relative to the quantity of exports.
+ENDSTOPC A rise in the quantity of exports while imports remain the same.
+ENDSTOPD A rise in the average price of exports relative to the average price of imports.</string>"
+    "<string name='apr2013_choices_17'>A A rise in imports
+ENDSTOPB A fall in savings
+ENDSTOPC A fall in interest rates
+ENDSTOPD A fall in economic and business uncertainty</string>"
+    "<string name='apr2013_choices_18'>A the intercept of the line representing the part of income spent on goods
+produced in the country.
+ENDSTOPB the proportion of any rise in GDP withdrawn from the circular flow of income.
+ENDSTOPC the slope of the aggregate expenditure line.
+ENDSTOPD the slope of the line representing the part of income spent on goods produced
+in the country.</string>"
+    "<string name='apr2013_choices_19'>A the number of unemployed divided by the population expressed as a
+percentage.
+ENDSTOPB the number of unemployed divided by the total labour force expressed as a
+percentage.
+ENDSTOPC the number of unemployed divided by the number of employed expressed as a
+percentage.
+ENDSTOPD the number of unemployed divided by all in the population of working age
+expressed as a percentage.</string>"
+    "<string name='apr2013_choices_20'>A Cuts in social security benefits designed to encourage more workers to take
+work
+ENDSTOPB Measures designed to reduce trade union powers
+ENDSTOPC Deregulation
+ENDSTOPD Tariffs designed to increase production of domestic goods</string>"
+    "<string name='apr2013_choices_21'>A A fall in the national income
+ENDSTOPB A rise in the rate of interest
+ENDSTOPC A rise in the expectation of a stock market crash
+ENDSTOPD An increase in the frequency with which people are paid, for example, a
+switch from monthly to weekly payments</string>"
+    "<string name='apr2013_choices_22'>A level of national income.
+ENDSTOPB rate of change of national income.
+ENDSTOPC rate of change of the level of investment
+ENDSTOPD level of the interest rate</string>"
+    "<string name='apr2013_choices_23'>A A fall in the money supply, a fall in the short term rate of interest and a fall in
+the price of treasury bills
+ENDSTOPB A fall in the money supply, a fall in the short term rate of interest and a rise in
+the price of treasury bills
+ENDSTOPC A fall in the money supply, a rise in the short term rate of interest and a fall in
+the price of treasury bills
+ENDSTOPD A fall in the money supply, a rise in the short term rate of interest and a rise in
+the price of treasury bills</string>"
+    "<string name='apr2013_choices_24'>A Net income from abroad
+ENDSTOPB Gross capital formation
+ENDSTOPC Capital depreciation
+ENDSTOPD Imports of goods and services</string>"
+    "<string name='apr2013_choices_25'>A appreciate and reduce the price of exports.
+ENDSTOPB appreciate and reduce the price of imports.
+ENDSTOPC depreciate and reduce the price of exports.
+ENDSTOPD depreciate and reduce the price of imports.</string>"
+    "<string name='apr2013_choices_26'>A the influence of fiscal policy on the level of inflation and unemployment.
+ENDSTOPB the influence of monetary policy on the level of inflation and unemployment.
+ENDSTOPC an inverse relationship between inflation and unemployment.
+ENDSTOPD a positive relationship between inflation and unemployment.</string>"
+
+</resources>

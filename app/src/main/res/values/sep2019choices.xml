@@ -1,0 +1,120 @@
+<resources>
+    "<string name='sep2019_choices_1'>A exists only in economies which rely on the market mechanism.
+ENDSTOPB could be eliminated if prices are forced to fall.
+ENDSTOPC means that there are shortages of some goods.
+ENDSTOPD exists because there are insufficient resources to satisfy human wants.</string>"
+    "<string name='sep2019_choices_2'>A £12,000.
+ENDSTOPB £20,000.
+ENDSTOPC £32,000.
+ENDSTOPD £42,000.</string>"
+    "<string name='sep2019_choices_3'>A indeterminate on price but quantity will fall.
+ENDSTOPB indeterminate on price but quantity will rise.
+ENDSTOPC indeterminate on quantity but price will rise.
+ENDSTOPD indeterminate on quantity but price will fall.</string>"
+    "<string name='sep2019_choices_4'>A demand curve to the left.
+ENDSTOPB supply curve to the left.
+ENDSTOPC supply curve to the right.
+ENDSTOPD demand curve to the right.</string>"
+    "<string name='sep2019_choices_5'>A higher for A than for ENDSTOPB and A will have a higher total utility.
+B higher for A than for B and A will have a lower total utility.
+ENDSTOPC lower for A than for B and A will have a higher total utility.
+ENDSTOPD lower for A than for B and A will have a lower total utility.</string>"
+    "<string name='sep2019_choices_6'>A The curve will shift to the left and become less elastic.
+ENDSTOPB The curve will shift to the right and become less elastic.
+ENDSTOPC The curve will shift to the left and become more elastic.
+ENDSTOPD The curve will shift to the right and become more elastic.</string>"
+    "<string name='sep2019_choices_7'>A Spreading of indivisibilities.
+ENDSTOPB Spreading of overheads.
+ENDSTOPC Dilution of ownership.
+ENDSTOPD Specialisation.</string>"
+    "<string name='sep2019_choices_8'>A The marginal physical product of labour reaches a maximum before the total
+physical product of labour.
+ENDSTOPB The average physical product of labour continues rising as long as the
+marginal physical product is greater than the average physical product of
+labour.
+ENDSTOPC The total physical product of labour is at a maximum when the marginal
+physical product of labour is zero.
+ENDSTOPD The average physical product of labour is at a maximum when the marginal
+physical product of labour is zero.</string>"
+    "<string name='sep2019_choices_9'>A Output of the firm is where marginal revenue equals marginal cost.
+ENDSTOPB The cost curves of the firm are U-shaped.
+ENDSTOPC Marginal revenue equals average revenue.
+ENDSTOPD The marginal cost curve cuts the average cost curve at its minimum point.</string>"
+    "<string name='sep2019_choices_10'>A greater than unity.
+ENDSTOPB equal to zero.
+ENDSTOPC between zero and unity.
+ENDSTOPD unity.</string>"
+    "<string name='sep2019_choices_11'>A marginal revenue curve and the average revenue curve both have a vertical
+section (discontinuity).
+ENDSTOPB marginal revenue curve has a vertical section (discontinuity).
+ENDSTOPC average revenue curve has a vertical section (discontinuity).
+ENDSTOPD marginal cost curve has a vertical section (discontinuity).</string>"
+    "<string name='sep2019_choices_12'>A Cuts in social security benefits designed to encourage more people to work.
+ENDSTOPB Measures designed to reduce trade union powers.
+ENDSTOPC Deregulation.
+ENDSTOPD Tariffs designed to increase production of domestic goods.</string>"
+    "<string name='sep2019_choices_13'>A Gold’s law.
+ENDSTOPB Austrian law.
+ENDSTOPC Say’s law.
+ENDSTOPD Quantity law.</string>"
+    "<string name='sep2019_choices_14'>A A rise in the average price of imports relative to the average price of exports.
+ENDSTOPB A fall in the quantity of imports relative to the quantity of exports.
+ENDSTOPC A rise in the quantity of exports while imports remain the same.
+ENDSTOPD A rise in the average price of exports relative to the average price of imports.</string>"
+    "<string name='sep2019_choices_15'>A Frictional unemployment.
+ENDSTOPB Cyclical unemployment.
+ENDSTOPC Seasonal unemployment.
+ENDSTOPD Structural unemployment.</string>"
+    "<string name='sep2019_choices_16'>A 5.9%
+ENDSTOPB 5.3%
+ENDSTOPC 5.0%
+ENDSTOPD 6.3%</string>"
+    "<string name='sep2019_choices_17'>A An increase in the money supply.
+ENDSTOPB An increase in capital investment expenditure.
+ENDSTOPC An increase in education expenditure.
+ENDSTOPD An increase in research and development expenditure.</string>"
+    "<string name='sep2019_choices_18'>A A depreciation of the domestic currency.
+ENDSTOPB A decrease in imported commodity prices.
+ENDSTOPC An increase in consumer expenditure.
+ENDSTOPD A decrease in direct taxes.</string>"
+    "<string name='sep2019_choices_19'>A Salaries of school teachers.
+ENDSTOPB Net income from abroad.
+ENDSTOPC Company profits.
+ENDSTOPD Investment expenditure.</string>"
+    "<string name='sep2019_choices_20'>A an increase in the money supply.
+ENDSTOPB a decrease in the money demand.
+ENDSTOPC a rise in the rate of interest.
+ENDSTOPD an increase in the speculative demand for money.</string>"
+    "<string name='sep2019_choices_21'>A 0 per cent.
+ENDSTOPB 10 per cent.
+ENDSTOPC 10 per cent multiplied by the velocity of circulation.
+ENDSTOPD 10 per cent divided by the velocity of circulation.</string>"
+    "<string name='sep2019_choices_22'>A extent to which government expansionary policy is counteracted by lower
+private spending resulting from higher interest rates.
+ENDSTOPB extent to which government contractionary policy is counteracted by lower
+private spending resulting from lower interest rates.
+ENDSTOPC increase in interest rates caused by contractionary monetary policy.
+ENDSTOPD increase in consumption expenditure caused by lower taxes.</string>"
+    "<string name='sep2019_choices_23'>A raise government expenditure and reduce tax revenue.
+ENDSTOPB raise government expenditure and raise tax revenue.
+ENDSTOPC reduce government expenditure and raise tax revenue.
+ENDSTOPD reduce government expenditure and reduce tax revenue.</string>"
+    "<string name='sep2019_choices_24'>A Increase unemployment benefit.
+ENDSTOPB Increase taxes.
+ENDSTOPC Increase the money supply.
+ENDSTOPD Increase information flows on job availability.</string>"
+    "<string name='sep2019_choices_25'>A A decrease in interest rates.
+ENDSTOPB An appreciation of the domestic currency.
+ENDSTOPC A rise in government expenditure.
+ENDSTOPD An increase in business confidence.</string>"
+    "<string name='sep2019_choices_26'>A increases the opportunity cost of holding money and redistributes wealth from
+fixed rate borrowers to lenders.
+ENDSTOPB increases the opportunity cost of holding money and redistributes wealth from
+fixed rate lenders to borrowers.
+ENDSTOPC reduces the opportunity cost of holding money and redistributes wealth from
+fixed rate borrowers to lenders.
+ENDSTOPD reduces the opportunity cost of holding money and redistributes wealth from
+fixed rate lenders to borrowers.</string>"
+
+
+</resources>

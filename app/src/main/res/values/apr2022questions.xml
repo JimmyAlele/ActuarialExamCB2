@@ -1,0 +1,66 @@
+<resources>
+    <string name='apr2022_que_1'>Which of the following will lead to a leftward shift in the demand for cars?</string>
+    <string name='apr2022_que_2'>Which one of the following is NOT a feature of a capitalist economy?</string>
+    "<string name='apr2022_que_3'>The maximum an economy can produce is either 20 units of Good X or 80 units of
+Good Y, and its production possibility curve is a straight line. The opportunity cost of
+producing 5 units of Good X is:</string>"
+    "<string name='apr2022_que_4'>Good X is a normal good. Which of the following will NOT shift the demand curve
+for Good X to the left?</string>"
+    <string name='apr2022_que_5'>Which one of the following will shift the supply curve for Good X to the left?</string>
+    "<string name='apr2022_que_6'>Good Y has a cross elasticity of demand with respect to Good X of 0.8, and 200 units
+of Good Y are demanded when Good X costs £1. A rise in the price of Good X to
+£1.10 will change the demand for Good Y to approximately:</string>"
+    "<string name='apr2022_que_7'>A consumer has £200 of income, which is spent entirely on two goods, Good X and
+Good Y. Good X costs £40 per unit and Good Y costs £40 per unit.
+The relevant marginal utilities for the consumer are: The optimum combination of units of Good X and Good Y for the consumer to
+purchase is:</string>"
+    "<string name='apr2022_que_8'>A consumer has been consuming Good X, which previously had a positive marginal
+utility, to the point that the consumer now has a zero marginal utility and Good X is a
+free good. This means that the:</string>"
+    "<string name='apr2022_que_9'>During the winter, a profit maximising hotel in a seaside resort should close when
+average revenue is below:</string>"
+    <string name='apr2022_que_10'>Which one of the following is NOT a feature of monopolistic competition?</string>
+    <string name='apr2022_que_11'>Which one of the following statements about market structure is TRUE?</string>
+    "<string name='apr2022_que_12'>Two firms operate in a duopoly, but do not collude. Given the profit pay-off matrix of
+output options to Firms A and B below, what is the dominant strategy for the firms? [Note: Profit pay-offs are ‘(profit A, profit B)’, and ‘high’ and ‘low’ refer to the price
+decision of the firms.]</string>"
+    "<string name='apr2022_que_13'>A firm operates in two markets, Market 1 and Market 2, and price discriminates when
+profit maximising. In such circumstances, its marginal revenue in Market 1 is equal to
+the:</string>"
+    "<string name='apr2022_que_14'>In a simple closed economy with no government sector, the consumption function
+relating consumption (C) to income (Y) is given by the expression:
+C = £80 million + 0.75 Y
+Planned investment is constant at £50 million.
+Which of the following is TRUE?</string>"
+    <string name='apr2022_que_15'>Which of the following is most likely to lead to a rise in aggregate demand?</string>
+    "<string name='apr2022_que_16'>The following transactions take place in a simple closed economy. A company
+producing Good X sells its output for £2 million. In producing Good X, the company
+buys raw materials for £800,000, uses £200,000 worth of electricity and has labour
+costs of £400,000. What is the contribution of the company to the country’s Gross
+Domestic Product (GDP)?</string>"
+    "<string name='apr2022_que_17'>The marginal propensity to consume is 0.8, the rate of income tax is 25% of all
+income and government expenditure is £50 million. Which one of the following
+statements is TRUE?</string>"
+    "<string name='apr2022_que_18'>The following table contains output and expenditure data for an economy: GDP at basic prices and gross national income at market prices are respectively (in
+£billions):</string>"
+    "<string name='apr2022_que_19'>If nominal GDP per capita is £30,000 and the GDP deflator is 150, then real GDP is
+(given the base year index of 100):</string>"
+    <string name='apr2022_que_20'>Which one of the following does NOT form part of the UK GDP:</string>
+    "<string name='apr2022_que_21'>In a closed economy with no government, planned consumption is £140 million,
+planned investment is £70 million and total production is £240 million. Actual
+investment is:</string>"
+    "<string name='apr2022_que_22'>If a household’s income increases from £20,000 to £25,000 and, as a result,
+consumption increases from £17,000 to £21,000, what is the household’s marginal
+propensity to save?</string>"
+    "<string name='apr2022_que_23'>Given the following aggregate data for Country A, what is the value of leakages
+(withdrawals) into the circular flow of income?</string>"
+    "<string name='apr2022_que_24'>If the real rate of interest is 5% and the expected inflation rate is 4%, then the nominal
+rate of interest is approximately:</string>"
+    "<string name='apr2022_que_25'>The minimum wage is currently above the equilibrium wage. Which one of the
+following policies will increase voluntary unemployment?</string>"
+    <string name='apr2022_que_26'>The conventional Phillips curve indicates that the authorities face a:</string>
+
+
+
+
+</resources>

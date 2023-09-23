@@ -1,0 +1,53 @@
+<resources>
+
+    <string name='apr2012_que_1'>The main categories of economic resources are:</string>
+    <string name='apr2012_que_2'>In economics the concept of scarcity means:</string>
+    "<string name='apr2012_que_3'>Good Y has a cross elasticity of demand with respect to Good X of 0.5 and 100 units
+of Good Y are demanded when Good X costs 50 pence. A rise in the price of Good X
+to 75 pence will lead to a change in the demand for Good Y to:</string>"
+    "<string name='apr2012_que_4'>The demand equation for Good X is Qd = 15 – 0.5P and the supply equation for
+Good X is Qs = 3 + 2P, where P is the price. When the price is £6 there will be:</string>"
+    <string name='apr2012_que_5'>A demand curve which has price elasticity of minus one throughout its length will be:</string>
+    "<string name='apr2012_que_6'>According to the law of diminishing marginal utility, the total satisfaction that a
+consumer gets from consuming Good X will:</string>"
+    <string name='apr2012_que_7'>Adverse selection refers to a situation where:</string>
+    <string name='apr2012_que_8'>Vertical product differentiation refers to differences between products which reflect:</string>
+    <string name='apr2012_que_9'>Which one of the following is TRUE when economies of scale are present?</string>
+    <string name='apr2012_que_10'>Which of the following statements is TRUE?</string>
+    "<string name='apr2012_que_11'>A perfectly competitive firm is producing at a level of output where short run
+marginal cost is rising and exceeds marginal revenue. What should the firm do to
+maximise its short run profits?</string>"
+    <string name='apr2012_que_12'>For a monopoly, price exceeds marginal revenue because:</string>
+    "<string name='apr2012_que_13'>If the demand for Good X is price elastic then the burden of a sales tax on Good X
+will be borne:</string>"
+    "<string name='apr2012_que_14'>A profit maximising oligopolistic firm has marginal cost of £3 at all levels of output
+and operates under the belief that the demand curve for its output is kinked at a price
+of £10. Provided its marginal costs are between £2 and £4, it sells its commodity at a
+price of £10. If new technology reduces its marginal cost to £1.50 at all levels of
+output the firm should:</string>"
+    "<string name='apr2012_que_15'>The range of output over which average variable cost falls will be the same as the
+range over which:</string>"
+    "<string name='apr2012_que_16'>What is the combined effect of an increase in the cost of production and a rise in
+consumer income on the equilibrium price and quantity of an inferior good?</string>"
+    "<string name='apr2012_que_17'>Assume two countries, with the same level of technology and resources, do not
+presently trade. In Country X one unit of labour and one unit of capital can produce
+20 units of Good A or 15 units of Good B. In Country Y one unit of labour and one
+unit of capital can produce 50 units of Good A or 25 units of Good B. Which of the following is TRUE?</string>"
+    <string name='apr2012_que_18'>Structural unemployment is unemployment that:</string>
+    "<string name='apr2012_que_19'>Which of the following is a possible explanation for an increase in the average price
+level and a decrease in real national income?</string>"
+    <string name='apr2012_que_20'>Which of the following statements about the demand for money is FALSE?</string>
+    "<string name='apr2012_que_21'>Which one of the following would NOT constitute a demand side economic policy for
+reducing unemployment?</string>"
+    <string name='apr2012_que_22'>The adoption of a policy to reduce the government’s budget deficit will involve:</string>
+    "<string name='apr2012_que_23'>If the central bank has to intervene in the foreign exchange markets to prevent the
+home currency from appreciating, then its foreign exchange reserves will:</string>"
+    "<string name='apr2012_que_24'>In a country with a population of 25 million people there are 16 million in the total
+workforce and 2 million unemployed. What is the rate of unemployment?</string>"
+    "<string name='apr2012_que_25'>Which of the following is least likely to lead to an increase in long run economic
+growth?</string>"
+    "<string name='apr2012_que_26'>If the rate of inflation is lower than the anticipated rate used for negotiating interest
+rates and wages:</string>"
+
+
+</resources>

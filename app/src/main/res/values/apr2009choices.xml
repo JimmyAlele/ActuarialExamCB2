@@ -1,0 +1,112 @@
+<resources>
+    "<string name='apr2009_choices_1'>A natural resources, labour and money.
+ENDSTOPB labour, money and factories.
+ENDSTOPC natural resources, capital and factories.
+ENDSTOPD natural resources, labour and capital.</string>"
+    "<string name='apr2009_choices_2'>A all resources will eventually be exhausted.
+ENDSTOPB there are unlimited resources, we just have an allocation problem.
+ENDSTOPC there are unlimited wants and limited resources.
+ENDSTOPD all of the above.</string>"
+    "<string name='apr2009_choices_3'>A a free-market economy.
+ENDSTOPB a centrally planned economy.
+ENDSTOPC a traditional market economy.
+ENDSTOPD a mixed economy.</string>"
+    "<string name='apr2009_choices_4'>A a market system.
+ENDSTOPB macroeconomics.
+ENDSTOPC competition.
+ENDSTOPD opportunity cost.</string>"
+    "<string name='apr2009_choices_5'>A increased expenditure on research and development
+ENDSTOPB a reduction in the unemployment rate
+ENDSTOPC increased immigration of skilled workers
+ENDSTOPD the discovery of new natural resources</string>"
+    "<string name='apr2009_choices_6'>A Country Y has a comparative advantage in the production of Good A.
+ENDSTOPB Country X has an absolute advantage in the production of Good B.
+ENDSTOPC Country X has an absolute advantage in the production of Good A.
+ENDSTOPD Country Y has a comparative advantage in the production of Good B.</string>"
+    "<string name='apr2009_choices_7'>A decrease the demand for eggs.
+ENDSTOPB increase the demand for eggs.
+ENDSTOPC increase the quantity of eggs demanded.
+ENDSTOPD decrease the quantity of eggs demanded.</string>"
+    "<string name='apr2009_choices_8'>A Cross price elasticity of demand is positive for complementary goods.
+ENDSTOPB Elasticity of supply is zero along a horizontal supply curve.
+ENDSTOPC Price elasticity of demand varies along a straight-line demand curve.
+ENDSTOPD Income elasticity of demand is positive for inferior goods.</string>"
+    "<string name='apr2009_choices_9'>A shifting the demand curve to the left.
+ENDSTOPB shifting the supply curve to the left.
+ENDSTOPC shifting the supply curve to the right.
+ENDSTOPD shifting the demand curve to the right.</string>"
+    "<string name='apr2009_choices_10'>A increase the demand for fruit sorbet and strawberries.
+ENDSTOPB decrease the demand for fruit sorbet and increase the demand for strawberries.
+ENDSTOPC decrease the demand for fruit sorbet and strawberries.
+ENDSTOPD increase the demand for fruit sorbet and decrease the demand for strawberries.</string>"
+    "<string name='apr2009_choices_11'>A rise at an increasing rate as the consumption of Good X increases.
+ENDSTOPB rise at a decreasing rate as the consumption of Good X increases.
+ENDSTOPC fall at an increasing rate as the consumption of Good X increases.
+ENDSTOPD fall at a decreasing rate as the consumption of Good X increases.</string>"
+    "<string name='apr2009_choices_12'>A suggests people who know they are a bad risk are more inclined to take out
+insurance.
+ENDSTOPB suggests people who know they are a bad risk are less inclined to take out
+insurance.
+ENDSTOPC suggests a policyholder may act in a way which makes an insured event less
+likely to occur.
+ENDSTOPD suggests a policyholder may act in a way which makes an insured event more
+likely to occur.</string>"
+    "<string name='apr2009_choices_13'>A There are many firms supplying the market.
+ENDSTOPB There are no barriers to entry.
+ENDSTOPC Supernormal profits can be made in the long run.
+ENDSTOPD A firm need not consider the reaction of other firms in the industry.</string>"
+    "<string name='apr2009_choices_14'>A increase output and reduce price.
+ENDSTOPB reduce price and output.
+ENDSTOPC increase price and output.
+ENDSTOPD reduce output and increase price.</string>"
+    "<string name='apr2009_choices_15'>A each firm’s marginal revenue curve is tangential to the average total cost
+curve.
+ENDSTOPB each firm’s marginal revenue curve is tangential to the marginal cost curve.
+ENDSTOPC each firm’s demand curve is tangential to the marginal cost curve.
+ENDSTOPD each firm’s demand curve is tangential to the average total cost curve.</string>"
+    "<string name='apr2009_choices_16'>A Gross Domestic Product – depreciation.
+ENDSTOPB Net Domestic Product + net property income from abroad.
+ENDSTOPC Gross Domestic Product + net property income from abroad.
+ENDSTOPD Net National Income + depreciation.</string>"
+    "<string name='apr2009_choices_17'>A I + S + T = G + X + Z
+ENDSTOPB Y = ENDSTOPC + S + Td
+C I + G + X = S + T + Z
+ENDSTOPD Y = C + I + G + X − Z − Te</string>"
+    "<string name='apr2009_choices_18'>A 0.4
+ENDSTOPB 0.6
+ENDSTOPC 0.7
+ENDSTOPD 0.8</string>"
+    "<string name='apr2009_choices_19'>A 1.25
+ENDSTOPB 0.8
+ENDSTOPC 5
+ENDSTOPD 0.2</string>"
+    "<string name='apr2009_choices_20'>A 5.9%
+ENDSTOPB 5.3%
+ENDSTOPC 5.0%
+ENDSTOPD 6.3%</string>"
+    "<string name='apr2009_choices_21'>A The demand for money is negatively related to the interest rate.
+ENDSTOPB The demand for money is positively related to national income.
+ENDSTOPC The demand for money is negatively related to the price level.
+ENDSTOPD The demand for money is positively related to real income.</string>"
+    "<string name='apr2009_choices_22'>A an increase in value added tax
+ENDSTOPB an increase in imported commodity prices
+ENDSTOPC an increase in consumer expenditure
+ENDSTOPD an increase in direct taxes</string>"
+    "<string name='apr2009_choices_23'>A balance of trade.
+ENDSTOPB capital account.
+ENDSTOPC balance of payments.
+ENDSTOPD current account.</string>"
+    "<string name='apr2009_choices_24'>A The US dollar would appreciate and the Chinese renminbi depreciate.
+ENDSTOPB The US dollar would depreciate and the Chinese renminbi depreciate.
+ENDSTOPC The US dollar would appreciate and the Chinese renminbi appreciate.
+ENDSTOPD The US dollar would depreciate and the Chinese renminbi appreciate.</string>"
+    "<string name='apr2009_choices_25'>A floating exchange rates.
+ENDSTOPB terms of trade.
+ENDSTOPC purchasing power parity.
+ENDSTOPD exchange equalisation.</string>"
+    "<string name='apr2009_choices_26'>A very effective.
+ENDSTOPB not effective.
+ENDSTOPC equally effective as fiscal policy.
+ENDSTOPD less effective than fiscal policy.</string>"
+
+</resources>

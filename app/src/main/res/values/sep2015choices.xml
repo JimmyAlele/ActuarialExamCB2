@@ -1,0 +1,117 @@
+<resources>
+    "<string name='sep2015_choices_1'>A prices are too high.
+ENDSTOPB human wants cannot be satisfied.
+ENDSTOPC there are shortages of some goods.
+ENDSTOPD markets are not perfectly competitive.</string>"
+    "<string name='sep2015_choices_2'>A Opportunity cost is constant.
+ENDSTOPB Opportunity cost is equal to total revenue minus total variable cost.
+ENDSTOPC Opportunity cost is equal to a firm’s supernormal profits.
+ENDSTOPD Opportunity cost is the cost in terms of the best foregone alternative.</string>"
+    "<string name='sep2015_choices_3'>A a change in consumer tastes
+ENDSTOPB a change in consumer incomes
+ENDSTOPC a change in the price of Good X
+ENDSTOPD a change in the price of other goods</string>"
+    "<string name='sep2015_choices_4'>A a rise in the price of cars
+ENDSTOPB an increase in the price of petrol
+ENDSTOPC an increase in consumers’ incomes
+ENDSTOPD an increase in the price charged to use public transport</string>"
+    "<string name='sep2015_choices_5'>A higher for A than for ENDSTOPB and A will have a higher total utility.
+B higher for A than for B and A will have a lower total utility.
+ENDSTOPC lower for A than for B and A will have a higher total utility.
+ENDSTOPD lower for A than for B and A will have a lower total utility.</string>"
+    "<string name='sep2015_choices_6'>A having insurance makes an individual less careful.
+ENDSTOPB having insurance makes an individual more careful.
+ENDSTOPC the individuals who take out insurance are those who pose the highest risk.
+ENDSTOPD the individuals who take out insurance are those who have the highest risk
+aversion.</string>"
+    "<string name='sep2015_choices_7'>A same quality products.
+ENDSTOPB different varieties of the same product offered at the same price.
+ENDSTOPC different consumers’ tastes but not different quality products.
+ENDSTOPD different quality products with different production costs.</string>"
+    "<string name='sep2015_choices_8'>A 250 units
+ENDSTOPB 1,750 units
+ENDSTOPC 2,000 units
+ENDSTOPD None of the above</string>"
+    "<string name='sep2015_choices_9'>A constant returns to scale.
+ENDSTOPB increasing returns to scale.
+ENDSTOPC decreasing returns to scale.
+ENDSTOPD the law of diminishing returns.</string>"
+    "<string name='sep2015_choices_10'>A average total cost curve.
+ENDSTOPB average variable cost curve.
+ENDSTOPC marginal cost curve above the lowest point of the average variable cost curve.
+ENDSTOPD marginal cost curve above the lowest point of the average total cost curve.</string>"
+    "<string name='sep2015_choices_11'>A marginal cost.
+ENDSTOPB average total cost.
+ENDSTOPC average fixed cost.
+ENDSTOPD average variable cost.</string>"
+    "<string name='sep2015_choices_12'>A risk sharing
+ENDSTOPB entry into new markets
+ENDSTOPC capital pooling
+ENDSTOPD economies of scale</string>"
+    "<string name='sep2015_choices_13'>A different firms charge different prices for the same product.
+ENDSTOPB a firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPC a firm charges customers different prices according to how much they
+purchase.
+ENDSTOPD consumers are grouped into independent markets and a separate price is
+charged in each market.</string>"
+    "<string name='sep2015_choices_14'>A the influence of fiscal policy on the level of inflation and unemployment.
+ENDSTOPB the influence of monetary policy on the level of inflation and unemployment.
+ENDSTOPC a negative relationship between inflation and unemployment.
+ENDSTOPD a positive relationship between inflation and unemployment.</string>"
+    "<string name='sep2015_choices_15'>A Country X has an absolute advantage in the production of Good A.
+ENDSTOPB Country X has an absolute advantage in the production of Good B.
+ENDSTOPC Country Y has a comparative advantage in the production of Good A.
+ENDSTOPD Country Y has a comparative advantage in the production of Good B.</string>"
+    "<string name='sep2015_choices_16'>A regional.
+ENDSTOPB structural.
+ENDSTOPC technological.
+ENDSTOPD demand-deficient.</string>"
+    "<string name='sep2015_choices_17'>A 5.0%
+ENDSTOPB 5.3%
+ENDSTOPC 5.9%
+ENDSTOPD 6.3%</string>"
+    "<string name='sep2015_choices_18'>A an appreciation of the exchange rate
+ENDSTOPB an increase in the price of raw materials
+ENDSTOPC an increase in profit margins applied by firms
+ENDSTOPD an increase in wages above increases in labour productivity</string>"
+    "<string name='sep2015_choices_19'>A rise in the real wage rate.
+ENDSTOPB fall in the real interest rate.
+ENDSTOPC rise in the nominal wage rate.
+ENDSTOPD rise in the nominal interest rate.</string>"
+    "<string name='sep2015_choices_20'>A Import volumes will increase.
+ENDSTOPB Export volumes will increase.
+ENDSTOPC Exports become less expensive when measured in the foreign currency.
+ENDSTOPD Imports become more expensive when measured in the domestic currency.</string>"
+    "<string name='sep2015_choices_21'>A increase and the domestic money supply fall.
+ENDSTOPB increase and the domestic money supply rise.
+ENDSTOPC decrease and the domestic money supply fall.
+ENDSTOPD decrease and the domestic money supply rise.</string>"
+    "<string name='sep2015_choices_22'>A reduce the cash reserves of commercial banks and reduce the monetary base.
+ENDSTOPB reduce the cash reserves of commercial banks and increase the monetary base.
+ENDSTOPC increase the cash reserves of commercial banks and reduce the monetary base.
+ENDSTOPD increase the cash reserves of commercial banks and increase the monetary
+base.</string>"
+    "<string name='sep2015_choices_23'>A an increase in prices
+ENDSTOPB a decrease in the rate of interest
+ENDSTOPC an increase in real Gross Domestic Product
+ENDSTOPD an increase in the frequency of payments to individuals</string>"
+    "<string name='sep2015_choices_24'>A an increase in aggregate demand, real output and unemployment.
+ENDSTOPB an increase in aggregate demand and a reduction in real output and
+unemployment.
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment.
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment.</string>"
+    "<string name='sep2015_choices_25'>A lower domestic interest rates and an exchange rate appreciation.
+ENDSTOPB lower domestic interest rates and an exchange rate depreciation.
+ENDSTOPC higher domestic interest rates and an exchange rate appreciation.
+ENDSTOPD higher domestic interest rates and an exchange rate depreciation.</string>"
+    "<string name='sep2015_choices_26'>A increase in consumption expenditure caused by lower taxes.
+ENDSTOPB increase in interest rates caused by contractionary monetary policy.
+ENDSTOPC extent to which government expansionary policy is counteracted by lower
+private spending resulting from higher interest rates.
+ENDSTOPD extent to which government contractionary policy is counteracted by lower
+private spending resulting from lower interest rates.</string>"
+
+
+</resources>

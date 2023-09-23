@@ -1,0 +1,121 @@
+<resources>
+    "<string name='sep2010_choices_1'>A fluctuate more than consumer expenditure.
+ENDSTOPB rise when the long term rate of interest falls.
+ENDSTOPC accelerate if business confidence picks up.
+ENDSTOPD accelerate if the government increases its capital expenditure.</string>"
+    "<string name='sep2010_choices_2'>A decides on the viability of producing the by-product after it has made the
+decision to produce the main product.
+ENDSTOPB selects the level of output of the by-product where marginal cost of the byproduct
+equals its marginal revenue.
+ENDSTOPC selects the combined output where the combined marginal cost equals the
+combined marginal revenue.
+ENDSTOPD uses cost-based pricing for the main and the by-product.</string>"
+    "<string name='sep2010_choices_3'>A quantity demanded of Good X to fall and the demand curve for Good Y to
+shift to the left.
+ENDSTOPB quantity demanded of Good X to fall and the demand curve for Good Y to
+shift to the right.
+ENDSTOPC quantity demand of Good X to remain constant, but the demand for Good Y to
+fall.
+ENDSTOPD demand curves for both Good X and Good Y to shift to the right.</string>"
+    "<string name='sep2010_choices_4'>A The income elasticity of demand is negative.
+ENDSTOPB The income elasticity of demand is between zero and one.
+ENDSTOPC The demand for the good increases as income falls.
+ENDSTOPD The demand will rise if its price falls.</string>"
+    "<string name='sep2010_choices_5'>A 7.5 per cent.
+ENDSTOPB 15 per cent.
+ENDSTOPC 17 per cent.
+ENDSTOPD 30 per cent.</string>"
+    "<string name='sep2010_choices_6'>A 1,824.
+ENDSTOPB 950.
+ENDSTOPC 54.
+ENDSTOPD 76.</string>"
+    "<string name='sep2010_choices_7'>A average product of labour when 10 workers are hired is lower than when 11
+workers are hired.
+ENDSTOPB 11th worker has a higher average product of labour than marginal product of
+labour.
+ENDSTOPC firm has not yet passed the point of diminishing returns to labour.
+ENDSTOPD marginal product of the 11th worker is negative.</string>"
+    "<string name='sep2010_choices_8'>A constant returns to scale.
+ENDSTOPB decreasing returns to scale.
+ENDSTOPC increasing returns to scale.
+ENDSTOPD the law of diminishing returns.</string>"
+    "<string name='sep2010_choices_9'>A 20.
+ENDSTOPB 250.
+ENDSTOPC 160.
+ENDSTOPD 25.</string>"
+    "<string name='sep2010_choices_10'>A An increase in real investment.
+ENDSTOPB An increase in Gross Domestic Product.
+ENDSTOPC An increase in real Gross Domestic Product.
+ENDSTOPD An increase in the Gross Domestic Product price deflator.</string>"
+    "<string name='sep2010_choices_11'>A £215 million.
+ENDSTOPB £165 million.
+ENDSTOPC £65 million.
+ENDSTOPD £100 million.</string>"
+    "<string name='sep2010_choices_12'>A Planned savings are £300 million.
+ENDSTOPB The marginal propensity to consume is higher than the average propensity to
+consume.
+ENDSTOPC Consumption expenditure is equal to £6,500 million.
+ENDSTOPD The Gross Domestic Product is £6,800 million.</string>"
+    "<string name='sep2010_choices_13'>A 4
+ENDSTOPB 2
+ENDSTOPC 1
+ENDSTOPD 1.33</string>"
+    "<string name='sep2010_choices_14'>A time lags
+ENDSTOPB uncertainty
+ENDSTOPC crowding out
+ENDSTOPD the accelerator</string>"
+    "<string name='sep2010_choices_15'>A decrease the country’s imports.
+ENDSTOPB increase the country’s exports.
+ENDSTOPC shift the country’s currency supply curve in the foreign exchange market to the
+right requiring central bank purchases of the domestic currency to maintain the
+fixed exchange rate.
+ENDSTOPD shift the demand curve for the country’s foreign exchange to the right
+requiring central bank purchases of the domestic currency to maintain the
+fixed exchange rate.</string>"
+    "<string name='sep2010_choices_16'>A an expansionary monetary policy.
+ENDSTOPB a revaluation of the domestic currency.
+ENDSTOPC an expansionary fiscal policy.
+ENDSTOPD an increase in taxes.</string>"
+    "<string name='sep2010_choices_17'>A decrease and the domestic money supply rise.
+ENDSTOPB decrease and the domestic money supply fall.
+ENDSTOPC increase and the domestic money supply rise.
+ENDSTOPD increase and the domestic money supply fall.</string>"
+    "<string name='sep2010_choices_18'>A exports of goods
+ENDSTOPB foreign direct investment flows
+ENDSTOPC unilateral transfers to other nations
+ENDSTOPD imports of services</string>"
+    "<string name='sep2010_choices_19'>A £0.8 / €1.00
+ENDSTOPB €0.8 / £1.00
+ENDSTOPC £1.25 / €1.00
+ENDSTOPD none of the above</string>"
+    "<string name='sep2010_choices_20'>A less than the price.
+ENDSTOPB greater than the price.
+ENDSTOPC equal to the price.
+ENDSTOPD below average variable cost.</string>"
+    "<string name='sep2010_choices_21'>A £20,000
+ENDSTOPB £15,000
+ENDSTOPC £7,000
+ENDSTOPD £12,000</string>"
+    "<string name='sep2010_choices_22'>A shut down its production.
+ENDSTOPB decreases its level of output but continue to produce carpets.
+ENDSTOPC reduce its fixed costs of production.
+ENDSTOPD increases its level of output.</string>"
+    "<string name='sep2010_choices_23'>A +£1,000.
+ENDSTOPB −£1,000.
+ENDSTOPC +£1.
+ENDSTOPD −£1.</string>"
+    "<string name='sep2010_choices_24'>A An increase in the price of raw materials.
+ENDSTOPB A percentage increase in wages which is less than the percentage increase in
+labour productivity.
+ENDSTOPC An increase in the profit margins applied by firms.
+ENDSTOPD A depreciation of the exchange rate.</string>"
+    "<string name='sep2010_choices_25'>A Exports become less expensive when measured in the foreign currency.
+ENDSTOPB Imports become more expensive when measured in the domestic currency.
+ENDSTOPC Export values measured in the domestic currency will increase.
+ENDSTOPD Import volumes will increase.</string>"
+    "<string name='sep2010_choices_26'>A the dominant firm hypothesis.
+ENDSTOPB collusion.
+ENDSTOPC non-cooperative oligopoly.
+ENDSTOPD product differentiation.</string>"
+
+</resources>

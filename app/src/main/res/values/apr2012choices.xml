@@ -1,0 +1,117 @@
+<resources>
+    "<string name='apr2012_choices_1'>A natural resources, labour and money.
+ENDSTOPB labour, money and factories.
+ENDSTOPC natural resources, capital and factories.
+ENDSTOPD natural resources, labour and capital.</string>"
+    "<string name='apr2012_choices_2'>A all resources will eventually be exhausted.
+ENDSTOPB there are unlimited resources, we just have an allocation problem.
+ENDSTOPC there are unlimited wants and limited resources.
+ENDSTOPD all of the above.</string>"
+    "<string name='apr2012_choices_3'>A 150 units.
+ENDSTOPB 125 units.
+ENDSTOPC 75 units.
+ENDSTOPD 50 units.</string>"
+    "<string name='apr2012_choices_4'>A a surplus of Good X and price will rise.
+ENDSTOPB a shortage of Good X and price will fall.
+ENDSTOPC a surplus of Good X and price will fall.
+ENDSTOPD a shortage of Good X and price will rise.</string>"
+    "<string name='apr2012_choices_5'>A vertical.
+ENDSTOPB horizontal.
+ENDSTOPC upward sloping.
+ENDSTOPD downward sloping.</string>"
+    "<string name='apr2012_choices_6'>A rise at an increasing rate as consumption of Good X increases.
+ENDSTOPB rise at a decreasing rate as consumption of Good X increases.
+ENDSTOPC fall at an increasing rate as consumption of Good X increases.
+ENDSTOPD fall at a decreasing rate as consumption of Good X increases.</string>"
+    "<string name='apr2012_choices_7'>A having insurance makes an individual less careful.
+ENDSTOPB having insurance makes an individual more careful.
+ENDSTOPC the people taking out the insurance are those who have the highest risk.
+ENDSTOPD the people taking out the insurance are those who have the highest risk
+aversion.</string>"
+    "<string name='apr2012_choices_8'>A different consumer’s tastes but not different quality products.
+ENDSTOPB same quality products.
+ENDSTOPC different quality products reflecting different production costs.
+ENDSTOPD different varieties offered at the same price.</string>"
+    "<string name='apr2012_choices_9'>A The short run average cost declines.
+ENDSTOPB If inputs are doubled then output less than doubles.
+ENDSTOPC An increase in the variable factor of production holding the fixed factor of
+production constant leads to a higher increase in output.
+ENDSTOPD The long run average cost curve declines.</string>"
+    "<string name='apr2012_choices_10'>A Marginal physical product is equal to total physical product divided by
+average product.
+ENDSTOPB Average physical product is always greater than marginal physical product.
+ENDSTOPC Marginal physical product can never become negative.
+ENDSTOPD Average physical product can never become negative.</string>"
+    "<string name='apr2012_choices_11'>A Reduce its output.
+ENDSTOPB Raise its output.
+ENDSTOPC Raise its price.
+ENDSTOPD Reduce its price.</string>"
+    "<string name='apr2012_choices_12'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect price.
+ENDSTOPC the firm has to reduce price on all units sold in order to sell an additional unit.
+ENDSTOPD of the law of diminishing returns.</string>"
+    "<string name='apr2012_choices_13'>A equally by buyers and sellers.
+ENDSTOPB more heavily by buyers.
+ENDSTOPC more heavily by sellers.
+ENDSTOPD by neither buyers nor sellers.</string>"
+    "<string name='apr2012_choices_14'>A lower the price and raise output.
+ENDSTOPB maintain the existing price and output.
+ENDSTOPC lower the price but maintain existing output.
+ENDSTOPD maintain the existing price and raise output.</string>"
+    "<string name='apr2012_choices_15'>A average physical product falls.
+ENDSTOPB average physical product rises.
+ENDSTOPC marginal physical product falls.
+ENDSTOPD marginal physical product rises.</string>"
+    "<string name='apr2012_choices_16'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will fall.
+ENDSTOPD The effect on quantity is indeterminate but price will rise.</string>"
+    "<string name='apr2012_choices_17'>A Country Y has a comparative advantage in the production of Good A.
+ENDSTOPB Country X has an absolute advantage in the production of Good B.
+ENDSTOPC Country X has an absolute advantage in the production of Good A.
+ENDSTOPD Country Y has a comparative advantage in the production of Good B.</string>"
+    "<string name='apr2012_choices_18'>A increases in a recession and falls in a boom.
+ENDSTOPB arises when the unemployed lack the skills needed by newly created jobs.
+ENDSTOPC arises when those seeking work give up hope of finding a job.
+ENDSTOPD occurs as the result of a transition from one job to another.</string>"
+    "<string name='apr2012_choices_19'>A An increase in short run aggregate supply.
+ENDSTOPB A decrease in short run aggregate supply.
+ENDSTOPC An increase in aggregate demand.
+ENDSTOPD A decrease in aggregate demand.</string>"
+    "<string name='apr2012_choices_20'>A The demand for money is negatively related to the interest rate.
+ENDSTOPB The demand for money is positively related to the level of national income.
+ENDSTOPC The demand for money is negatively related to the price level.
+ENDSTOPD The demand for money can be divided into speculative, precautionary and
+transactions motives.</string>"
+    "<string name='apr2012_choices_21'>A Increased government expenditure on domestically produced goods.
+ENDSTOPB Increased money supply.
+ENDSTOPC Reduced corporate and personal taxation.
+ENDSTOPD A privatisation programme.</string>"
+    "<string name='apr2012_choices_22'>A an increase in aggregate demand and a reduction in real output.
+ENDSTOPB an increase in aggregate demand and an increase in real output.
+ENDSTOPC a reduction in aggregate demand and a reduction in real output.
+ENDSTOPD a reduction in aggregate demand and an increase in real output.</string>"
+    "<string name='apr2012_choices_23'>A decrease and the domestic money supply will rise.
+ENDSTOPB decrease and the domestic money supply will fall.
+ENDSTOPC increase and the domestic money supply will rise.
+ENDSTOPD increase and the domestic money supply will fall.</string>"
+    "<string name='apr2012_choices_24'>A 8%
+ENDSTOPB 11.1%
+ENDSTOPC 12.5%
+ENDSTOPD 44%</string>"
+    "<string name='apr2012_choices_25'>A An increase in the money supply.
+ENDSTOPB An increase in capital investment expenditure.
+ENDSTOPC An increase in education expenditure.
+ENDSTOPD An increase in research and development expenditure.</string>"
+    "<string name='apr2012_choices_26'>A lenders will gain at the expense of borrowers and employers will gain at the
+expense of workers.
+ENDSTOPB borrowers will gain at the expense of lenders and employers will gain at the
+expense of workers.
+ENDSTOPC borrowers will gain at the expense of lenders and workers will gain at the
+expense of employers.
+ENDSTOPD lenders will gain at the expense of borrowers and workers will gain at the
+expense of employers.</string>"
+
+</resources>

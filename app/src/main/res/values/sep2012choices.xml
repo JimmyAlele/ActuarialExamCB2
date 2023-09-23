@@ -1,0 +1,129 @@
+<resources>
+    "<string name='sep2012_choices_1'>A A rise in the price of fuel by 10.5 per cent.
+ENDSTOPB A rise in the price of fuel by 9 per cent.
+ENDSTOPC A rise in the price of fuel by 12 per cent.
+ENDSTOPD A rise in the price of fuel by less than 9 per cent.</string>"
+    "<string name='sep2012_choices_2'>A no change in price and a shortage.
+ENDSTOPB a rise in price and quantity sold.
+ENDSTOPC a rise in price and a shortage.
+ENDSTOPD a rise in price and a surplus.</string>"
+    "<string name='sep2012_choices_3'>A Marginal cost is equal to average variable cost when average variable cost is at
+a minimum.
+ENDSTOPB Average fixed cost always falls as output rises.
+ENDSTOPC Marginal cost cannot exceed average total cost.
+ENDSTOPD Average total cost exceeds average variable cost by an amount that declines
+with increasing output.</string>"
+    "<string name='sep2012_choices_4'>A There are many firms.
+ENDSTOPB Firms sell differentiated products.
+ENDSTOPC In the long run monopolistic powers enable firms to make excess profits.
+ENDSTOPD A firm can raise its price without losing all its customers.</string>"
+    "<string name='sep2012_choices_5'>A price inelastic.
+ENDSTOPB price elastic.
+ENDSTOPC of unit price elasticity.
+ENDSTOPD of infinite price elasticity.</string>"
+    "<string name='sep2012_choices_6'>A The marginal physical product of the 8th man is lower than the marginal
+physical product of the 10th man.
+ENDSTOPB The marginal physical product of the 8th man is higher than the marginal
+physical product of the 9th man.
+ENDSTOPC The marginal physical product of the 9th man is lower than that of the 10th
+man.
+ENDSTOPD The marginal physical product of the 10th man is negative.</string>"
+    "<string name='sep2012_choices_7'>A average total cost equals average revenue.
+ENDSTOPB average total cost is less than average revenue.
+ENDSTOPC average total cost is at a minimum.
+ENDSTOPD marginal cost is equal to average total cost.</string>"
+    "<string name='sep2012_choices_8'>A The long run average total cost curve is derived by joining all the minimum
+points of the short run average total cost curves.
+ENDSTOPB The minimum efficient scale is the point at which long run average costs must
+begin to fall.
+ENDSTOPC In the long run a firm cannot alter its fixed costs of production.
+ENDSTOPD If a firm trebles all its inputs and its output doubles then this is indicative of
+diseconomies of scale.</string>"
+    "<string name='sep2012_choices_9'>A The marginal cost of production is less than the average fixed cost of
+production.
+ENDSTOPB The average cost of production is rising.
+ENDSTOPC The average fixed cost of production is rising.
+ENDSTOPD The average cost of production exceeds the marginal cost of production.</string>"
+    "<string name='sep2012_choices_10'>A a firm’s competitors match both its price increases and price decreases.
+ENDSTOPB one firm in the industry sets the price for all other firms.
+ENDSTOPC a firm’s competitors match its price decreases but ignore its price increases.
+ENDSTOPD prices can either rise or fall; it depends on what happens to a firm’s
+competitors’ prices.</string>"
+    "<string name='sep2012_choices_11'>A a firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC a firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPD different firms charge different prices for the same product.</string>"
+    "<string name='sep2012_choices_12'>A Strategy 1
+ENDSTOPB Strategy 2
+ENDSTOPC Strategy 3
+ENDSTOPD Strategy 4</string>"
+    "<string name='sep2012_choices_13'>A Country A has a comparative advantage and an absolute advantage in
+producing Good Y.
+ENDSTOPB Country B has a comparative advantage in producing Good X and an absolute
+advantage in producing Good Y.
+ENDSTOPC Country A has a comparative advantage in producing Good Y and an absolute
+advantage in producing Good X.
+ENDSTOPD Country B has a comparative advantage in producing Good Y and an absolute
+advantage in producing Good X.</string>"
+    "<string name='sep2012_choices_14'>A €700 million
+ENDSTOPB €800 million
+ENDSTOPC €900 million
+ENDSTOPD €1000 million</string>"
+    "<string name='sep2012_choices_15'>A investment is increased when interest rates fall.
+ENDSTOPB an increase in consumer demand leads to a more than proportionate increase in
+the level of investment.
+ENDSTOPC an increase in investment will lead to a more than proportionate increase in
+output.
+ENDSTOPD the rate of change of investment affects the rate of change of output.</string>"
+    "<string name='sep2012_choices_16'>A Gross Domestic Product is greater than Gross National Income.
+ENDSTOPB Gross Domestic Product is less than Gross National Income.
+ENDSTOPC Gross Domestic Product is the same as Gross National Income.
+ENDSTOPD We cannot say whether Gross Domestic Product differs from Gross National
+Income from this information.</string>"
+    "<string name='sep2012_choices_17'>A fall as the short term interest rate rises.
+ENDSTOPB fall as the short term interest rate falls.
+ENDSTOPC rise as the short term interest rate rises.
+ENDSTOPD rise as the short term interest rate falls.</string>"
+    "<string name='sep2012_choices_18'>A An increase in Government expenditure.
+ENDSTOPB A decrease in the marginal propensity to save.
+ENDSTOPC An increase in the marginal propensity to save.
+ENDSTOPD An increase in autonomous investment.</string>"
+    "<string name='sep2012_choices_19'>A a rise in national income.
+ENDSTOPB an unplanned rise in stocks.
+ENDSTOPC inflationary pressures.
+ENDSTOPD a rise in the amount people plan to invest.</string>"
+    "<string name='sep2012_choices_20'>A an increase in aggregate demand and a reduction in real output and
+unemployment.
+ENDSTOPB an increase in aggregate demand, real output and unemployment.
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment.
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment.</string>"
+    "<string name='sep2012_choices_21'>A Lowering the rate of interest.
+ENDSTOPB Raising the rate of unemployment benefit.
+ENDSTOPC Higher voluntary redundancy payments for workers in declining industries.
+ENDSTOPD More government funds for retraining of the unemployed.</string>"
+    "<string name='sep2012_choices_22'>A an increase in aggregate demand and a reduction in real output.
+ENDSTOPB an increase in aggregate demand and an increase in real output.
+ENDSTOPC a reduction in aggregate demand and a reduction in real output.
+ENDSTOPD a reduction in aggregate demand and an increase in real output.</string>"
+    "<string name='sep2012_choices_23'>A velocity of circulation and nominal output are both fixed.
+ENDSTOPB ratio of the velocity of circulation to the price level is fixed.
+ENDSTOPC ratio of the money supply to the velocity of circulation is fixed.
+ENDSTOPD velocity of circulation and real output are both fixed.</string>"
+    "<string name='sep2012_choices_24'>A It has improved by 100 per cent.
+ENDSTOPB It has improved by 60 per cent.
+ENDSTOPC It has deteriorated by 100 per cent.
+ENDSTOPD It has deteriorated by 60 per cent.</string>"
+    "<string name='sep2012_choices_25'>A Migrant remittances
+ENDSTOPB Interest, profits and dividends paid to the rest of the world.
+ENDSTOPC Exports of services
+ENDSTOPD The purchase of foreign shares by a domestic pension fund.</string>"
+    "<string name='sep2012_choices_26'>A marginal cost than other countries.
+ENDSTOPB labour cost than other countries.
+ENDSTOPC absolute cost than other countries.
+ENDSTOPD opportunity cost than other countries.</string>"
+
+</resources>

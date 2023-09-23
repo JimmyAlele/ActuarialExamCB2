@@ -1,0 +1,115 @@
+<resources>
+
+    "<string name='sep2022_choices_1'>A The price of newspapers, the demand for electricity and the price of private
+education
+ENDSTOPB The price level, the demand for housing and the price of healthcare
+ENDSTOPC The rate of economic growth, the price of electricity and the demand for
+healthcare
+ENDSTOPD The demand for newspapers, the rate of inflation and the price of housing.</string>"
+    "<string name='sep2022_choices_2'>A increased current consumption.
+ENDSTOPB reduced future capital.
+ENDSTOPC reduced current consumption.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2022_choices_3'>A a rightward shift of the supply curve for ice cream.
+ENDSTOPB a leftward shift of the demand curve for frozen yoghurt.
+ENDSTOPC a rightward shift of the demand curve for ice cream.
+ENDSTOPD an increase in the quantity demanded for frozen yoghurt.</string>"
+    "<string name='sep2022_choices_4'>A Fizzy drinks
+ENDSTOPB Cars
+ENDSTOPC Jewellery
+ENDSTOPD Exotic holidays.</string>"
+    "<string name='sep2022_choices_5'>A 0.29.
+ENDSTOPB 2.
+ENDSTOPC 2.33.
+ENDSTOPD 4.</string>"
+    "<string name='sep2022_choices_6'>A perfectly price inelastic.
+ENDSTOPB relatively price inelastic.
+ENDSTOPC perfectly price elastic.
+ENDSTOPD relatively price elastic.</string>"
+    "<string name='sep2022_choices_7'>A production costs fall.
+ENDSTOPB the market price falls.
+ENDSTOPC there is technological progress.
+ENDSTOPD fewer firms are producing.</string>"
+    "<string name='sep2022_choices_8'>A mainly the consumer.
+ENDSTOPB mainly the producer.
+ENDSTOPC consumers and producers equally.
+ENDSTOPD not possible to determine.</string>"
+    "<string name='sep2022_choices_9'>A intersects the marginal product curve at its minimum.
+ENDSTOPB intersects the total cost curve at its minimum.
+ENDSTOPC is inversely related to the average cost curve.
+ENDSTOPD intersects the average cost curve at its minimum.</string>"
+    "<string name='sep2022_choices_10'>A Total cost
+ENDSTOPB Variable cost
+ENDSTOPC Marginal cost
+ENDSTOPD Fixed cost.</string>"
+    "<string name='sep2022_choices_11'>A exceeds marginal revenue.
+ENDSTOPB exceeds average fixed cost.
+ENDSTOPC exceeds average variable cost.
+ENDSTOPD exceeds total average cost.</string>"
+    "<string name='sep2022_choices_12'>A no change in the number of firms or profits.
+ENDSTOPB an increase in the number of firms and increase in profit.
+ENDSTOPC a reduction in the number of firms and potential losses.
+ENDSTOPD a reduction in the number of firms and an increase in profit.</string>"
+    "<string name='sep2022_choices_13'>A also the demand curve.
+ENDSTOPB above the demand curve.
+ENDSTOPC below the demand curve.
+ENDSTOPD perfectly horizontal.</string>"
+    "<string name='sep2022_choices_14'>A A reduction in interest rates leading to more economic growth and an increase
+in employment
+ENDSTOPB A reduction in tax leading to more economic growth and lower unemployment
+ENDSTOPC An increase in public expenditure leading to a fall in unemployment with
+higher prices
+ENDSTOPD None of the above.</string>"
+    "<string name='sep2022_choices_15'>A are a function of income.
+ENDSTOPB reduce aggregate demand.
+ENDSTOPC represent income leaving the economy.
+ENDSTOPD are linked to the level of income.</string>"
+    "<string name='sep2022_choices_16'>A £40 billion
+ENDSTOPB £80 billion
+ENDSTOPC £120 billion
+ENDSTOPD £360 billion.</string>"
+    "<string name='sep2022_choices_17'>A 1.4.
+ENDSTOPB 1.67.
+ENDSTOPC 2.5.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2022_choices_18'>A indirect taxes.
+ENDSTOPB depreciation of the capital stock.
+ENDSTOPC population size.
+ENDSTOPD changes in the price level.</string>"
+    "<string name='sep2022_choices_19'>A reductions in benefits.
+ENDSTOPB research and development subsidies.
+ENDSTOPC increased government spending.
+ENDSTOPD training more of the population.</string>"
+    "<string name='sep2022_choices_20'>A worsen due to lower unemployment.
+ENDSTOPB worsen due to higher incomes.
+ENDSTOPC improve because of lower tax revenue.
+ENDSTOPD improve due to less spending on benefits.</string>"
+    "<string name='sep2022_choices_21'>A maintain income tax bands.
+ENDSTOPB reduce income tax bands.
+ENDSTOPC increase wages.
+ENDSTOPD increase income tax bands.</string>"
+    "<string name='sep2022_choices_22'>A speculative motive.
+ENDSTOPB transaction motive.
+ENDSTOPC exchange motive.
+ENDSTOPD precautionary motive.</string>"
+    "<string name='sep2022_choices_23'>A decrease short-term interest rates and increase aggregate demand.
+ENDSTOPB decrease short-term interest rates and decrease aggregate demand.
+ENDSTOPC increase short-term interest rates and increase aggregate demand.
+ENDSTOPD increase short-term interest rates and decrease aggregate demand.</string>"
+    "<string name='sep2022_choices_24'>A when real wages in the economy are too high.
+ENDSTOPB at particular periods during the year when demand is low.
+ENDSTOPC when an industry experiences sustained decline in demand.
+ENDSTOPD when there is a sustained decline in aggregate demand.</string>"
+    "<string name='sep2022_choices_25'>A 22 million
+ENDSTOPB 14 million
+ENDSTOPC 12 million
+ENDSTOPD 10 million.</string>"
+    "<string name='sep2022_choices_26'>A a cut in the rate of income tax.
+ENDSTOPB a reduction in interest rates.
+ENDSTOPC an increase in government spending.
+ENDSTOPD an increase in energy prices.</string>"
+
+
+
+
+</resources>

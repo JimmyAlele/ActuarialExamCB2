@@ -1,0 +1,111 @@
+<resources>
+    "<string name='apr2020_choices_1'>A a choice between the production of consumer goods and the sacrifice of alternatives.
+ENDSTOPB the establishment of freedom of entry and exit.
+ENDSTOPC the establishment of a system of market prices.
+ENDSTOPD a decision to be made on the degree to which capital will be used in the production process rather than labour.</string>"
+    "<string name='apr2020_choices_2'>A provide a means of allocating resources.
+ENDSTOPB ensure that all consumer wants are satisfied.
+ENDSTOPC enable the government to control prices.
+ENDSTOPD ensure that all the goods that society needs are produced.</string>"
+    "<string name='apr2020_choices_3'>A the price of the good rises and demand for the good is price elastic.
+ENDSTOPB the price of the good rises and demand for the good is price inelastic.
+ENDSTOPC consumer income falls and the good is an inferior good.
+ENDSTOPD consumer income rises and the good is a normal good.</string>"
+    "<string name='apr2020_choices_4'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will fall.
+ENDSTOPD The effect on quantity is indeterminate but price will rise.</string>"
+    "<string name='apr2020_choices_5'>A quantity is 20 and price is 150.
+ENDSTOPB quantity is 30 and price is 100.
+ENDSTOPC quantity is 35 and price is 75.
+ENDSTOPD quantity is 40 and price is 50.</string>"
+    "<string name='apr2020_choices_6'>A The curve will shift to the left and become less elastic.
+ENDSTOPB The curve will shift to the right and become less elastic.
+ENDSTOPC The curve will shift to the left and become more elastic.
+ENDSTOPD The curve will shift to the right and become more elastic.</string>"
+    "<string name='apr2020_choices_7'>A short run average total cost falls as output rises.
+ENDSTOPB long run average total cost falls as output rises.
+ENDSTOPC long run average total cost rises as output rises.
+ENDSTOPD short run average total cost rises as output rises.</string>"
+    "<string name='apr2020_choices_8'>A A firm doubles its inputs, both capital and labour, and as a result its output more than doubles.
+ENDSTOPB A firm doubles the number of products it produces and also doubles its research budget.
+ENDSTOPC A firm produces a new product and in so doing lowers the average cost of producing its existing products.
+ENDSTOPD A firm produces a new product and in so doing lowers the price it charges on its existing products.</string>"
+    "<string name='apr2020_choices_9'>A its marginal revenue is greater than its marginal cost of production.
+ENDSTOPB its marginal revenue is greater than its average fixed cost.
+ENDSTOPC it can charge a price greater than its average fixed cost.
+ENDSTOPD it can charge a price greater than its average variable cost.</string>"
+    "<string name='apr2020_choices_10'>A increase as its output increases.
+ENDSTOPB decrease as its output increases.
+ENDSTOPC remain constant as its output increases.
+ENDSTOPD always be greater than its average variable costs of production.</string>"
+    "<string name='apr2020_choices_11'>A Marginal cost will increase by more than fixed cost.
+ENDSTOPB Marginal cost will increase by the same amount as fixed cost.
+ENDSTOPC Marginal cost will increase but by less than fixed cost.
+ENDSTOPD Marginal cost will remain unchanged.</string>"
+    "<string name='apr2020_choices_12'>A The firm can make losses in the short run.
+ENDSTOPB There are barriers to entry into the market.
+ENDSTOPC The firm can make only normal profits in the long run.
+ENDSTOPD Marginal revenue is equal to average revenue.</string>"
+    "<string name='apr2020_choices_13'>A the lowest point on its average total cost curve.
+ENDSTOPB a point where average total cost is rising.
+ENDSTOPC a point where average total cost is falling.
+ENDSTOPD a point where average total cost is equal to marginal cost.</string>"
+    "<string name='apr2020_choices_14'>A the marginal cost curve cuts the marginal revenue curve.
+ENDSTOPB the marginal cost curve cuts the demand curve.
+ENDSTOPC the average cost curve cuts the marginal revenue curve.
+ENDSTOPD the average cost curve cuts the demand curve.</string>"
+    "<string name='apr2020_choices_15'>A A rise in the average price of imports relative to the average price of exports.
+ENDSTOPB A fall in the quantity of imports relative to the quantity of exports.
+ENDSTOPC A rise in the quantity of exports while imports remain the same.
+ENDSTOPD A rise in the average price of exports relative to the average price of imports.</string>"
+    "<string name='apr2020_choices_16'>A Classical (real-wage).
+ENDSTOPB Frictional.
+ENDSTOPC Technological.
+ENDSTOPD Structural.</string>"
+    "<string name='apr2020_choices_17'>A reduce output and increase employment.
+ENDSTOPB reduce both output and employment.
+ENDSTOPC increase output and reduce employment.
+ENDSTOPD increase both output and employment.</string>"
+    "<string name='apr2020_choices_18'>A an increase in shareholders’ dividends causes them to increase their expenditure.
+ENDSTOPB the central bank will have to increase the supply of money, which will lead to an increase in the amount purchased.
+ENDSTOPC the government will have to reduce taxes, which will lead to an increase in the amount purchased.
+ENDSTOPD the real income of people earning a fixed quantity of money increases causing them to expand their purchases.</string>"
+    "<string name='apr2020_choices_19'>A the annual cycle of output.
+ENDSTOPB the long run trend path of output after removing short run variations.
+ENDSTOPC the periodic fluctuations of output around the long run trend.
+ENDSTOPD none of the above.</string>"
+    "<string name='apr2020_choices_20'>A A fall in wages.
+ENDSTOPB An increase in imported commodity prices.
+ENDSTOPC An increase in consumer expenditure.
+ENDSTOPD An increase in direct taxes.</string>"
+    "<string name='apr2020_choices_21'>A speculative motive for holding money.
+ENDSTOPB transactions motive for holding money.
+ENDSTOPC precautionary motive for holding money.
+ENDSTOPD asset motive for holding money.</string>"
+    "<string name='apr2020_choices_22'>A liquidity relative to its assets.
+ENDSTOPB liquidity relative to its capital.
+ENDSTOPC assets relative to its capital.
+ENDSTOPD capital relative to its assets.</string>"
+    "<string name='apr2020_choices_23'>A higher the level of prices, the lower will be the rate of unemployment.
+ENDSTOPB higher the rate of inflation, the lower will be the rate of unemployment.
+ENDSTOPC lower the level of prices, the lower will be the rate of unemployment.
+ENDSTOPD higher the rate of inflation, the higher will be the rate of unemployment.</string>"
+    "<string name='apr2020_choices_24'>A investment is increased when interest rates fall.
+ENDSTOPB an increase in national income can lead to a more than proportionate increase in the level of investment.
+ENDSTOPC an increase in investment can lead to a more than proportionate increase in national income.
+ENDSTOPD the rate of change of investment affects the rate of change of output.</string>"
+    "<string name='apr2020_choices_25'>A Time lags
+ENDSTOPB Uncertainty
+ENDSTOPC Crowding out
+ENDSTOPD The accelerator.</string>"
+    "<string name='apr2020_choices_26'>A raise government expenditure and reduce tax revenue.
+ENDSTOPB raise government expenditure and raise tax revenue.
+ENDSTOPC reduce government expenditure and raise tax revenue.
+ENDSTOPD reduce government expenditure and reduce tax revenue.</string>"
+
+
+
+
+
+</resources>

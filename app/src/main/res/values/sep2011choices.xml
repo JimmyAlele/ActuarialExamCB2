@@ -1,0 +1,141 @@
+<resources>
+    "<string name='sep2011_choices_1'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will rise.
+ENDSTOPD The effect on quantity is indeterminate but price will fall.</string>"
+    "<string name='sep2011_choices_2'>A The cost of producing Good X in money terms.
+ENDSTOPB The next best alternative use to which the factors of production used to produce
+Good X could be put.
+ENDSTOPC The stream of services provided by Good X over its entire lifetime.
+ENDSTOPD The production of Good X foregone in the previous year to enable Good X to be
+produced this year.</string>"
+    "<string name='sep2011_choices_3'>A attempts to maximise sales after assuming that the other firm will attempt to
+maximise sales.
+ENDSTOPB assumes the other firm will produce a given output and then chooses its profit
+maximising output.
+ENDSTOPC assumes the other firm’s price is given and then chooses its profit maximising
+price.
+ENDSTOPD will attempt to collude with the other firm so as to set a price and output level
+which will maximise industry level profits.</string>"
+    "<string name='sep2011_choices_4'>A Significant economies of scale.
+ENDSTOPB Heavy potential advertising costs.
+ENDSTOPC Large capital requirements.
+ENDSTOPD Constant returns to scale.</string>"
+    "<string name='sep2011_choices_5'>A The demand for air travel is price inelastic.
+ENDSTOPB The demand for air travel is price elastic.
+ENDSTOPC The demand for air travel is infinitely price elastic.
+ENDSTOPD The demand for air travel has zero price inelasticity.</string>"
+    "<string name='sep2011_choices_6'>A reduce price and increase output.
+ENDSTOPB reduce price and reduce output.
+ENDSTOPC increase price and increase output.
+ENDSTOPD increase price and reduce output.</string>"
+    "<string name='sep2011_choices_7'>A not run the extra flight as it will expect to lose £2,500 from its profits.
+ENDSTOPB not run the extra flight as its expected profit of £500 is insufficient to cover its
+fixed costs.
+ENDSTOPC run the extra flight as it will add £500 to its profits.
+ENDSTOPD not run the extra flight as the expected revenue of £2,500 is less than its fixed
+costs.</string>"
+    "<string name='sep2011_choices_8'>A costs of entry and exit are zero and potential entrants can enter the market
+quickly.
+ENDSTOPB existing companies charge identical prices.
+ENDSTOPC the barriers to entry are substantial but the existing firms compete so hard that
+industry profits are kept to the normal level over both the short and long run.
+ENDSTOPD existing firms compete on price and quality so as to maximise industry abnormal
+profits in the long run.</string>"
+    "<string name='sep2011_choices_9'>A has price elasticity equal to minus unity.
+ENDSTOPB is price inelastic.
+ENDSTOPC is price elastic.
+ENDSTOPD has price elasticity equal to zero.</string>"
+    "<string name='sep2011_choices_10'>A shift the supply curve for Good X up by less than £10 and increase the price by
+less than £10.
+ENDSTOPB shift the supply curve for Good X up by less than £10 and increase the price by
+more than £10.
+ENDSTOPC shift the supply curve for Good X up by £10 and increase the price by £10.
+ENDSTOPD shift the supply curve for Good X up by £10 and increase the price by less than
+£10.</string>"
+    "<string name='sep2011_choices_11'>A A bank, by raising its interest rates, will tend to increase the proportion of
+borrowers in its loan portfolio who do not intend to repay their loans.
+ENDSTOPB An insurance company by inserting extra clauses into an insurance contract will
+tend to reduce its customer base.
+ENDSTOPC Bank directors will tend to act in their own interests rather than that of their
+shareholders.
+ENDSTOPD An insurance policy with a 2 year time horizon is more likely to have a claim
+made against it than an insurance policy with a 1 year time horizon.</string>"
+    "<string name='sep2011_choices_12'>A economies of scale
+ENDSTOPB constant returns to scale
+ENDSTOPC diseconomies of scale
+ENDSTOPD diminishing marginal productivity</string>"
+    "<string name='sep2011_choices_13'>A Under perfect competition, in the long run only some firms can make excess
+profits.
+ENDSTOPB Under oligopoly all firms make decisions without taking into account the
+possible reactions of their competitors.
+ENDSTOPC For a monopolist facing a linear demand curve, average revenue is always less
+than marginal revenue.
+ENDSTOPD Firms under monopolistic competition charge a price above their marginal
+revenue.</string>"
+    "<string name='sep2011_choices_14'>A Increasing social security benefits.
+ENDSTOPB Increasing the money supply.
+ENDSTOPC Reducing corporate and personal taxation.
+ENDSTOPD Increasing government expenditure aimed at exploiting the multiplier effect.</string>"
+    "<string name='sep2011_choices_15'>A Moral hazard describes the fact that people who know that they are a particularly
+bad risk are more inclined to take out insurance.
+ENDSTOPB Moral hazard describes the fact that a policyholder may act in a way which
+makes the insured event more likely to occur.
+ENDSTOPC Moral hazard describes the fact that people who know that they are a particularly
+bad risk are less inclined to take out insurance.
+ENDSTOPD Moral hazard describes the risk that an insurance company will face false
+insurance claims.</string>"
+    "<string name='sep2011_choices_16'>A savings, taxes and investment are withdrawals.
+ENDSTOPB savings, imports and taxes are withdrawals.
+ENDSTOPC investment, government expenditure and imports are injections.
+ENDSTOPD investment, exports and consumption are injections.</string>"
+    "<string name='sep2011_choices_17'>A salaries of school teachers
+ENDSTOPB net income from abroad
+ENDSTOPC company profits
+ENDSTOPD investment expenditure</string>"
+    "<string name='sep2011_choices_18'>A If nominal Gross Domestic Product (GDP) rises by 5 per cent then the real GDP
+may have risen, fallen or remained unchanged.
+ENDSTOPB A nominal depreciation of a country’s exchange rate represents a real
+depreciation if the domestic inflation rate is less than the foreign inflation rate.
+ENDSTOPC An increase in real income will lead to a rise in the demand for real money
+balances.
+ENDSTOPD Real interest rates are positive if the expected rate of inflation is greater than the
+nominal rate of interest.</string>"
+    "<string name='sep2011_choices_19'>A £200 million
+ENDSTOPB £312.5 million
+ENDSTOPC £1,000 million
+ENDSTOPD £800 million</string>"
+    "<string name='sep2011_choices_20'>A decreases and national income is lower.
+ENDSTOPB decreases and national income is higher.
+ENDSTOPC increases and national income is lower.
+ENDSTOPD increases and national income is higher.</string>"
+    "<string name='sep2011_choices_21'>A add net income from abroad and deduct transfer payments.
+ENDSTOPB deduct net income from abroad and add capital depreciation.
+ENDSTOPC add net income from abroad.
+ENDSTOPD add net income from abroad and deduct capital depreciation.</string>"
+    "<string name='sep2011_choices_22'>A rise as the short term interest rate rises.
+ENDSTOPB rise as the short term interest rate falls.
+ENDSTOPC fall as the short term interest rate rises.
+ENDSTOPD fall as the short term interest rate falls.</string>"
+    "<string name='sep2011_choices_23'>A higher domestic interest rates and an exchange rate appreciation.
+ENDSTOPB higher domestic interest rates and an exchange rate depreciation.
+ENDSTOPC lower domestic interest rates and an exchange rate appreciation.
+ENDSTOPD lower domestic interest rates and an exchange rate depreciation.</string>"
+    "<string name='sep2011_choices_24'>A £250 million
+ENDSTOPB £260 million
+ENDSTOPC £270 million
+ENDSTOPD £280 million</string>"
+    "<string name='sep2011_choices_25'>A Country A has a comparative advantage and an absolute advantage in producing
+Good Y.
+ENDSTOPB Country B has a comparative advantage in producing Good X and an absolute
+advantage in producing Good Y.
+ENDSTOPC Country A has a comparative advantage in producing Good X and an absolute
+advantage in producing Good Y.
+ENDSTOPD Country B has a comparative advantage in producing Good Y and an absolute
+advantage in producing Good X.</string>"
+    "<string name='sep2011_choices_26'>A increasing its net liabilities and/or increasing its net assets.
+ENDSTOPB decreasing its net liabilities and/or increasing its net assets.
+ENDSTOPC increasing its net liabilities and/or decreasing its net assets.
+ENDSTOPD decreasing its net liabilities and/or decreasing its net assets.</string>"
+
+</resources>

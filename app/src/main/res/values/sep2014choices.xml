@@ -1,0 +1,135 @@
+<resources>
+    "<string name='sep2014_choices_1'>A natural resources, labour and money.
+ENDSTOPB labour, money and factories.
+ENDSTOPC natural resources, capital and factories.
+ENDSTOPD natural resources, labour and capital.</string>"
+    "<string name='sep2014_choices_2'>A exists only in economies which rely on the market mechanism.
+ENDSTOPB could be eliminated if we force prices to fall.
+ENDSTOPC means that there are shortages of some goods.
+ENDSTOPD exists because there are insufficient resources to satisfy human wants.</string>"
+    "<string name='sep2014_choices_3'>A A change in the price of Good X.
+ENDSTOPB A change in the price of other goods.
+ENDSTOPC A change in consumer incomes.
+ENDSTOPD A change in consumer tastes.</string>"
+    "<string name='sep2014_choices_4'>A The effect on price is indeterminate but quantity will fall.
+ENDSTOPB The effect on price is indeterminate but quantity will rise.
+ENDSTOPC The effect on quantity is indeterminate but price will rise.
+ENDSTOPD The effect on quantity is indeterminate but price will fall.</string>"
+    "<string name='sep2014_choices_5'>A The marginal utility from each good consumed will be higher for X than for Y
+and X will have a higher total utility.
+ENDSTOPB The marginal utility from each good consumed will be higher for X than for Y
+and X will have a lower total utility.
+ENDSTOPC The marginal utility from each good consumed will be lower for X than for Y
+and X will have a higher total utility.
+ENDSTOPD The marginal utility from each good consumed will be lower for X than for Y
+and X will have a lower total utility.</string>"
+    "<string name='sep2014_choices_6'>A having insurance makes an individual less careful.
+ENDSTOPB having insurance makes an individual more careful.
+ENDSTOPC the people taking out the insurance are those who have the highest risk.
+ENDSTOPD the people taking out the insurance are those who have the highest risk
+aversion.</string>"
+    "<string name='sep2014_choices_7'>A different consumer’s tastes but not different quality products.
+ENDSTOPB same quality products.
+ENDSTOPC different quality products reflected in different production costs.
+ENDSTOPD different varieties offered at the same price.</string>"
+    "<string name='sep2014_choices_8'>A Short run average total cost falls as output rises.
+ENDSTOPB Long run average total cost falls as output rises.
+ENDSTOPC Long run average total cost rises as output rises.
+ENDSTOPD Short run average total cost rises as output rises.</string>"
+    "<string name='sep2014_choices_9'>A The firm will equate its marginal costs to its average revenue.
+ENDSTOPB The firm will equate its marginal costs to its marginal revenue.
+ENDSTOPC The firm’s average revenue exceeds its average variable costs of production.
+ENDSTOPD The firm will make only normal profits.</string>"
+    "<string name='sep2014_choices_10'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit.
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect the price.
+ENDSTOPC the firm has to reduce the price on all previous units sold in order to sell the
+additional unit.
+ENDSTOPD the law of diminishing returns directly affects the price of an imperfectly
+competitive firm’s product.</string>"
+    "<string name='sep2014_choices_11'>A each firm will not take account of its rival’s reactions when making its
+decision.
+ENDSTOPB the price set by one firm will not influence the price of the other firm.
+ENDSTOPC in avoiding the worst possible outcome the firms will fail to reach the best
+possible outcome.
+ENDSTOPD in avoiding the worst possible outcome the firms will succeed in reaching the
+best possible outcome.</string>"
+    "<string name='sep2014_choices_12'>A franchise.
+ENDSTOPB joint venture.
+ENDSTOPC merger.
+ENDSTOPD licensing agreement.</string>"
+    "<string name='sep2014_choices_13'>A a firm charges customers different prices according to how much they
+purchase.
+ENDSTOPB consumers are grouped into independent markets and a separate price is
+charged in each market.
+ENDSTOPC a firm charges each customer the maximum price he/she is prepared to pay.
+ENDSTOPD different firms charge different prices for the same product.</string>"
+    "<string name='sep2014_choices_14'>A shift the supply curve for Good X up by less than £3 and increase the price by
+less than £3.
+ENDSTOPB shift the supply curve for Good X up by less than £3 and increase the price by
+more than £3.
+ENDSTOPC shift the supply curve for Good X up by £3 and increase the price by £3.
+ENDSTOPD shift the supply curve for Good X up by £3 and increase the price by less than
+£3.</string>"
+    "<string name='sep2014_choices_15'>A 75
+ENDSTOPB 120
+ENDSTOPC 125
+ENDSTOPD 150</string>"
+    "<string name='sep2014_choices_16'>A increases in a recession and falls in a boom.
+ENDSTOPB arises when the unemployed lack the skills needed by existing and newly
+created jobs.
+ENDSTOPC arises when those seeking work give up hope of finding a job.
+ENDSTOPD occurs as the result of a transition from one job to another.</string>"
+    "<string name='sep2014_choices_17'>A A decrease in interest rates.
+ENDSTOPB A rise in exchange rates.
+ENDSTOPC A rise in government expenditure.
+ENDSTOPD An increase in business confidence.</string>"
+    "<string name='sep2014_choices_18'>A If nominal Gross Domestic Product (GDP) rises by 5 per cent with no inflation
+then the real GDP will have risen by 5 per cent.
+ENDSTOPB A nominal depreciation of a country’s exchange rate represents a real
+depreciation if the domestic inflation rate is less than the foreign inflation rate.
+ENDSTOPC An increase in real income will lead to a rise in the demand for real money
+balances.
+ENDSTOPD Real interest rates are positive if the expected rate of inflation is greater than
+the nominal rate of interest.</string>"
+    "<string name='sep2014_choices_19'>A domestic inflation rates are unavoidably linked across national boundaries.
+ENDSTOPB domestic inflation in one country can lead to inflation in another.
+ENDSTOPC domestic inflation is dictated outside the bounds that would have constrained
+prices in a fixed rate regime.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2014_choices_20'>A the government spends more money.
+ENDSTOPB the government buys Treasury bills from the public.
+ENDSTOPC a citizen buys a newly issued corporate bond.
+ENDSTOPD a firm obtains an overdraft from a bank.</string>"
+    "<string name='sep2014_choices_21'>A an increase in aggregate demand and a reduction in real output and
+unemployment.
+ENDSTOPB an increase in aggregate demand, real output and unemployment.
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment.
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment.</string>"
+    "<string name='sep2014_choices_22'>A Expansionary fiscal policy.
+ENDSTOPB Increasing the money supply.
+ENDSTOPC A reduction in trade union powers.
+ENDSTOPD Better education and training.</string>"
+    "<string name='sep2014_choices_23'>A I only.
+ENDSTOPB II only.
+ENDSTOPC I and II only.
+ENDSTOPD I, II and III.</string>"
+    "<string name='sep2014_choices_24'>A Increase unemployment benefit
+ENDSTOPB Increase government expenditure
+ENDSTOPC Increase the money supply
+ENDSTOPD Increase information flows on job availability</string>"
+    "<string name='sep2014_choices_25'>A comparative advantage.
+ENDSTOPB absolute advantage.
+ENDSTOPC different factor endowments.
+ENDSTOPD all of the above.</string>"
+    "<string name='sep2014_choices_26'>A £1 million
+ENDSTOPB £20 million
+ENDSTOPC £200 million
+ENDSTOPD £400 million</string>"
+
+
+
+</resources>

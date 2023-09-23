@@ -1,0 +1,127 @@
+<resources>
+    "<string name='apr2016_choices_1'>A Price rises, quantity demanded falls and quantity supplied rises.
+ENDSTOPB Price rises, quantity demanded falls and quantity supplied falls.
+ENDSTOPC Price falls, quantity demanded rises and quantity supplied falls.
+ENDSTOPD Price rises, quantity demanded rises and quantity supplied rises.</string>"
+    "<string name='apr2016_choices_2'>A will fall and the equilibrium quantity may rise or fall.
+ENDSTOPB will fall and the equilibrium quantity will rise.
+ENDSTOPC may rise or fall or remain the same and the equilibrium quantity will fall.
+ENDSTOPD may rise or fall or remain the same and the equilibrium quantity will rise.</string>"
+    "<string name='apr2016_choices_3'>A -12
+ENDSTOPB -0.5
+ENDSTOPC -2
+ENDSTOPD -4</string>"
+    "<string name='apr2016_choices_4'>A average physical product falls.
+ENDSTOPB average physical product rises.
+ENDSTOPC marginal physical product falls.
+ENDSTOPD marginal physical product rises.</string>"
+    "<string name='apr2016_choices_5'>A Advertising is intended to shift the demand curve for a firm’s product upwards
+to the right.
+ENDSTOPB Advertising is intended to make the demand for a firm’s product more price
+elastic.
+ENDSTOPC A potential feature of a successful advertising campaign is that it increases a
+firm’s total revenue by more than it increases the firm’s total costs.
+ENDSTOPD Advertising can enable a firm to gain economies of scale.</string>"
+    "<string name='apr2016_choices_6'>A and exit from it are both costless.
+ENDSTOPB is costly, but exit from it is costless.
+ENDSTOPC is costless, but exit from it is costly.
+ENDSTOPD and exit from it are both costly.</string>"
+    "<string name='apr2016_choices_7'>A E(U(X - a)) = U(a – P)
+ENDSTOPB E(U(a - X)) = U(P – a)
+ENDSTOPC E(U(a - X)) = U(a – P)
+ENDSTOPD E(U(X - a)) = U(P – a)</string>"
+    "<string name='apr2016_choices_8'>A If more labour is added to a given amount of capital, the marginal product of
+labour remains unchanged.
+ENDSTOPB If the ratio of labour to capital doubles, the output of the firm also doubles.
+ENDSTOPC If both the input of capital and labour doubles, output remains constant.
+ENDSTOPD If the input of capital and labour doubles, the ratio of output to inputs is
+unchanged.</string>"
+    "<string name='apr2016_choices_9'>A reduce price and increase output.
+ENDSTOPB reduce price and reduce output.
+ENDSTOPC increase price and increase output.
+ENDSTOPD increase price and reduce output.</string>"
+    "<string name='apr2016_choices_10'>A average total cost curve.
+ENDSTOPB average variable cost curve.
+ENDSTOPC marginal cost curve above the lowest point of the average total cost curve.
+ENDSTOPD marginal cost curve above the lowest point of the average variable cost curve.</string>"
+    "<string name='apr2016_choices_11'>A Some degree of monopoly power ensures that in the long run firms can make
+supernormal profits.
+ENDSTOPB There is freedom of entry and exit into the industry in the long run.
+ENDSTOPC Firms in the industry produce differentiated products.
+ENDSTOPD Firms in the industry charge prices above their marginal costs of production.</string>"
+    "<string name='apr2016_choices_12'>A Under perfect competition, in the long run only some firms can make excess
+profits.
+ENDSTOPB Under oligopoly all firms make decisions without taking into account the
+possible reactions of their competitors.
+ENDSTOPC For a monopolist facing a linear demand curve, average revenue is always less
+than marginal revenue.
+ENDSTOPD Firms under monopolistic competition charge a price above their marginal
+revenue.</string>"
+    "<string name='apr2016_choices_13'>A not run the extra flight as it will expect to lose £4,500 from its profits.
+ENDSTOPB not run the extra flight as its expected profit of £1,500 is insufficient to cover
+its fixed costs.
+ENDSTOPC run the extra flight as it will add £1,500 to its profits.
+ENDSTOPD not run the extra flight as the expected revenue of £4,500 is less than its fixed
+costs.</string>"
+    "<string name='apr2016_choices_14'>A the income method
+ENDSTOPB the expenditure method
+ENDSTOPC the product method
+ENDSTOPD the investment method</string>"
+    "<string name='apr2016_choices_15'>A £250 million.
+ENDSTOPB £260 million.
+ENDSTOPC £270 million.
+ENDSTOPD £280 million.</string>"
+    "<string name='apr2016_choices_16'>A £70 million
+ENDSTOPB £143 million
+ENDSTOPC £170 million
+ENDSTOPD £333 million</string>"
+    "<string name='apr2016_choices_17'>A a fall in the rate of interest
+ENDSTOPB a rise in the real Gross Domestic Product
+ENDSTOPC the rise in the frequency with which people are paid
+ENDSTOPD a higher expectation that stock prices will fall</string>"
+    "<string name='apr2016_choices_18'>A £200 million
+ENDSTOPB £312.5 million
+ENDSTOPC £1,000 million
+ENDSTOPD £800 million</string>"
+    "<string name='apr2016_choices_19'>A add net income from abroad and add capital depreciation.
+ENDSTOPB add net income from abroad and deduct capital depreciation.
+ENDSTOPC deduct net income from abroad and add capital depreciation.
+ENDSTOPD deduct net income from abroad and deduct capital depreciation.</string>"
+    "<string name='apr2016_choices_20'>A a depreciation of the domestic currency as the short term domestic interest rate
+falls.
+ENDSTOPB a depreciation of the domestic currency as the short term domestic interest rate
+rises.
+ENDSTOPC an appreciation of the domestic currency as the short term domestic interest
+rate rises.
+ENDSTOPD an appreciation of the domestic currency as the short term domestic interest
+rate falls.</string>"
+    "<string name='apr2016_choices_21'>A decreasing social security benefits
+ENDSTOPB decreasing the money supply
+ENDSTOPC increasing corporate and personal taxation
+ENDSTOPD increasing government expenditure aimed at exploiting the multiplier effect</string>"
+    "<string name='apr2016_choices_22'>A surplus of £25 billion.
+ENDSTOPB deficit of £75 billion.
+ENDSTOPC surplus of £75 billion.
+ENDSTOPD deficit of £25 billion.</string>"
+    "<string name='apr2016_choices_23'>A the GDP per capita must rise.
+ENDSTOPB the GDP per capita must fall.
+ENDSTOPC the GDP per capita remains constant.
+ENDSTOPD there is insufficient information to determine what has happened to GDP per
+capita.</string>"
+    "<string name='apr2016_choices_24'>A a decrease in trade union powers
+ENDSTOPB a depreciation of the domestic currency\'s exchange rate
+ENDSTOPC a rise in labour productivity
+ENDSTOPD a fall in the profit margins applied by firms</string>"
+    "<string name='apr2016_choices_25'>A absolute advantage.
+ENDSTOPB comparative advantage.
+ENDSTOPC different factor endowments.
+ENDSTOPD all of the above.</string>"
+    "<string name='apr2016_choices_26'>A The demand for money is positively related to the interest rate.
+ENDSTOPB The demand for money is negatively related to wealth.
+ENDSTOPC The demand for money is negatively related to the general price level.
+ENDSTOPD The demand for money is positively related to real income.</string>"
+
+
+
+
+</resources>
