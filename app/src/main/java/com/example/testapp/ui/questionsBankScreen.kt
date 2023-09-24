@@ -21,12 +21,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.testapp.data.DataSource
 import com.example.testapp.data.QuestionsBank
 import com.example.testapp.data.questionsBankList
 
 @Composable
 fun QuestionsBankScreen(
-    onNextButtonClicked: () -> Unit,
+    onNextButtonClicked: (List<DataSource>) -> Unit,
     questionsBankList: List<QuestionsBank>
 ) {
     Column (
@@ -52,7 +53,7 @@ fun QuestionsBankScreen(
 @Composable
 fun QuestionsBankCard(
     questionsBankListItem: QuestionsBank,
-    onNextButtonClicked: () -> Unit,
+    onNextButtonClicked: (List<DataSource>) -> Unit,
     modifier: Modifier = Modifier,
 ) {
 
@@ -80,19 +81,20 @@ fun QuestionsBankCard(
                 horizontalArrangement = Arrangement.SpaceAround,
                 modifier = Modifier
                     .fillMaxWidth()
-                    .clickable(
-                        onClick = onNextButtonClicked
-                )
-                    ) {
+                ) {
                 Text(
                     text = questionsBankListItem.session_one,
                     fontSize = 16.sp,
                     fontWeight = FontWeight.Normal,
+                    modifier = Modifier
+                        .clickable(onClick = { onNextButtonClicked(questionsBankListItem.session_one_name) })
                 )
                 Text(
                     text = questionsBankListItem.session_two,
                     fontSize = 16.sp,
                     fontWeight = FontWeight.Normal,
+                    modifier = Modifier
+                        .clickable(onClick = { onNextButtonClicked(questionsBankListItem.session_two_name) })
                 )
             }
         }

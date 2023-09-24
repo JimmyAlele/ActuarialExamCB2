@@ -9,10 +9,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.testapp.data.apr2012questionsList
-import com.example.testapp.data.apr2022questionsList
 import com.example.testapp.data.questionsBankList
-import com.example.testapp.data.apr2023questionsList
+import com.example.testapp.data.DataSource
 
 enum class TestAppScreens() {
     HomeScreen,
@@ -49,7 +47,8 @@ fun TestApp(
         composable(route = TestAppScreens.QuestionsBankScreen.name){
             QuestionsBankScreen(
                 questionsBankList = questionsBankList,
-                onNextButtonClicked = {
+                onNextButtonClicked = { test: List<DataSource> ->
+                    viewModel.selectTest(test)
                     navController.navigate(TestAppScreens.TestScreen.name)
                 }
             )
@@ -57,7 +56,7 @@ fun TestApp(
 
         composable(route = TestAppScreens.TestScreen.name){
             TestScreen(
-                questions = apr2022questionsList,
+                questions = uiState.selectedTest,
                 enableClickable = uiState.enableClickable,
                 onOptionSelected = { index: Int, answer: List<Int>, text: String, choices: MutableList<String> ->
                     viewModel.checkAnswer(index, answer, text, choices) },
@@ -81,7 +80,7 @@ fun TestApp(
 
         composable(route = TestAppScreens.TestReviewScreen.name){
             TestScreen(
-                questions = apr2022questionsList,
+                questions = uiState.selectedTest,
                 enableClickable = uiState.enableClickable,
                 onOptionSelected = { index: Int, answer: List<Int>, text: String, choices: MutableList<String> ->
                     viewModel.checkAnswer(index, answer, text, choices) },

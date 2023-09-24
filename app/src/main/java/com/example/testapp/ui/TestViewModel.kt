@@ -1,11 +1,11 @@
 package com.example.testapp.ui
 
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import com.example.testapp.data.apr2023questionsList
+import androidx.navigation.NavBackStackEntry
+import com.example.testapp.data.DataSource
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -80,6 +80,14 @@ class TestViewModel: ViewModel() {
         //selectedAnswers.clear()
         //selectedOptions.clear()
         //scoresList.clear()
+    }
+
+    fun selectTest(newTest: List<DataSource>) {
+        _uiState.update { currentState ->
+            currentState.copy(
+                selectedTest = newTest
+            )
+        }
     }
 }
 

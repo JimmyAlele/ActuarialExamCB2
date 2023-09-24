@@ -14,29 +14,10 @@ data class QuestionsBank (
     val year: Int,
     val session_one: String,
     val session_two: String,
+    val session_one_name: List<DataSource>,
+    val session_two_name: List<DataSource>
 )
 
-val questionsBankList = listOf(
-    QuestionsBank(2023, "April", "September"),
-    QuestionsBank(2022, "April", "September"),
-    QuestionsBank(2021, "April", "September"),
-    QuestionsBank(2020, "April", "September"),
-    QuestionsBank(2019, "April", "September"),
-    QuestionsBank(2018, "April", "September"),
-    QuestionsBank(2017, "April", "September"),
-    QuestionsBank(2016, "April", "September"),
-    QuestionsBank(2015, "April", "September"),
-    QuestionsBank(2014, "April", "September"),
-    QuestionsBank(2013, "April", "September"),
-    QuestionsBank(2012, "April", "September"),
-    QuestionsBank(2011, "April", "September"),
-    QuestionsBank(2010, "April", "September"),
-    QuestionsBank(2009, "April", "September"),
-    QuestionsBank(2008, "April", "September"),
-    QuestionsBank(2007, "April", "September"),
-    QuestionsBank(2006, "April", "September"),
-    QuestionsBank(2005, "April", "September"),
-)
 
 val apr2023questionsList: List<DataSource> = listOf(DataSource(R.string.q1, R.string.apr2023_que_1, R.string.apr2023_choices_1, listOf(3)),
     DataSource(R.string.q2, R.string.apr2023_que_2, R.string.apr2023_choices_2, listOf(2)),
@@ -1060,6 +1041,25 @@ val sep2005questionsList: List<DataSource> = listOf(DataSource(R.string.q1, R.st
     DataSource(R.string.q26, R.string.sep2005_que_26, R.string.sep2005_choices_26, listOf(3)),
 )
 
-
-
+val questionsBankList = listOf(
+    QuestionsBank(2023, "April", "September", apr2023questionsList, apr2023questionsList),
+    QuestionsBank(2022, "April", "September", apr2022questionsList, sep2022questionsList),
+    QuestionsBank(2021, "April", "September", apr2021questionsList, sep2021questionsList),
+    QuestionsBank(2020, "April", "September", apr2020questionsList, sep2020questionsList),
+    QuestionsBank(2019, "April", "September", apr2019questionsList, sep2019questionsList),
+    QuestionsBank(2018, "April", "September", apr2018questionsList, sep2018questionsList),
+    QuestionsBank(2017, "April", "September", apr2017questionsList, sep2017questionsList),
+    QuestionsBank(2016, "April", "September", apr2016questionsList, sep2016questionsList),
+    QuestionsBank(2015, "April", "September", apr2015questionsList, sep2015questionsList),
+    QuestionsBank(2014, "April", "September", apr2014questionsList, sep2014questionsList),
+    QuestionsBank(2013, "April", "September", apr2013questionsList, sep2013questionsList),
+    QuestionsBank(2012, "April", "September", apr2012questionsList, sep2012questionsList),
+    QuestionsBank(2011, "April", "September", apr2011questionsList, sep2011questionsList),
+    QuestionsBank(2010, "April", "September", apr2010questionsList, sep2010questionsList),
+    QuestionsBank(2009, "April", "September", apr2009questionsList, sep2009questionsList),
+    QuestionsBank(2008, "April", "September", apr2008questionsList, sep2008questionsList),
+    QuestionsBank(2007, "April", "September", apr2007questionsList, sep2007questionsList),
+    QuestionsBank(2006, "April", "September", apr2006questionsList, sep2006questionsList),
+    QuestionsBank(2005, "April", "September", apr2005questionsList, sep2005questionsList),
+    )
 
