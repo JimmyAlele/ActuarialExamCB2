@@ -21,7 +21,7 @@ arrangement is referred to as a:</string>"
     <string name='sep2014_que_13'>Third degree price discrimination refers to the situation where:</string>
     "<string name='sep2014_que_14'>The demand for Good X has a price elasticity of −1. If the government decided to
 impose a sales tax of £3 per unit on Good X this would:</string>"
-    "<string name='sep2014_que_15'>Given an initial terms of trade price index of 100, if the average price of exports has
+    "<string name='sep2014_que_15' formatted="false">Given an initial terms of trade price index of 100, if the average price of exports has
 risen by 50% since the base year and the average price of imports has risen by 25%
 since the base year, what is the current figure for the terms of trade?</string>"
     <string name='sep2014_que_16'>Structural unemployment is unemployment that:</string>

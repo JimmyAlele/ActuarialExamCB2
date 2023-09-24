@@ -1,4 +1,5 @@
-<resources>"<string name='sep2006_que_1'>The solution to the economic allocation problem of deciding WHICH goods to
+<resources>
+    "<string name='sep2006_que_1'>The solution to the economic allocation problem of deciding WHICH goods to
 produce requires:</string>"
     "<string name='sep2006_que_2'>The limits on the output of finished goods as imposed by a limited supply of
 productive inputs may be shown on a diagram whose axes are:</string>"
@@ -48,5 +49,6 @@ economists to achieving full employment when an economy is in recession is that:
     <string name='sep2006_que_25'>One way of reducing the natural rate of unemployment would be to increase:</string>
     "<string name='sep2006_que_26'>Country A exports Good X to Country B and imports Good Y from Country B. The
 price of Good X rises from £5 to £7 and the price of Good Y falls from £10 to £8.
-Which of the following statements is TRUE about Country A's terms of trade?</string>"
+Which of the following statements is TRUE about Country A\'s terms of trade?</string>"
+
 </resources>

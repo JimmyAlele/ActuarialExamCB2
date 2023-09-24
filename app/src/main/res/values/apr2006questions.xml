@@ -1,4 +1,5 @@
-<resources><string name='apr2006_que_1'>If demand increases and supply decreases then the:</string>
+<resources>
+    <string name='apr2006_que_1'>If demand increases and supply decreases then the:</string>
     "<string name='apr2006_que_2'>Flour is an essential input in the production of bread. An increase in the price of flour
 would have an impact on the demand and supply of bread by:</string>"
     "<string name='apr2006_que_3'>In the diagram below points X and Y represent the equilibrium price and quantity
@@ -22,7 +23,7 @@ currently operating at a level of output where marginal revenue is greater than
 marginal cost. The monopolist should:</string>"
     <string name='apr2006_que_14'>In the short run a rise in the fixed costs of production for a monopolist causes:</string>
     <string name='apr2006_que_15'>The kinked demand curve model of oligopoly:</string>
-    "<string name='apr2006_que_16'>In a country with a rising population nominal Gross Domestic Product (GDP)
+    "<string name='apr2006_que_16' formatted="false">In a country with a rising population nominal Gross Domestic Product (GDP)
 increases at a rate of 3% per annum while the GDP deflator increases at 2% per
 annum. Which of the following MUST be true?</string>"
     "<string name='apr2006_que_17'>To obtain a measure of Net National Product from Gross National Product it is
@@ -33,14 +34,14 @@ necessary to:</string>"
     "<string name='apr2006_que_21'>If a household s disposable income increases from £15,000 to £20,000 and its
 consumption expenditure increases from £10,000 to £12,000 then the marginal
 propensity to consume is:</string>"
-    "<string name='apr2006_que_22'>Following an increase in the price of fuel there is a 20% increase in the price of air
+    "<string name='apr2006_que_22' formatted="false">Following an increase in the price of fuel there is a 20% increase in the price of air
 travel tickets which results in a 10% decrease in total revenue. How would you
 describe the demand for air travel?</string>"
     "<string name='apr2006_que_23'>If the money supply decreases due to a contractionary open market operation by the
 central bank then the price of treasury bills will:</string>"
     "<string name='apr2006_que_24'>According to Keynesian analysis the adoption of an expansionary fiscal policy will
 result in:</string>"
-    "<string name='apr2006_que_25'>A country with a population of 25 million has 20 million in employment and 1 million
+    "<string name='apr2006_que_25' formatted="false">A country with a population of 25 million has 20 million in employment and 1 million
 unemployed. What is the unemployment rate?</string>"
     <string name='apr2006_que_26'>A country is running a current account deficit. In relation to the rest of the world it is:</string>
 </resources>

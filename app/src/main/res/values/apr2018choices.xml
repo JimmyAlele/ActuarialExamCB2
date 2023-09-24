@@ -71,7 +71,7 @@ ENDSTOPB Gross Domestic Product is less than Gross National Income.
 ENDSTOPC Gross Domestic Product is the same as Gross National Income.
 ENDSTOPD we cannot say whether Gross Domestic Product differs from Gross National
 Income from this information.</string>"
-    "<string name='apr2018_choices_16'>A 4.76%
+    "<string name='apr2018_choices_16' formatted="false">A 4.76%
 ENDSTOPB 5.0%
 ENDSTOPC 6.25%
 ENDSTOPD 6.67%</string>"

@@ -43,7 +43,7 @@ ENDSTOPD the output of the two firms will always be identical.</string>"
 B Firm A – High; Firm B – High
 ENDSTOPC Firm A – Low; Firm B – Low
 ENDSTOPD Firm A – Low; Firm B – High</string>"
-    "<string name='apr2021_choices_11'>A If more labour is added to a given amount of capital, the marginal product of
+    "<string name='apr2021_choices_11' formatted="false">A If more labour is added to a given amount of capital, the marginal product of
 labour falls.
 ENDSTOPB If the ratio of labour to capital increases by 100%, the output of the firm
 increases by less than 100%.

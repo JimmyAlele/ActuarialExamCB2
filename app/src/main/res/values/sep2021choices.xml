@@ -15,7 +15,7 @@ ENDSTOPD the change in price causes an increase in purchasing power.</string>"
 ENDSTOPB At higher levels of output, firms will incur higher costs.
 ENDSTOPC The higher the price, the more profitable a good becomes to produce.
 ENDSTOPD Firms expect future prices to fall.</string>"
-    "<string name='sep2021_choices_5'>A 2%.
+    "<string name='sep2021_choices_5' formatted="false">A 2%.
 ENDSTOPB 4%.
 ENDSTOPC 6%.
 ENDSTOPD 8%.</string>"
@@ -94,7 +94,7 @@ ENDSTOPD Increasing government expenditure aimed at exploiting the multiplier ef
 ENDSTOPB an increase in aggregate demand and an increase in real output.
 ENDSTOPC a reduction in aggregate demand and a reduction in real output.
 ENDSTOPD a reduction in aggregate demand and an increase in real output.</string>"
-    "<string name='sep2021_choices_20'>A 8%
+    "<string name='sep2021_choices_20' formatted="false">A 8%
 ENDSTOPB 11.1%
 ENDSTOPC 12.5%
 ENDSTOPD 13%.</string>"

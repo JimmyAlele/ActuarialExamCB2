@@ -44,7 +44,7 @@ Index of UK prices = 118
 Index of Euro-area prices = 110
 Nominal Euro / £ (sterling) exchange rate = 1.58
 UK marginal tax rate = 0.15</string>"
-    "<string name='apr2007_que_24'>Wage negotiations are under way and workers and employers anticipate the price
+    "<string name='apr2007_que_24' formatted="false">Wage negotiations are under way and workers and employers anticipate the price
 inflation rate to be 8% and the money supply to increase by 8%. As a result wages
 are increased by 8% to maintain equilibrium. The government plans to increase the
 money supply by 4%, but only they know this. What will be the outcome?</string>"

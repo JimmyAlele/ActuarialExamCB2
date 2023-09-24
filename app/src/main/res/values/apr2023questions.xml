@@ -8,7 +8,7 @@ that produces in both the short run and the long run?</string>"
     "<string name='apr2023_que_5'>The prisoner’s dilemma, applied to a situation involving two oligopolistic firms,
 illustrates that:</string>"
     <string name='apr2023_que_6'>The welfare consequences of third-degree price discrimination are to the benefit of:</string>
-    "<string name='apr2023_que_7'>The demand for Good X has a price elasticity of 1. Tax on Good X is £10 per unit. If
+    "<string name='apr2023_que_7'>The demand for Good X has a price elasticity of -1. Tax on Good X is £10 per unit. If
 the government decides to reduce the tax on Good X to £5 per unit, this would shift
 the supply curve for Good X down by:</string>"
     "<string name='apr2023_que_8'>An economy moves from producing 15 units of Good X and six units of Good Y to
@@ -20,7 +20,8 @@ be:</string>"
     "<string name='apr2023_que_11'>A firm’s short-run total costs are £250 when ten units are produced and its total
 variable costs are £100. The marginal cost of producing the tenth unit is £27 and the
 marginal cost of producing the eleventh unit is £23. Which of the following is TRUE?</string>"
-    <string name='apr2023_que_12'>Skipped</string>
+    "<string name='apr2023_que_12'>In a duopoly industry, the profit payoffs to Firm X arising from various strategies will
+depend on Firm Y’s strategy. The profit payoffs to Firm X are given below: Which one of the following represents the maximin strategy of Firm X?</string>"
     "<string name='apr2023_que_13'>Global Airways, which is a profit-maximising firm, has to decide whether or not to
 run an extra daily flight between London and Manchester. The total daily fixed costs
 of the airline are £4,000, the total variable costs of the extra flight are £4,500 and the
@@ -61,5 +62,4 @@ likely to lead to inflation if the:</string>"
     "<string name='apr2023_que_26'>Other things being equal in an economy with zero economic growth, if the expected
 rate of inflation on which wage settlements are based is 3% p.a. and the money supply
 is increasing at 4% p.a., then there will be a short-run:</string>"
-
 </resources>

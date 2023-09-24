@@ -18,7 +18,7 @@ maximise profits then it should:</string>"
     <string name='apr2017_que_11'>A perfectly contestable market is a market where the:</string>
     "<string name='apr2017_que_12'>Which of the following is NOT usually given as a reason why firms form strategic
 alliances?</string>"
-    "<string name='apr2017_que_13'>The terms of trade index is initially set at 100. If the average price of exports has
+    "<string name='apr2017_que_13' formatted="false">The terms of trade index is initially set at 100. If the average price of exports has
 risen by 50% since the base year and the average price of imports has risen by 20%
 since the base year, what is the current figure for the terms of trade index to the
 nearest whole number?</string>"
@@ -40,7 +40,7 @@ through open market operations are likely to cause short term interest rates to:
     "<string name='apr2017_que_23'>Consider an economy where the demand for real money balances is interest inelastic
 and the demand for investment is interest elastic. A change in the money supply will
 result in a relatively:</string>"
-    "<string name='apr2017_que_24'>The nominal rate of interest is 2% and the rate of inflation is negative at −3%. Which
+    "<string name='apr2017_que_24' formatted="false">The nominal rate of interest is 2% and the rate of inflation is negative at −3%. Which
 one of the following is TRUE?</string>"
     "<string name='apr2017_que_25'>The introduction of a restrictive monetary policy in an open economy operating with a
 flexible exchange rate would most likely lead to:</string>"

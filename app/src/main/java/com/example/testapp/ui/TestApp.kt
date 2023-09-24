@@ -9,8 +9,10 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.testapp.data.apr2012questionsList
+import com.example.testapp.data.apr2022questionsList
 import com.example.testapp.data.questionsBankList
-import com.example.testapp.data.questionsList
+import com.example.testapp.data.apr2023questionsList
 
 enum class TestAppScreens() {
     HomeScreen,
@@ -55,16 +57,16 @@ fun TestApp(
 
         composable(route = TestAppScreens.TestScreen.name){
             TestScreen(
-                questions = questionsList,
+                questions = apr2022questionsList,
                 enableClickable = uiState.enableClickable,
-                onOptionSelected = { index: Int, answer: Int, text: String, choices: MutableList<String> ->
+                onOptionSelected = { index: Int, answer: List<Int>, text: String, choices: MutableList<String> ->
                     viewModel.checkAnswer(index, answer, text, choices) },
                 selectedOptions = viewModel.selectedOptions,
                 score = uiState.score,
                 onSubmitButtonClicked = { viewModel.testFinished() },
-                onCancelButtonClicked = {
+                onHomeButtonClicked = {
                     viewModel.resetTest()
-                    navController.popBackStack(TestAppScreens.HomeScreen.name, inclusive = false)
+                    navController.popBackStack(TestAppScreens.QuestionsBankScreen.name, inclusive = false)
                                         },
                 onReviewTestButtonClicked = {
                     viewModel.reviewTest()
@@ -79,16 +81,16 @@ fun TestApp(
 
         composable(route = TestAppScreens.TestReviewScreen.name){
             TestScreen(
-                questions = questionsList,
+                questions = apr2022questionsList,
                 enableClickable = uiState.enableClickable,
-                onOptionSelected = { index: Int, answer: Int, text: String, choices: MutableList<String> ->
+                onOptionSelected = { index: Int, answer: List<Int>, text: String, choices: MutableList<String> ->
                     viewModel.checkAnswer(index, answer, text, choices) },
                 selectedOptions = viewModel.selectedOptions,
                 score = uiState.score,
                 onSubmitButtonClicked = { viewModel.testFinished() },
-                onCancelButtonClicked = {
+                onHomeButtonClicked = {
                     viewModel.resetTest()
-                    navController.popBackStack(TestAppScreens.HomeScreen.name, inclusive = false)
+                    navController.popBackStack(TestAppScreens.QuestionsBankScreen.name, inclusive = false)
                                         },
                 onReviewTestButtonClicked = {
                     viewModel.reviewTest()

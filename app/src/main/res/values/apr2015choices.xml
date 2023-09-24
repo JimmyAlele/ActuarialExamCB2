@@ -1,5 +1,5 @@
 <resources>
-    "<string name='apr2015_choices_1'>A 5%.
+    "<string name='apr2015_choices_1' formatted="false">A 5%.
 ENDSTOPB 7%.
 ENDSTOPC 8%.
 ENDSTOPD 10%.</string>"
@@ -15,7 +15,7 @@ ENDSTOPD The effect on quantity is indeterminate but price will fall.</string>"
 ENDSTOPB short run excess profits are competed away by new firms entering the industry.
 ENDSTOPC short run excess profits lead to price rises.
 ENDSTOPD short run excess profits are caused by barriers to entry and exit.</string>"
-    "<string name='apr2015_choices_5'>A 2%.
+    "<string name='apr2015_choices_5' formatted="false">A 2%.
 ENDSTOPB 4%.
 ENDSTOPC 6%.
 ENDSTOPD 8%.</string>"

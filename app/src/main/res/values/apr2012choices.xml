@@ -97,7 +97,7 @@ ENDSTOPD a reduction in aggregate demand and an increase in real output.</string
 ENDSTOPB decrease and the domestic money supply will fall.
 ENDSTOPC increase and the domestic money supply will rise.
 ENDSTOPD increase and the domestic money supply will fall.</string>"
-    "<string name='apr2012_choices_24'>A 8%
+    "<string name='apr2012_choices_24' formatted="false">A 8%
 ENDSTOPB 11.1%
 ENDSTOPC 12.5%
 ENDSTOPD 44%</string>"

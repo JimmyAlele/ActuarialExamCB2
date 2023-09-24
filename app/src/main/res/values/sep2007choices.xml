@@ -18,7 +18,7 @@ ENDSTOPD make the budget line less steep</string>"
 ENDSTOPB a leftward shift of the demand curve for Good X
 ENDSTOPC a movement along the demand curve for Good X from left to right
 ENDSTOPD a movement along the demand curve for Good X from right to left</string>"
-    "<string name='sep2007_choices_6'>A Investment A dominates Investment ENDSTOPB in over 50% of possible scenarios.
+    "<string name='sep2007_choices_6' formatted="false">A Investment A dominates Investment ENDSTOPB in over 50% of possible scenarios.
 B Investment A has a lower standard deviation of returns than Investment B.
 ENDSTOPC Investment A dominates Investment B in 100% of possible scenarios.
 ENDSTOPD Investment A has a higher expected rate of return than Investment B.</string>"

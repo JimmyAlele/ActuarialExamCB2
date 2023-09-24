@@ -51,6 +51,7 @@ fun HomeScreen(
                     shape = RoundedCornerShape(28.dp),
                     modifier = Modifier
                         .fillMaxWidth()
+                        .padding(4.dp)
                 ) {
                     Column(
                         verticalArrangement = Arrangement.SpaceAround,

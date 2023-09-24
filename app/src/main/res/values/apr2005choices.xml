@@ -109,7 +109,7 @@ exchange rate moves to preserve purchasing power parity
 ENDSTOPC domestic inflation is dictated outside the bounds that would have constrained
 prices in a fixed rate regime
 ENDSTOPD none of the above</string>"
-    "<string name='apr2005_choices_25'>A 4.0
+    "<string name='apr2005_choices_25' formatted="false">A 4.0
 ENDSTOPB 3.0
 ENDSTOPC 1.2
 ENDSTOPD 0.8</string>"

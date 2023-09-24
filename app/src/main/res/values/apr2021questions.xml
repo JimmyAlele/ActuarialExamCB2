@@ -1,5 +1,5 @@
 <resources>
-    "<string name='apr2021_que_1'>If an 8% rise in the price of Good X results in a 4% fall in the quantity demanded of
+    "<string name='apr2021_que_1' formatted="false">If an 8% rise in the price of Good X results in a 4% fall in the quantity demanded of
 Good Y, then the cross elasticity of demand for Good Y is approximately:</string>"
     "<string name='apr2021_que_2'>A production possibility frontier illustrates the limits on output of finished goods, as
 imposed by a limited supply of productive inputs. On the axes of the production
@@ -46,7 +46,7 @@ unanticipated extra-high inflation?</string>"
 in all of the following with the exception of:</string>"
     "<string name='apr2021_que_23'>An unexpected increase in the price level, which causes a temporary reduction in the
 real wage rate, may:</string>"
-    "<string name='apr2021_que_24'>The nominal rate of interest is 7% and the expected rate of inflation is 4%. Which one
+    "<string name='apr2021_que_24' formatted="false">The nominal rate of interest is 7% and the expected rate of inflation is 4%. Which one
 of the following is TRUE?</string>"
     <string name='apr2021_que_25'>Which of the following statements about the demand for money is FALSE?</string>
     "<string name='apr2021_que_26'>Other things being equal, if there is an unexpected fall in money supply, there is no

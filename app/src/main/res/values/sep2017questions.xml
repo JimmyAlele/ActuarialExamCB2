@@ -30,7 +30,7 @@ expansion?</string>"
 unemployment?</string>"
     "<string name='sep2017_que_19'>A government’s attempts to increase the monetary base (narrow money supply)
 through open market operations are likely to cause short term interest rates to:</string>"
-    "<string name='sep2017_que_20'>The nominal rate of interest is 2% and the expected rate of inflation is positive at 3%.
+    "<string name='sep2017_que_20' formatted="false">The nominal rate of interest is 2% and the expected rate of inflation is positive at 3%.
 Which one of the following is TRUE?</string>"
     "<string name='sep2017_que_21'>All other things being equal, which of the following events would cause the value of
 Country A’s currency to appreciate against the value of Country B’s currency?</string>"

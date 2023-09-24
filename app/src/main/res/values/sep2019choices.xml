@@ -65,7 +65,7 @@ ENDSTOPD A rise in the average price of exports relative to the average price of
 ENDSTOPB Cyclical unemployment.
 ENDSTOPC Seasonal unemployment.
 ENDSTOPD Structural unemployment.</string>"
-    "<string name='sep2019_choices_16'>A 5.9%
+    "<string name='sep2019_choices_16' formatted="false">A 5.9%
 ENDSTOPB 5.3%
 ENDSTOPC 5.0%
 ENDSTOPD 6.3%</string>"

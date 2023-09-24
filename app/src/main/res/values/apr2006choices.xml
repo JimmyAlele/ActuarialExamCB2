@@ -107,7 +107,7 @@ ENDSTOPC an increase in aggregate demand and real output and a reduction in
 unemployment
 ENDSTOPD a reduction in aggregate demand and real output and an increase in
 unemployment</string>"
-    "<string name='apr2006_choices_25'>A 4.8%
+    "<string name='apr2006_choices_25' formatted="false">A 4.8%
 ENDSTOPB 4.0%
 ENDSTOPC 5.0%
 ENDSTOPD 5.3%</string>"

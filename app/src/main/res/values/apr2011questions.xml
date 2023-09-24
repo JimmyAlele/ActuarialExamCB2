@@ -26,7 +26,7 @@ output per period?</string>"
 the long run firms will:</string>"
     "<string name='apr2011_que_14'>Which of the following is NOT usually given as a reason why firms form strategic
 alliances?</string>"
-    "<string name='apr2011_que_15'>If the average price of exports has risen by 50% since the base year and the average
+    "<string name='apr2011_que_15' formatted="false">If the average price of exports has risen by 50% since the base year and the average
 price of imports has risen by 25% since the base year, what is the current figure for
 the terms of trade?</string>"
     <string name='apr2011_que_16'>Firms can benefit through specialisation and international trade due to:</string>

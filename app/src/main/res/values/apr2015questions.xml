@@ -1,5 +1,5 @@
 <resources>
-    "<string name='apr2015_que_1'>A company makes economic profits of 10%. The risk premium for the company’s
+    "<string name='apr2015_que_1' formatted="false">A company makes economic profits of 10%. The risk premium for the company’s
 line of business is 5%. If the banks offer a rate of interest on savings accounts of 3%,
 the opportunity cost to the owners of the company is:</string>"
     "<string name='apr2015_que_2'>Good X is an inferior good. A rise in consumer income when the supply curve for

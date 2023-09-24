@@ -4,7 +4,7 @@ respond to an increase in the price of a substitute good?</string>"
     "<string name='apr2016_que_2'>If the demand for Good X increases (due to a rise in income of consumers) and the
 supply of Good X increases (due to increased worker productivity) then the
 equilibrium price of Good X:</string>"
-    "<string name='apr2016_que_3'>If an 8% rise in the price of Good X results in a 4% fall in the quantity of Good X
+    "<string name='apr2016_que_3' formatted="false">If an 8% rise in the price of Good X results in a 4% fall in the quantity of Good X
 demanded then the approximate price elasticity of demand for Good X is:</string>"
     "<string name='apr2016_que_4'>In the short run, the range of output over which average total cost falls will be the
 same as the range over which:</string>"

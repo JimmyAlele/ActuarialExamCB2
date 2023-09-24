@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name='apr2022_que_1'>Which of the following will lead to a leftward shift in the demand for cars?</string>
     <string name='apr2022_que_2'>Which one of the following is NOT a feature of a capitalist economy?</string>
     "<string name='apr2022_que_3'>The maximum an economy can produce is either 20 units of Good X or 80 units of
@@ -27,7 +27,7 @@ decision of the firms.]</string>"
     "<string name='apr2022_que_13'>A firm operates in two markets, Market 1 and Market 2, and price discriminates when
 profit maximising. In such circumstances, its marginal revenue in Market 1 is equal to
 the:</string>"
-    "<string name='apr2022_que_14'>In a simple closed economy with no government sector, the consumption function
+    "<string name='apr2022_que_14' tools:ignore="TypographyOther">In a simple closed economy with no government sector, the consumption function
 relating consumption (C) to income (Y) is given by the expression:
 C = £80 million + 0.75 Y
 Planned investment is constant at £50 million.
@@ -54,7 +54,7 @@ consumption increases from £17,000 to £21,000, what is the household’s margi
 propensity to save?</string>"
     "<string name='apr2022_que_23'>Given the following aggregate data for Country A, what is the value of leakages
 (withdrawals) into the circular flow of income?</string>"
-    "<string name='apr2022_que_24'>If the real rate of interest is 5% and the expected inflation rate is 4%, then the nominal
+    "<string name='apr2022_que_24' formatted="false">If the real rate of interest is 5% and the expected inflation rate is 4%, then the nominal
 rate of interest is approximately:</string>"
     "<string name='apr2022_que_25'>The minimum wage is currently above the equilibrium wage. Which one of the
 following policies will increase voluntary unemployment?</string>"

@@ -47,18 +47,18 @@ import java.util.Locale
 fun TestScreen(
     questions: List<DataSource>,
     enableClickable: Boolean,
-    onOptionSelected: (Int, Int, String, MutableList<String>) -> Unit,
+    onOptionSelected: (Int, List<Int>, String, MutableList<String>) -> Unit,
     selectedOptions: MutableList<Int?>,
     score: Int,
     onSubmitButtonClicked: () -> Unit,
-    onCancelButtonClicked: () -> Unit,
+    onHomeButtonClicked: () -> Unit,
     onReviewTestButtonClicked: () -> Unit,
     testFinished: Boolean,
     reviewTest: Boolean,
     showAlertDialog: Boolean,
     modifier: Modifier
 ) {
-    var answer: Int = 0
+    var answer: List<Int> = listOf()
 
     Column (
         modifier = Modifier.fillMaxSize(),
@@ -89,6 +89,14 @@ fun TestScreen(
                     modifier = Modifier
                         .fillMaxWidth()
                 ) {
+                    Button(onClick = onHomeButtonClicked)
+                    {
+                        Text(
+                            text = "Back to Home",
+                            fontSize = 16.sp
+                        )
+                    }
+
                     Button(
                         enabled = enableClickable,
                         onClick = onSubmitButtonClicked
@@ -99,14 +107,6 @@ fun TestScreen(
                             fontSize = 16.sp
                         )
                     }
-
-                    Button(onClick = onCancelButtonClicked)
-                    {
-                        Text(
-                            text = "Cancel",
-                            fontSize = 16.sp
-                        )
-                    }
                 }
             }
         }
@@ -114,7 +114,7 @@ fun TestScreen(
     if (testFinished && showAlertDialog) {
         FinalScoreDialog(
             score = score,
-            onCancelButtonClicked = onCancelButtonClicked,
+            onCancelButtonClicked = onHomeButtonClicked,
             onReviewTestButtonClicked = onReviewTestButtonClicked,
             modifier = Modifier
         )
@@ -125,11 +125,11 @@ fun TestScreen(
 fun QuestionCard(
     question: DataSource,
     enableClickable: Boolean,
-    onOptionSelected: (Int, Int, String, MutableList<String>) -> Unit,
+    onOptionSelected: (Int, List<Int>, String, MutableList<String>) -> Unit,
     selectedOptions: MutableList<Int?>,
     currentQuestion: Int,
     reviewTest: Boolean,
-    answer: Int,
+    answer: List<Int>,
     modifier: Modifier = Modifier,
 ) {
 
@@ -137,7 +137,7 @@ fun QuestionCard(
         elevation = CardDefaults.cardElevation(32.dp),
         shape = RoundedCornerShape(8.dp),
         colors = if (
-            reviewTest && selectedOptions[currentQuestion] != question.answer
+            reviewTest && selectedOptions[currentQuestion] !in question.answer
         ) {
             CardDefaults.cardColors(MaterialTheme.colorScheme.error)
         } else {
@@ -173,11 +173,14 @@ fun QuestionCard(
                         fontWeight = FontWeight.SemiBold
                     )
 
-                    Text(
-                        text = ("Correct Answer: Option ${answer + 1}"),
+                    // displays the correct answer options on the top right of the card
+                    /*Text(
+                        text = ("Correct Answer: Option ${
+                            answer.map{ it + 1}
+                        }"),
                         fontSize = 12.sp,
                         fontWeight = FontWeight.SemiBold,
-                    )
+                    )*/
                 }
             }
 
@@ -197,7 +200,7 @@ fun QuestionCard(
                         .height(120.dp)
                         ) {
                     Image(
-                        painter = painterResource(R.drawable.apr2023_img_12),
+                        painter = painterResource(question.imageRes),
                         contentDescription = null,
                         alignment = Alignment.Center,
                         contentScale = ContentScale.Fit,
@@ -224,10 +227,10 @@ fun QuestionCard(
 fun RadioGroup(
     questionChoices: Int,
     enableClickable: Boolean,
-    onOptionSelected: (Int, Int, String, MutableList<String>) -> Unit,
+    onOptionSelected: (Int, List<Int>, String, MutableList<String>) -> Unit,
     selectedOptions: MutableList<Int?>,
     currentQuestion: Int,
-    answer: Int,
+    answer: List<Int>,
     reviewTest: Boolean,
     modifier: Modifier = Modifier,
 ) {
@@ -254,17 +257,29 @@ fun RadioGroup(
             ) {
 
                 if (reviewTest) {
-                    // show icons that highlight whether the option is right or wrong
+                    // show icons that highlight whether the option is correct or wrong
                     // will only show when the app is in reviewTest mode
-                    when (choices.indexOf(text)) {
-                        answer -> Icon(
+                    when {
+                        choices.indexOf(text) in answer
+                                && choices.indexOf(text) == selectedOptions[currentQuestion] -> Icon(
                             imageVector = Icons.Default.CheckCircle,
                             contentDescription = "tick"
                         )
-                        else -> Icon(
+
+                        choices.indexOf(text) == selectedOptions[currentQuestion]
+                                && choices.indexOf(text) !in answer -> Icon(
                             painter = painterResource(id = R.drawable.cancel_24px),
-                            contentDescription = "cross"
+                            contentDescription = "cross")
+
+                        choices.indexOf(text) in answer -> Icon(
+                            imageVector = Icons.Default.CheckCircle,
+                            contentDescription = "tick"
                         )
+
+                        else -> {Icon(
+                            painterResource(id = R.drawable.radio_button_unchecked_24px),
+                            contentDescription = null
+                        )}
                     }
                 } else {
                     //show ordinary radio buttons if test is in progress

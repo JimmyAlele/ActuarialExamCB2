@@ -99,7 +99,7 @@ ENDSTOPD Less than 0.2</string>"
 ENDSTOPB £550 billion
 ENDSTOPC £600 billion
 ENDSTOPD £700 billion.</string>"
-    "<string name='apr2022_choices_24'>A 1%.
+    "<string name='apr2022_choices_24' formatted="false">A 1%.
 ENDSTOPB 1.25%.
 ENDSTOPC 9%.
 ENDSTOPD 13%.</string>"

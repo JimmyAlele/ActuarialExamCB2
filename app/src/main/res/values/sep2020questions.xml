@@ -3,7 +3,7 @@
     <string name='sep2020_que_2'>Which of the following best describes the opportunity cost of producing Good X?</string>
     <string name='sep2020_que_3'>Under the Cournot model of duopoly, a firm:</string>
     <string name='sep2020_que_4'>Which of the following is NOT a feature of monopolistic competition?</string>
-    "<string name='sep2020_que_5'>Following an increase in the price of fuel, there is a 20% increase in the price of air
+    "<string name='sep2020_que_5' formatted="false">Following an increase in the price of fuel, there is a 20% increase in the price of air
 travel tickets that results in a 20% decrease in total revenue.
 Which of the following statements is TRUE about the demand for air travel?</string>"
     "<string name='sep2020_que_6'>A consumer uses only two goods, X and Y. Currently the marginal utility of the last

@@ -59,7 +59,7 @@ ENDSTOPD all of the above.</string>"
 ENDSTOPB arises when the unemployed lack the skills needed by newly created jobs.
 ENDSTOPC arises when those seeking work give up hope of finding a job.
 ENDSTOPD occurs as the result of a transition from one job to another.</string>"
-    "<string name='sep2018_choices_14'>A 5.9%
+    "<string name='sep2018_choices_14' formatted="false">A 5.9%
 ENDSTOPB 5.3%
 ENDSTOPC 5.0%
 ENDSTOPD 6.3%</string>"

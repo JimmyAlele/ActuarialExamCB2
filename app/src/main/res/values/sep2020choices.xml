@@ -80,7 +80,7 @@ ENDSTOPD there may or may not be unemployment.</string>"
 ENDSTOPB decrease the demand for money and increase aggregate demand.
 ENDSTOPC increase the demand for money and decrease aggregate demand.
 ENDSTOPD decrease the demand for money and decrease aggregate demand.</string>"
-    "<string name='sep2020_choices_18'>A If nominal Gross Domestic Product (GDP) rises by 5%, then the real GDP may
+    "<string name='sep2020_choices_18' formatted="false">A If nominal Gross Domestic Product (GDP) rises by 5%, then the real GDP may
 have risen, fallen or remained unchanged
 ENDSTOPB If the money supply falls by 20% and the price level falls by less than 20%, then
 the real money supply falls

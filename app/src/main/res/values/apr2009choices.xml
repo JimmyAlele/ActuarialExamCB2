@@ -80,7 +80,7 @@ ENDSTOPD 0.8</string>"
 ENDSTOPB 0.8
 ENDSTOPC 5
 ENDSTOPD 0.2</string>"
-    "<string name='apr2009_choices_20'>A 5.9%
+    "<string name='apr2009_choices_20' formatted="false">A 5.9%
 ENDSTOPB 5.3%
 ENDSTOPC 5.0%
 ENDSTOPD 6.3%</string>"
