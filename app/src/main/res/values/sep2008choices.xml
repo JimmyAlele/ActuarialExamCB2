@@ -1,0 +1,118 @@
+<resources>"<string name='sep2008_choices_1'>A an increase in the stock of capital (machinery)
+ENDSTOPB an increase in the production of consumption goods
+ENDSTOPC a decision to fully utilise unemployed resources
+ENDSTOPD a decrease in the population</string>"
+    "<string name='sep2008_choices_2'>A no change in price and a shortage.
+ENDSTOPB a rise in price and quantity sold.
+ENDSTOPC a rise in price and a shortage.
+ENDSTOPD a rise in price and a surplus.</string>"
+    "<string name='sep2008_choices_3'>A 150 units.
+ENDSTOPB 125 units.
+ENDSTOPC 75 units.
+ENDSTOPD 50 units.</string>"
+    "<string name='sep2008_choices_4'>A Inferior goods are goods for which the income elasticity of demand is
+negative.
+ENDSTOPB Giffen goods are goods for which the own price elasticity of demand is
+positive.
+ENDSTOPC Complementary goods tend to have positive cross price elasticity of demand.
+ENDSTOPD Substitute goods tend to have positive cross price elasticity of demand.</string>"
+    "<string name='sep2008_choices_5'>A fewer bananas and more apples.
+ENDSTOPB fewer bananas and fewer apples.
+ENDSTOPC more bananas and more apples.
+ENDSTOPD more bananas and fewer apples.</string>"
+    "<string name='sep2008_choices_6'>A increasing relative risk aversion.
+ENDSTOPB declining absolute risk aversion.
+ENDSTOPC increasing absolute risk aversion.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2008_choices_7'>A Marginal cost is equal to average variable cost when average variable cost is at
+a minimum.
+ENDSTOPB Average fixed cost always falls as output rises.
+ENDSTOPC Marginal cost cannot exceed average total cost.
+ENDSTOPD Average total cost exceeds average variable cost by an amount that declines
+with increasing output.</string>"
+    "<string name='sep2008_choices_8'>A product differentiation.
+ENDSTOPB the large number of firms operating in the industry.
+ENDSTOPC ease of entry into the industry.
+ENDSTOPD cost minimisation.</string>"
+    "<string name='sep2008_choices_9'>A inelastic.
+ENDSTOPB elastic.
+ENDSTOPC equal to unity.
+ENDSTOPD indeterminate.</string>"
+    "<string name='sep2008_choices_10'>A The marginal revenue product of the 8th man is lower than the marginal
+revenue product of the 10th man.
+ENDSTOPB The marginal revenue product of the 8th man is higher than the marginal
+revenue product of the 9th man.
+ENDSTOPC The marginal revenue product of the 9th man is lower than that of the 10th
+man.
+ENDSTOPD The marginal revenue product of the 10th man is negative.</string>"
+    "<string name='sep2008_choices_11'>A average total cost equals average revenue.
+ENDSTOPB average total cost is less than average revenue.
+ENDSTOPC average total cost is at a minimum.
+ENDSTOPD marginal cost is equal to average total cost.</string>"
+    "<string name='sep2008_choices_12'>A if more labour is added to a given amount of capital the marginal product of
+labour remains unchanged
+ENDSTOPB if the ratio of labour to capital doubles, the output of the firm also doubles
+ENDSTOPC if the input of both capital and labour doubles, the output of the firm remains
+constant
+ENDSTOPD if the input of capital and labour doubles, the output of the firm also doubles</string>"
+    "<string name='sep2008_choices_13'>A £1,200 billion
+ENDSTOPB £750 billion
+ENDSTOPC £600 billion
+ENDSTOPD £1,000 billion</string>"
+    "<string name='sep2008_choices_14'>A the marginal propensity to consume is 0.25 and the multiplier is 1.33.
+ENDSTOPB the marginal propensity to consume is 0.25 and the multiplier is 4.
+ENDSTOPC the marginal propensity to consume is 0.75 and the multiplier is 4.
+ENDSTOPD the marginal propensity to consume is 0.75 and the multiplier is 1.33.</string>"
+    "<string name='sep2008_choices_15'>A investment is increased when interest rates fall.
+ENDSTOPB an increase in investment will lead to a more than proportionate increase in
+output.
+ENDSTOPC the level of investment expenditure is determined by the rate of change of
+national income.
+ENDSTOPD investment is increased when interest rates rise.</string>"
+    "<string name='sep2008_choices_16'>A direct the central bank to pursue contractionary open market operations.
+ENDSTOPB direct the central bank to increase the money supply.
+ENDSTOPC increase the tax rate on income.
+ENDSTOPD raise indirect taxes.</string>"
+    "<string name='sep2008_choices_17'>A Gross Domestic Product is greater than Gross National Income.
+ENDSTOPB Gross Domestic Product is less than Gross National Income.
+ENDSTOPC Gross Domestic Product is the same as Gross National Income.
+ENDSTOPD we cannot say whether Gross Domestic Product differs from Gross National
+Income from this information.</string>"
+    "<string name='sep2008_choices_18'>A £24,000.
+ENDSTOPB £25,000.
+ENDSTOPC £36,000.
+ENDSTOPD none of the above.</string>"
+    "<string name='sep2008_choices_19'>A change in consumption divided by the change in disposable income.
+ENDSTOPB level of consumption divided by the level of disposable income.
+ENDSTOPC level of consumption divided by the change in disposable income.
+ENDSTOPD change in consumption divided by the level of disposable income.</string>"
+    "<string name='sep2008_choices_20'>A increases the multiplier at all levels of national income.
+ENDSTOPB increases the multiplier at low levels of national income and reduces it at high
+levels of national income.
+ENDSTOPC decreases the multiplier at all levels of national income.
+ENDSTOPD has no effect on the multiplier.</string>"
+    "<string name='sep2008_choices_21'>A an increase in the discount rate
+ENDSTOPB a reduction in reserve requirements
+ENDSTOPC a purchase of government bonds
+ENDSTOPD none of the above</string>"
+    "<string name='sep2008_choices_22'>A if I only is correct.
+ENDSTOPB if II only is correct.
+ENDSTOPC if I and II are correct.
+ENDSTOPD if all are correct.</string>"
+    "<string name='sep2008_choices_23'>A lowering the rate of interest
+ENDSTOPB raising the rate of unemployment benefit
+ENDSTOPC higher voluntary redundancy payments for workers in declining industries
+ENDSTOPD more government funds for retraining of the unemployed</string>"
+    "<string name='sep2008_choices_24'>A 0.4
+ENDSTOPB 4.8
+ENDSTOPC 30
+ENDSTOPD 133,333.3</string>"
+    "<string name='sep2008_choices_25'>A lenders
+ENDSTOPB holders of currency
+ENDSTOPC pensioners on fixed incomes
+ENDSTOPD borrowers</string>"
+    "<string name='sep2008_choices_26'>A they have improved by 100 per cent
+ENDSTOPB they have improved by 60 per cent
+ENDSTOPC they have deteriorated by 100 per cent
+ENDSTOPD they have deteriorated by 60 per cent</string>"
+</resources>

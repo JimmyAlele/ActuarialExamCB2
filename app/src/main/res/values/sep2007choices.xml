@@ -1,0 +1,123 @@
+<resources>"<string name='sep2007_choices_1'>A a perfect substitute
+ENDSTOPB an imperfect substitute
+ENDSTOPC a perfect complement
+ENDSTOPD an imperfect complement</string>"
+    "<string name='sep2007_choices_2'>A a rightward shift of the demand curve for Good X
+ENDSTOPB a leftward shift of the demand curve for Good X
+ENDSTOPC a movement along the demand curve for Good X from left to right
+ENDSTOPD a movement along the demand curve for Good X from right to left</string>"
+    "<string name='sep2007_choices_3'>A a rise in the quantity demanded of whisky by 20 per cent
+ENDSTOPB a rise in the quantity demanded of whisky by 10 per cent
+ENDSTOPC a fall in the quantity demanded of whisky by 20 per cent
+ENDSTOPD a fall in the quantity demanded of whisky by 10 per cent</string>"
+    "<string name='sep2007_choices_4'>A shift the entire budget line to the left
+ENDSTOPB shift the entire budget line to the right
+ENDSTOPC make the budget line steeper
+ENDSTOPD make the budget line less steep</string>"
+    "<string name='sep2007_choices_5'>A a rightward shift of the demand curve for Good X
+ENDSTOPB a leftward shift of the demand curve for Good X
+ENDSTOPC a movement along the demand curve for Good X from left to right
+ENDSTOPD a movement along the demand curve for Good X from right to left</string>"
+    "<string name='sep2007_choices_6'>A Investment A dominates Investment ENDSTOPB in over 50% of possible scenarios.
+B Investment A has a lower standard deviation of returns than Investment B.
+ENDSTOPC Investment A dominates Investment B in 100% of possible scenarios.
+ENDSTOPD Investment A has a higher expected rate of return than Investment B.</string>"
+    "<string name='sep2007_choices_7'>A The taking out of an insurance policy makes it more likely that the insured
+against event will occur than if no insurance policy is taken out.
+ENDSTOPB Insurance companies tend to select only good risk customers.
+ENDSTOPC Bad risk customers are able to obtain insurance on the same terms as good risk
+customers.
+ENDSTOPD People who know they are particularly bad risks are more inclined to take out
+insurance than those who know they are good risks.</string>"
+    "<string name='sep2007_choices_8'>A £81
+ENDSTOPB £9
+ENDSTOPC £1
+ENDSTOPD -£1</string>"
+    "<string name='sep2007_choices_9'>A Average product can never be above marginal product.
+ENDSTOPB Average product can never be less than marginal product.
+ENDSTOPC Marginal product can never become negative.
+ENDSTOPD Average product can never become negative.</string>"
+    "<string name='sep2007_choices_10'>A a consumer’s utility will rise
+ENDSTOPB a consumer’s utility will be unchanged
+ENDSTOPC a consumer’s utility will fall
+ENDSTOPD a consumer’s money income is unchanged</string>"
+    "<string name='sep2007_choices_11'>A M0, M1, M4 but not M3
+ENDSTOPB M0 and M4, but not M1 and M3
+ENDSTOPC M0, but not M1, M3 and M4
+ENDSTOPD M0, M1, M3 and M4</string>"
+    "<string name='sep2007_choices_12'>A Increasing returns to scale.
+ENDSTOPB Constant returns to scale.
+ENDSTOPC Decreasing returns to scale.
+ENDSTOPD The law of diminishing marginal returns.</string>"
+    "<string name='sep2007_choices_13'>A average fixed costs
+ENDSTOPB average variable costs
+ENDSTOPC average total costs
+ENDSTOPD average normal profit level</string>"
+    "<string name='sep2007_choices_14'>A lower the price and raise output
+ENDSTOPB maintain the existing price and output
+ENDSTOPC lower the price but maintain existing output
+ENDSTOPD maintain the existing price and raise output</string>"
+    "<string name='sep2007_choices_15'>A An increase in local government expenditure.
+ENDSTOPB An increase in grants from central government to nationalised industries.
+ENDSTOPC An increase in transfer payments to recipients of state welfare benefits.
+ENDSTOPD An increase in the interest rate paid on the national debt.</string>"
+    "<string name='sep2007_choices_16'>A S = I
+ENDSTOPB S + T + M = I + G + X
+ENDSTOPC S + T + X = M + T + G
+ENDSTOPD None of the above</string>"
+    "<string name='sep2007_choices_17'>A 20
+ENDSTOPB 15
+ENDSTOPC 10
+ENDSTOPD none of the above</string>"
+    "<string name='sep2007_choices_18'>A 0.1
+ENDSTOPB 0.9
+ENDSTOPC 0.8
+ENDSTOPD 0.7</string>"
+    "<string name='sep2007_choices_19'>A A decrease in the marginal propensity to save.
+ENDSTOPB A decrease in the marginal propensity to consume.
+ENDSTOPC A decrease in the marginal rate of taxation.
+ENDSTOPD A decrease in the marginal propensity to import.</string>"
+    "<string name='sep2007_choices_20'>A Real interest rates are negative if the expected rate of inflation exceeds the
+nominal rate of interest.
+ENDSTOPB Assuming a constant price level, a rise in nominal wages is also a rise in real
+wages.
+ENDSTOPC An increase in real income will lead to a reduced demand for real money
+balances.
+ENDSTOPD If nominal Gross Domestic Product (GDP) rises by 10 per cent and the GDP
+deflator rises by 5 per cent then real GDP has risen.</string>"
+    "<string name='sep2007_choices_21'>A The annual gap between total government tax receipts and total government
+expenditure.
+ENDSTOPB The total amount owed by a country to the rest of the world.
+ENDSTOPC The net accumulation of a country’s budget deficits.
+ENDSTOPD The net accumulation of a country’s current account deficits in the balance of
+payments.</string>"
+    "<string name='sep2007_choices_22'>A Country ENDSTOPB has a comparative advantage in the production of Good X.
+B Country B has a comparative advantage in the production of both Good X and
+Good Y.
+ENDSTOPC Country B has a comparative advantage in the production of Good Y.
+ENDSTOPD Country B has no comparative advantage in the production of either good.</string>"
+    "<string name='sep2007_choices_23'>A A rise in the money supply, a fall in the short term rate of interest and a fall in
+the price of treasury bills.
+ENDSTOPB A rise in the money supply, a fall in the short term rate of interest and a rise in
+the price of treasury bills.
+ENDSTOPC A rise in the money supply, a rise in the short term rate of interest and a fall in
+the price of treasury bills.
+ENDSTOPD A rise in the money supply, a rise in the short term rate of interest and a rise in
+the price of treasury bills.</string>"
+    "<string name='sep2007_choices_24'>A £300 million, £200 million.
+ENDSTOPB £300 million, -£200 million.
+ENDSTOPC £200 million, £300 million.
+ENDSTOPD £200 million, -£300 million.</string>"
+    "<string name='sep2007_choices_25'>A £25 million
+ENDSTOPB £24 million
+ENDSTOPC £20 million
+ENDSTOPD £6.25 million</string>"
+    "<string name='sep2007_choices_26'>A An appreciation of a country’s exchange rate will increase its import volumes
+and decrease its export volumes.
+ENDSTOPB An appreciation of a country’s exchange rate will increase its import
+expenditure and decrease its export revenues.
+ENDSTOPC A depreciation of country’s exchange rate will decrease its import volumes
+and decrease its export volumes.
+ENDSTOPD A depreciation of a country’s exchange rate will decrease its import
+expenditure and increase its export revenues.</string>"
+</resources>

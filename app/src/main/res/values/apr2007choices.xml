@@ -1,0 +1,115 @@
+<resources>"<string name='apr2007_choices_1'>A There is insufficient quantity supplied at the equilibrium price.
+ENDSTOPB There is not enough of it to satisfy all those who would want it at zero price.
+ENDSTOPC The good’s demand and supply functions don’t meet.
+ENDSTOPD It can’t be decided who should consume the good.</string>"
+    "<string name='apr2007_choices_2'>A The interaction of demand and supply solves the allocation problem.
+ENDSTOPB The methods of production minimise the costs of production.
+ENDSTOPC The goods produced are those for which the amount consumers are willing to
+pay exceeds the costs of production.
+ENDSTOPD The allocation problem is determined by an agency.</string>"
+    "<string name='apr2007_choices_3'>A a change in demand
+ENDSTOPB an increase in demand
+ENDSTOPC a decrease in demand
+ENDSTOPD a change in quantity demanded</string>"
+    "<string name='apr2007_choices_4'>A 2
+ENDSTOPB ½
+ENDSTOPC 50
+ENDSTOPD impossible to calculate from the information given</string>"
+    "<string name='apr2007_choices_5'>A Quantity effects will be large and price effects large.
+ENDSTOPB Quantity effects will be small and price effects large.
+ENDSTOPC Quantity effects will be large and price effects small.
+ENDSTOPD Quantity effects will be small and price effects small.</string>"
+    "<string name='apr2007_choices_6'>A Demand is perfectly elastic where the quantity demanded is zero.
+ENDSTOPB Demand is unit elastic at the midpoint of the curve.
+ENDSTOPC Elasticity increases as the price falls and the quantity demanded rises.
+ENDSTOPD Elasticity decreases as the price falls and the quantity demanded rises.</string>"
+    "<string name='apr2007_choices_7'>A 40
+ENDSTOPB 20
+ENDSTOPC 30
+ENDSTOPD 80</string>"
+    "<string name='apr2007_choices_8'>A constant returns to scale
+ENDSTOPB decreasing returns to scale
+ENDSTOPC increasing returns to scale
+ENDSTOPD increasing marginal returns</string>"
+    "<string name='apr2007_choices_9'>A Firm A – High; Firm B – LowENDSTOPB Firm A – High; Firm B – HighENDSTOPC Firm A – Low; Firm B – Low
+ENDSTOPD Firm A – Low; Firm B – High</string>"
+    "<string name='apr2007_choices_10'>A Prices are higher and output lower than the social optimum.
+ENDSTOPB Prices are higher and output higher than the social optimum.
+ENDSTOPC Prices are lower and output lower than the social optimum.
+ENDSTOPD Prices are lower and output higher than the social optimum.</string>"
+    "<string name='apr2007_choices_11'>A exclude imports
+ENDSTOPB subtract taxes and subtract subsidies
+ENDSTOPC subtract taxes and add subsidies
+ENDSTOPD add income from abroad</string>"
+    "<string name='apr2007_choices_12'>A I + G + B + X + S ≡ Te - Td + ZENDSTOPB I + G + B + X ≡ Te + Td + Z+ SENDSTOPC I + G – B + S ≡ Te + Td + Z+ X
+ENDSTOPD G + B + X + S + I ≡ Te + Td + Z</string>"
+    "<string name='apr2007_choices_13'>A an increase in the country’s population
+ENDSTOPB creation of a better transport infrastructure
+ENDSTOPC full employment of all available resources
+ENDSTOPD technological advances</string>"
+    "<string name='apr2007_choices_14'>A altering the multiplier
+ENDSTOPB reducing private sector investment
+ENDSTOPC imposing price controls
+ENDSTOPD increasing the money supply</string>"
+    "<string name='apr2007_choices_15'>A The marginal tax rate is less than the average tax rate.
+ENDSTOPB The marginal tax rate is equal to the average tax rate.
+ENDSTOPC The marginal tax rate is greater than the average tax rate.
+ENDSTOPD The marginal tax rate is zero.</string>"
+    "<string name='apr2007_choices_16'>A £600m
+ENDSTOPB –£200m
+ENDSTOPC £200m
+ENDSTOPD impossible to determine from the information given</string>"
+    "<string name='apr2007_choices_17'>A Gross National Product
+ENDSTOPB National Income
+ENDSTOPC Net Domestic Product
+ENDSTOPD Net Capital Formation</string>"
+    "<string name='apr2007_choices_18'>A a rise in the level of national income and fall in the interest rate
+ENDSTOPB a fall in the level of national income and fall in the interest rate
+ENDSTOPC a rise in the level of national income and rise in the interest rate
+ENDSTOPD a fall in the level of national income and rise in the interest rate</string>"
+    "<string name='apr2007_choices_19'>A Output of the firm is where marginal revenue equals marginal cost.
+ENDSTOPB The cost curves of the firm are U-shaped.
+ENDSTOPC Marginal revenue equals average revenue.
+ENDSTOPD The marginal cost curve cuts the average cost curve at its minimum point.</string>"
+    "<string name='apr2007_choices_20'>A Good X will be exported to the rest of the world and the world price will fall
+towards £20.
+ENDSTOPB Good X will be imported from the rest of the world and the home price will
+rise towards £22.
+ENDSTOPC Good X will be imported from the rest of the world and the world price will
+fall towards £20.
+ENDSTOPD Good X will be exported to the rest of the world and the home price will rise
+towards £22.</string>"
+    "<string name='apr2007_choices_21'>A can produce Good A using less labour than Country Y
+ENDSTOPB has a higher opportunity cost of producing Good A than Country Y
+ENDSTOPC has a lower opportunity cost of producing Good A than Country Y
+ENDSTOPD is in a free trade area</string>"
+    "<string name='apr2007_choices_22'>A £23bn
+ENDSTOPB £18.6bn
+ENDSTOPC £25.8bn
+ENDSTOPD £15.8bn</string>"
+    "<string name='apr2007_choices_23'>A 1.69
+ENDSTOPB 1.47
+ENDSTOPC 1.23
+ENDSTOPD It is impossible to calculate from the information available.</string>"
+    "<string name='apr2007_choices_24'>A The real money supply will increase, interest rates will fall and employment
+will increase
+ENDSTOPB The real money supply will decrease, interest rates will fall and employment
+will increase
+ENDSTOPC The real money supply will decrease, interest rates will rise and
+unemployment will increase
+ENDSTOPD The real money supply will decrease, interest rates will fall and unemployment
+will increase</string>"
+    "<string name='apr2007_choices_25'>A Fiscal policy is more effective than monetary policy because interest rates are
+allowed to fluctuate to prevent crowding out.
+ENDSTOPB Monetary policy is more effective than fiscal policy because changes in
+interest rates will reduce imports and encourage exports.
+ENDSTOPC Fiscal policy is more effective than monetary policy because interest rates
+cannot be allowed to rise and so crowding out cannot occur.
+ENDSTOPD Monetary policy is more effective than fiscal policy because it permits the
+government to lower the interest rate.</string>"
+    "<string name='apr2007_choices_26'>A The long-run curve is vertical and the short-run curve slopes upwards.
+ENDSTOPB The long run curve is vertical and the short-run curve slopes downwards.
+ENDSTOPC Both the short-run and long-run curves slope downwards, but the short-run
+curve is steeper than the long-run curve.
+ENDSTOPD The long run curve is horizontal and the short-run curve slopes downwards.</string>"
+</resources>

@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">"<string name='sep2005_que_1'>Which one of the following accurately describes the opportunity cost of producing
+Good X?</string>"
+    <string name='sep2005_que_2'>The demand curve for Good X describes the amount of Good X that:</string>
+    "<string name='sep2005_que_3'>The law of diminishing marginal utility applied to consumption of Good X implies
+that the:</string>"
+    "<string name='sep2005_que_4'>The price of Good X will not change following an increase in the demand for Good X
+if the price elasticity of:</string>"
+    "<string name='sep2005_que_5'>Which one of the following will NOT shift the demand curve for a normal good to the
+left?</string>"
+    <string name='sep2005_que_6'>Which ONE of the following statements is NOT applicable to a Giffen good?</string>
+    <string name='sep2005_que_7'>A profit maximising monopolist that price discriminates is able to:</string>
+    "<string name='sep2005_que_8'>Consumer A purchases Good X and Good Y. If consumer A s income and the prices
+of Good X and Good Y double Consumer A s Budget Line will:</string>"
+    <string name='sep2005_que_9'>Which one of the following reveals constant returns to scale?</string>
+    "<string name='sep2005_que_10'>Which one of the following is NOT a feature of an industry characterised by
+monopolistic competition.</string>"
+    <string name='sep2005_que_11'>The "kinked" demand curve theory of oligopoly implies that the oligopolist:</string>
+    <string name='sep2005_que_12'>The principle of diminishing marginal utility of wealth makes:</string>
+    <string name='sep2005_que_13'>The short run supply curve for a firm in a perfectly competitive industry is its:</string>
+    "<string name='sep2005_que_14'>Which one of the following would count as investment in the United Kingdom
+national income accounts?</string>"
+    "<string name='sep2005_que_15'>The marginal propensity to consume out of disposable income is 0.8 and the tax rate
+is 50 per cent of all income. The government decides to increase public spending by
+£100 million. According to the simple Keynesian model what is likely to be the total
+change in national income resulting from this increase in government expenditure?</string>"
+    "<string name='sep2005_que_16'>If the total output of goods and services increases and the price index remains
+constant nominal Gross Domestic Product (GDP) will:</string>"
+    "<string name='sep2005_que_17' tools:ignore="TypographyOther">In a simple closed economy with no government sector, the consumption function
+relating consumption (C) to national income (Y) is given by the expression:
+C = £40 million + 0.8Y
+Planned investment is constant at £20 million.
+Which ONE of the following is true?</string>"
+    <string name='sep2005_que_18'>Which one of the following is most likely to lead to a rise in aggregate demand?</string>
+    "<string name='sep2005_que_19'>The proportion of deposits held by the public as cash is 0.5 and the proportion of
+deposits held by the banks for reserves is 0.5. The broad money supply is £300
+million, what is the value of the narrow money supply?</string>"
+    "<string name='sep2005_que_20'>According to the quantity theory of money, a 10 per cent increase in the nominal
+money supply will lead to an increase in the real output level of the economy by:</string>"
+    "<string name='sep2005_que_21'>The short run aggregate supply schedule tells us that an increase in the average price
+level will encourage firms to:</string>"
+    "<string name='sep2005_que_22'>The Phillips curve indicates that the authorities face a trade off between the two
+objectives of:</string>"
+    "<string name='sep2005_que_23'>The introduction of a restrictive monetary policy in an open economy operating with a
+flexible exchange rate would most likely lead to a:</string>"
+    "<string name='sep2005_que_24'>A country has a public sector budget deficit of £300 million, private sector investment
+of £200 million and private sector savings of £150 million. The current account
+position of the country is:</string>"
+    "<string name='sep2005_que_25'>Which of the following is most likely to result from a revaluation of a country\'s
+exchange rate?</string>"
+    "<string name='sep2005_que_26'>In Country A it takes 10 man hours to produce a unit of wine and 20 man hours to
+produce a unit of cloth. In Country B it takes 5 man hours to produce a unit of wine
+and 10 man hours to produce a unit of cloth. Therefore:</string>"
+</resources>

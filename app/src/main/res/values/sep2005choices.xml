@@ -1,0 +1,119 @@
+<resources>"<string name='sep2005_choices_1'>A The cost of producing Good X in money terms.
+ENDSTOPB The foregone output from the next best alternative use to which factors of
+production used to produce Good X could be put.
+ENDSTOPC The stream of services provided by Good X over its entire lifetime.
+ENDSTOPD The production of Good X foregone in the previous year to enable Good X to
+be produced this year.</string>"
+    "<string name='sep2005_choices_2'>A buyers can but are not willing to purchase at different prices
+ENDSTOPB buyers are both willing and able to purchase at one particular price
+ENDSTOPC will be supplied at different prices
+ENDSTOPD buyers are both willing and able to purchase at different prices</string>"
+    "<string name='sep2005_choices_3'>A more one consumes of Good X, the less utility one derives from the first unit
+of consumption of Good X
+ENDSTOPB total utility derived from the consumption of Good X increases by smaller
+amounts for each extra unit of Good X consumed
+ENDSTOPC marginal utility derived from the consumption of an extra unit of Good X falls
+if the price of Good X falls
+ENDSTOPD marginal utility derived from the consumption of an extra unit of Good X falls
+if the price of Good X rises</string>"
+    "<string name='sep2005_choices_4'>A supply is zero
+ENDSTOPB supply is infinite
+ENDSTOPC demand is zero
+ENDSTOPD demand is 1</string>"
+    "<string name='sep2005_choices_5'>A A fall in consumers incomes.
+ENDSTOPB A rise in the price of a complementary good.
+ENDSTOPC A fall in the price of a substitute good.
+ENDSTOPD A rise in the price of the normal good.</string>"
+    "<string name='sep2005_choices_6'>A The demand curve has a positive slope.
+ENDSTOPB The income effect on demand of a price change will affect demand in the
+opposite direction to the substitution effect.
+ENDSTOPC The substitution effect of a fall in price of the good will lead to a fall in
+demand.
+ENDSTOPD Demand falls if income increases, other things being equal.</string>"
+    "<string name='sep2005_choices_7'>A achieve a greater average revenue than if it charged a single price
+ENDSTOPB achieve lower total production costs per unit of output
+ENDSTOPC increase its profits and simultaneously lower its profit maximising output
+ENDSTOPD increase its profits by reducing its production costs more than its total revenue</string>"
+    "<string name='sep2005_choices_8'>A remain unchanged
+ENDSTOPB shift to the right but not change slope
+ENDSTOPC shift to the right and become steeper
+ENDSTOPD shit to the right and become less steep</string>"
+    "<string name='sep2005_choices_9'>A If more labour is added to a given amount of capital, the marginal product of
+labour remains unchanged.
+ENDSTOPB If the ratio of labour to capital doubles, the output of the firm also doubles.
+ENDSTOPC If both the input of capital and labour doubles, output remains constant.
+ENDSTOPD If the input of capital and labour doubles, the ratio of output to inputs is
+unchanged.</string>"
+    "<string name='sep2005_choices_10'>A Some degree of monopoly power ensures that in the long run firms can make
+supernormal profits.
+ENDSTOPB There is freedom of entry and exit into the industry.
+ENDSTOPC Firms in the industry produce differentiated products.
+ENDSTOPD Firms in the industry charge prices above their marginal costs of production.</string>"
+    "<string name='sep2005_choices_11'>A will seek to make only satisfactory rather than maximum profits
+ENDSTOPB has a discontinuity in its marginal revenue curve
+ENDSTOPC has a discontinuity in its marginal cost curve
+ENDSTOPD has a discontinuity in its average revenue curve</string>"
+    "<string name='sep2005_choices_12'>A most people risk averse
+ENDSTOPB most people risk neutral
+ENDSTOPC most people risk loving
+ENDSTOPD none of the above</string>"
+    "<string name='sep2005_choices_13'>A average cost curve
+ENDSTOPB average variable cost curve
+ENDSTOPC marginal cost curve above the lowest point of the average total cost curve
+ENDSTOPD marginal cost curve above the lowest point of the average variable cost curve</string>"
+    "<string name='sep2005_choices_14'>A The purchase of a £1,000 United Kingdom government bond.
+ENDSTOPB A museum purchases an 18th century work of art.
+ENDSTOPC A firm increases the quantity of cars it holds as stock.
+ENDSTOPD A firm places £1 million of its surplus funds with a United Kingdom bank in a
+high interest account.</string>"
+    "<string name='sep2005_choices_15'>A £166 million
+ENDSTOPB £200 million
+ENDSTOPC £500 million
+ENDSTOPD £1,000 million</string>"
+    "<string name='sep2005_choices_16'>A rise and real GDP will fall
+ENDSTOPB stay the same and real GDP will rise
+ENDSTOPC rise and real GDP will rise
+ENDSTOPD fall and real GDP will rise</string>"
+    "<string name='sep2005_choices_17'>A The multiplier has a value of 4.
+ENDSTOPB An increase in the income level will raise the marginal propensity to consume.
+ENDSTOPC The economy is in equilibrium if output is £200 million.
+ENDSTOPD None of the above.</string>"
+    "<string name='sep2005_choices_18'>A A decrease in government expenditure.
+ENDSTOPB A decrease in the income tax rate.
+ENDSTOPC An increase autonomous savings.
+ENDSTOPD A increase in the rate of interest.</string>"
+    "<string name='sep2005_choices_19'>A £150 million
+ENDSTOPB £200 million
+ENDSTOPC £450 million
+ENDSTOPD none of the above</string>"
+    "<string name='sep2005_choices_20'>A 0 per cent
+ENDSTOPB 10 per cent
+ENDSTOPC 10 per cent times the velocity of circulation
+ENDSTOPD 10 per cent divided by the velocity of circulation</string>"
+    "<string name='sep2005_choices_21'>A reduce output and increase employment
+ENDSTOPB reduce output and employment
+ENDSTOPC increase output and reduce employment
+ENDSTOPD increase output and employment</string>"
+    "<string name='sep2005_choices_22'>A inflation and economic growth
+ENDSTOPB inflation and unemployment
+ENDSTOPC inflation and balance of payments equilibrium
+ENDSTOPD inflation and a stable exchange rate</string>"
+    "<string name='sep2005_choices_23'>A higher domestic interest rates and an exchange rate appreciation
+ENDSTOPB higher domestic interest rates and an exchange rate depreciation
+ENDSTOPC lower domestic interest rates and an exchange rate appreciation
+ENDSTOPD lower domestic interest rates and an exchange rate depreciation</string>"
+    "<string name='sep2005_choices_24'>A £50 million in surplus
+ENDSTOPB £50 million in deficit
+ENDSTOPC £250 million in deficit
+ENDSTOPD £350 million in deficit</string>"
+    "<string name='sep2005_choices_25'>A exports will become less competitive
+ENDSTOPB imports will become more expensive
+ENDSTOPC inflation will rise
+ENDSTOPD export volumes will rise</string>"
+    "<string name='sep2005_choices_26'>A Country B has a comparative advantage in the production of both wine and
+clothENDSTOPB Country A has a comparative advantage in the production of wine and
+Country B has a comparative advantage in the production of clothENDSTOPC Country A has a comparative advantage in the production of cloth and
+Country B has a comparative advantage in the production of wine
+ENDSTOPD neither country has a comparative advantage in the production of either wine
+or cloth</string>"
+</resources>

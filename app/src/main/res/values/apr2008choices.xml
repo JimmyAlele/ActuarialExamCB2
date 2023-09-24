@@ -1,0 +1,118 @@
+<resources>
+    "<string name='apr2008_choices_1'>A the marginal tax rate is negative.
+ENDSTOPB the marginal tax rate is equal to the average tax rate.
+ENDSTOPC the marginal tax rate is greater than the average tax rate.
+ENDSTOPD the marginal tax rate is zero.</string>"
+    "<string name='apr2008_choices_2'>A the quantity of both goods produced is equal.
+ENDSTOPB it is possible to produce more of only one good.
+ENDSTOPC it is possible to produce more of one good only by sacrificing some production
+of the other good.
+ENDSTOPD it is possible to produce more of both goods.</string>"
+    "<string name='apr2008_choices_3'>A A change in consumer tastes may lead to a shift in a demand curve.
+ENDSTOPB A rise in the price of other goods may lead to a shift in a demand curve.
+ENDSTOPC A change in the resources required to produce a good may lead to a shift in a
+demand curve.
+ENDSTOPD A fall in the price of other goods may lead to a shift in a demand curve.</string>"
+    "<string name='apr2008_choices_4'>A Q = 150 – 3P
+ENDSTOPB Q = 350 – 3P
+ENDSTOPC Q = 250 – 3P
+ENDSTOPD Q = 200 – 3P</string>"
+    "<string name='apr2008_choices_5'>A 5
+ENDSTOPB 2
+ENDSTOPC 3.33
+ENDSTOPD 0.33</string>"
+    "<string name='apr2008_choices_6'>A An inferior good is one for which income elasticity of demand is perfectly
+inelastic, so that quantity demanded falls as income increases.
+ENDSTOPB An inferior good is one for which income elasticity of demand is positive, so
+that quantity demanded increases as income increases.
+ENDSTOPC An inferior good is one for which income elasticity of demand is negative, so
+that quantity demanded falls as income increases.
+ENDSTOPD An inferior good is one for which income elasticity of demand is zero, so that
+quantity demanded is invariant to income changes.</string>"
+    "<string name='apr2008_choices_7'>A marginal costs will be unaffected.
+ENDSTOPB marginal costs will rise by more than the decrease in fixed costs.
+ENDSTOPC marginal costs will fall by more than the decrease in fixed costs.
+ENDSTOPD marginal costs will fall by the same amount as the decrease in fixed costs.</string>"
+    "<string name='apr2008_choices_8'>A the demand for its product is zero.
+ENDSTOPB the demand for its product is elastic.
+ENDSTOPC the demand for its product is inelastic.
+ENDSTOPD the demand for its product is no more than 1.</string>"
+    "<string name='apr2008_choices_9'>A the amount of capital employed is rising.
+ENDSTOPB the amount of capital is the same as the price per unit.
+ENDSTOPC the amount of capital employed is optimal.
+ENDSTOPD the amount of capital employed starts decreasing at an increasing rate.</string>"
+    "<string name='apr2008_choices_10'>A decreasing returns to scale
+ENDSTOPB constant returns to scale
+ENDSTOPC increasing returns to scale
+ENDSTOPD the law of increasing marginal returns</string>"
+    "<string name='apr2008_choices_11'>A average costs exceed average revenue.
+ENDSTOPB it can no longer cover its fixed costs.
+ENDSTOPC it can no longer cover its variable costs.
+ENDSTOPD expanding output narrows the gap between marginal revenue and marginal
+cost.</string>"
+    "<string name='apr2008_choices_12'>A Greater than 100 but less than 200
+ENDSTOPB Greater than 200 but less than 300
+ENDSTOPC Greater than 300 but less than 400
+ENDSTOPD Greater than 400 but less than 500</string>"
+    "<string name='apr2008_choices_13'>A Profit is maximised where MC = MR.
+ENDSTOPB The firm faces a downward sloping demand curve for normal goods.ENDSTOPC = MR.
+B The firm faces a downward sloping demand curve for normal goods.
+C The firm can set price or quantity, but not both.
+ENDSTOPD Supernormal profits are experienced in the long run.</string>"
+    "<string name='apr2008_choices_14'>A by sector
+ENDSTOPB by economic category
+ENDSTOPC by listed firm
+ENDSTOPD by department</string>"
+    "<string name='apr2008_choices_15'>A Public Sector Borrowing Requirement of £440m.
+ENDSTOPB Public Sector Borrowing Requirement of £370m.
+ENDSTOPC Public Sector Debt Repayment of £440m.
+ENDSTOPD Public Sector Debt Repayment of £510m.</string>"
+    "<string name='apr2008_choices_16'>A inflationary motive
+ENDSTOPB precautionary motive
+ENDSTOPC transactions motive
+ENDSTOPD asset motive</string>"
+    "<string name='apr2008_choices_17'>A Taxes, investment and consumption are leakages.
+ENDSTOPB Imports, exports and savings are injections.
+ENDSTOPC Exports, investment and savings are injections.
+ENDSTOPD Savings, imports and taxation are leakages.</string>"
+    "<string name='apr2008_choices_18'>A £80m
+ENDSTOPB £20m
+ENDSTOPC –£60m
+ENDSTOPD £100m</string>"
+    "<string name='apr2008_choices_19'>A 0.4
+ENDSTOPB 0.6
+ENDSTOPC 1.4
+ENDSTOPD 1.6</string>"
+    "<string name='apr2008_choices_20'>A 0.25
+ENDSTOPB 0.02
+ENDSTOPC 0.2
+ENDSTOPD 0.1</string>"
+    "<string name='apr2008_choices_21'>A infinitely elastic at the long run equilibrium level of output.
+ENDSTOPB inelastic at the long run equilibrium level of output.
+ENDSTOPC infinitely elastic at some point below the long run equilibrium level of output.
+ENDSTOPD upward sloping with decreasing elasticity.</string>"
+    "<string name='apr2008_choices_22'>A taxation
+ENDSTOPB printing money
+ENDSTOPC sale of public assets
+ENDSTOPD borrowing</string>"
+    "<string name='apr2008_choices_23'>A 2
+ENDSTOPB 1
+ENDSTOPC 8
+ENDSTOPD 4</string>"
+    "<string name='apr2008_choices_24'>A It lowers prices through increased competition.
+ENDSTOPB It allows the world’s resources to be used in a more economically efficient
+way.
+ENDSTOPC It increases the range of goods and services available to consumers.
+ENDSTOPD It spreads the benefits of economic growth more evenly across countries.</string>"
+    "<string name='apr2008_choices_25'>A import elasticity is less than 1.
+ENDSTOPB sum of the import and export elasticities is less negative than –1.
+ENDSTOPC sum of the import and export elasticities is more negative than –1.
+ENDSTOPD export elasticity is less negative than –1.</string>"
+    "<string name='apr2008_choices_26'>A a moving average of monthly prices.
+ENDSTOPB the percentage growth in prices between the month in question and one year
+ago.
+ENDSTOPC prices over a few days in the middle of the previous month.
+ENDSTOPD the expected growth in prices between the first day of the current month and
+the first day of the next month.</string>"
+
+</resources>

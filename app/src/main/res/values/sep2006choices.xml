@@ -1,0 +1,130 @@
+<resources>"<string name='sep2006_choices_1'>A a choice between the production of consumer goods and the production of
+capital goods
+ENDSTOPB the establishment of freedom of entry and exit
+ENDSTOPC the establishment of a system of market prices
+ENDSTOPD a decision to be made on the degree to which capital will be used in the
+production process rather than labour</string>"
+    "<string name='sep2006_choices_2'>A quantity of productive inputs
+ENDSTOPB quantity of inputs on one axis and quantity of outputs on the other axis
+ENDSTOPC quantities of finished goods
+ENDSTOPD prices of productive inputs</string>"
+    "<string name='sep2006_choices_3'>A An increase in labour productivity in industry X.
+ENDSTOPB A fall in price of raw materials used to produce Good X.
+ENDSTOPC An increase in real wages in industry X.
+ENDSTOPD A government subsidy on the production of Good X.</string>"
+    "<string name='sep2006_choices_4'>A A rise in the price charged to consumers of £10.
+ENDSTOPB A rise in the price charged to consumers of less than £10.
+ENDSTOPC No change in the price charged to consumers.
+ENDSTOPD A fall in the price charged to consumers.</string>"
+    "<string name='sep2006_choices_5'>A the demand curve for Good X to shift to the left, and the demand curve for
+Good Y to shift to the left
+ENDSTOPB the demand curve for Good X to shift to the left, and the demand curve for
+Good Y to shift to the right
+ENDSTOPC the quantity demanded of Good X to fall, and the demand curve for Good Y to
+shift to the left
+ENDSTOPD the quantity demanded of Good X to fall, and the demand curve for Good Y to
+shift to the right</string>"
+    "<string name='sep2006_choices_6'>A 1 Good X and 4 Good Y
+ENDSTOPB 2 Good X and 3 Good Y
+ENDSTOPC 3 Good X and 2 Good Y
+ENDSTOPD 4 Good X and 1 Good Y</string>"
+    "<string name='sep2006_choices_7'>A The short run average cost declines.
+ENDSTOPB If inputs are doubled then output less than doubles.
+ENDSTOPC An increase in the variable factor of production holding the fixed factor of
+production constant leads to a higher increase in output.
+ENDSTOPD The long run average cost curve declines.</string>"
+    "<string name='sep2006_choices_8'>A average total cost equals marginal cost
+ENDSTOPB average revenue is greater than marginal cost
+ENDSTOPC price is greater than average total cost
+ENDSTOPD average total cost is less than marginal cost</string>"
+    "<string name='sep2006_choices_9'>A Under perfect competition, in the long run all firms make only normal profits.
+ENDSTOPB Firms under monopolistic competition produce homogeneous products.
+ENDSTOPC Under oligopoly firms make decisions taking into account the possible
+reactions of their competitors.
+ENDSTOPD Under monopoly, a profit maximising firm with positive marginal costs
+always produces in the region of price elastic demand.</string>"
+    "<string name='sep2006_choices_10'>A the firm has to charge a price higher than the marginal cost of producing the
+last unit
+ENDSTOPB any decision by the monopolist to sell an additional unit of output does not
+affect product price
+ENDSTOPC the firm has to reduce the price on all previous units sold in order to sell the
+additional unit
+ENDSTOPD the law of diminishing returns directly affects the price of an imperfectly
+competitive firm s price</string>"
+    "<string name='sep2006_choices_11'>A a firm s competitors match both its price increases and price decreases
+ENDSTOPB one firm in the industry sets the price for all other firms
+ENDSTOPC a firm s competitors match its price reductions but ignore its price increases
+ENDSTOPD prices can either rise or fall; it depends on what happens to a firm s
+competitors prices</string>"
+    "<string name='sep2006_choices_12'>A rightward shift of the supply curve for Good X
+ENDSTOPB leftward shift of the supply curve for Good X
+ENDSTOPC rightward shift of the demand curve for Good X
+ENDSTOPD leftward shift of the demand curve for Good X</string>"
+    "<string name='sep2006_choices_13'>A the price of Good X times the marginal product of capital
+ENDSTOPB the price of Good X times the marginal product of labour
+ENDSTOPC the price of Good X divided by the marginal product of labour
+ENDSTOPD the marginal product of labour divided by the price of Good X</string>"
+    "<string name='sep2006_choices_14'>A salaries of firemen
+ENDSTOPB dividend payments to shareholders
+ENDSTOPC state pension payments
+ENDSTOPD company profits</string>"
+    "<string name='sep2006_choices_15'>A the marginal tax rate will be less than their average tax rate
+ENDSTOPB the marginal tax rate will be greater than their average tax rate
+ENDSTOPC the marginal tax rate will be equal to their average tax rate
+ENDSTOPD the marginal tax rate will initially be less than but eventually greater than their
+average tax rate</string>"
+    "<string name='sep2006_choices_16'>A savings, taxes and import expenditure
+ENDSTOPB savings, taxes and government expenditure
+ENDSTOPC investment, government expenditure and exports
+ENDSTOPD investment, saving and taxes</string>"
+    "<string name='sep2006_choices_17'>A Aggregate expenditure would rise by £5 million.
+ENDSTOPB Aggregate expenditure would rise by £15 million.
+ENDSTOPC Aggregate expenditure would rise by £26.6 million.
+ENDSTOPD Aggregate expenditure would rise by £80 million.</string>"
+    "<string name='sep2006_choices_18'>A £150 million
+ENDSTOPB £130 million
+ENDSTOPC £120 million
+ENDSTOPD £110 million</string>"
+    "<string name='sep2006_choices_19'>A The demand for money is interest elastic and private investment is interest
+inelastic.
+ENDSTOPB The demand for money is interest inelastic and private investment is interest
+elastic.
+ENDSTOPC The demand for money and private investment are both interest inelastic.
+ENDSTOPD The demand for money and private investment are both interest elastic.</string>"
+    "<string name='sep2006_choices_20'>A the government spends more money
+ENDSTOPB the government buys Treasury bills from the public
+ENDSTOPC a citizen buys a newly issued corporate bond
+ENDSTOPD a firm obtains an overdraft from a bank</string>"
+    "<string name='sep2006_choices_21'>A If nominal Gross Domestic Product (GDP) rises by 8 per cent and the GDP
+deflator rises by 5 per cent then real GDP per capita must have risen.
+ENDSTOPB A nominal depreciation of a country s exchange rate represents a real
+depreciation if the domestic inflation rate is less than the foreign inflation rate.
+ENDSTOPC An increase in real income will lead to a rise in the demand for real money
+balances.
+ENDSTOPD Real interest rates are positive if the expected rate of inflation is less than the
+nominal rate of interest.</string>"
+    "<string name='sep2006_choices_22'>A Increased government expenditure on domestically produced goods.
+ENDSTOPB Increased money supply.
+ENDSTOPC Reduced corporate and personal taxation.
+ENDSTOPD A privatisation programme.</string>"
+    "<string name='sep2006_choices_23'>A An increase in the marginal propensity to save.
+ENDSTOPB A decrease in the marginal propensity to consume.
+ENDSTOPC A decrease in the marginal propensity to import.
+ENDSTOPD An increase in income tax rates.</string>"
+    "<string name='sep2006_choices_24'>A Monetarists advocate the use of an expansionary monetary policy while
+Keynesians do not
+ENDSTOPB Monetarists advocate the use of an expansionary fiscal policy while
+Keynesians do not
+ENDSTOPC Keynesians advocate the use of an expansionary fiscal policy while
+Monetarists do not
+ENDSTOPD Keynesians advocate the use of an expansionary monetary policy while
+Monetarists do not</string>"
+    "<string name='sep2006_choices_25'>A unemployment benefit
+ENDSTOPB government consumption expenditure
+ENDSTOPC information on job availability
+ENDSTOPD the money supply</string>"
+    "<string name='sep2006_choices_26'>A They have improved by 75 per cent.
+ENDSTOPB They have improved by 37.5 per cent.
+ENDSTOPC They have deteriorated by 75 per cent.
+ENDSTOPD They have deteriorated by 37.5 per cent.</string>"
+</resources>

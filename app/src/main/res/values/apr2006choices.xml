@@ -1,0 +1,118 @@
+<resources>"<string name='apr2006_choices_1'>A equilibrium quantity will increase but the effect on the price is indeterminate
+ENDSTOPB equilibrium quantity will decrease but the effect on the price is indeterminate
+ENDSTOPC price will fall but the effect on the equilibrium quantity will be indeterminate
+ENDSTOPD price will rise but the effect on the equilibrium quantity will be indeterminate</string>"
+    "<string name='apr2006_choices_2'>A shifting the demand curve to the left
+ENDSTOPB shifting the demand curve to the right
+ENDSTOPC shifting the supply curve to the right
+ENDSTOPD shifting the supply curve to the left</string>"
+    "<string name='apr2006_choices_3'>A An input in the production process became more expensive.
+ENDSTOPB The price of a close substitute for the good increased.
+ENDSTOPC An input in the production process became more expensive and the price of a
+close substitute increased.
+ENDSTOPD An input in the production process became more expensive and the price of a
+close substitute decreased.</string>"
+    "<string name='apr2006_choices_4'>A excess supply
+ENDSTOPB excess demand
+ENDSTOPC a decrease in price and a decrease in the quantity traded
+ENDSTOPD an increase in price and an increase in the quantity traded</string>"
+    "<string name='apr2006_choices_5'>A the demand for X and Y are both price inelastic
+ENDSTOPB X and Y are substitutes
+ENDSTOPC X and Y are complements
+ENDSTOPD the demand for X and Y are both price elastic</string>"
+    "<string name='apr2006_choices_6'>A income increases and the Good is normal
+ENDSTOPB its price rises and demand is price elastic
+ENDSTOPC its price rises and demand is price inelastic
+ENDSTOPD income falls and the Good is inferior</string>"
+    "<string name='apr2006_choices_7'>A The price of Good X would fall by exactly £5.
+ENDSTOPB The price of Good X would fall by less than £5.
+ENDSTOPC The price of Good X would fall by more than £5.
+ENDSTOPD The price of Good X would fall by exactly £10.</string>"
+    "<string name='apr2006_choices_8'>A rise at an increasing rate as the consumption of Good X increases
+ENDSTOPB rise at a decreasing rate as the consumption of Good X increases
+ENDSTOPC fall at an increasing rate as the consumption of Good X increases
+ENDSTOPD fall at a decreasing rate as the consumption of Good X increases</string>"
+    "<string name='apr2006_choices_9'>A suggests people who know they are a bad risk are more inclined to take out
+insurance
+ENDSTOPB suggests people who know they are a bad risk are less inclined to take out
+insurance
+ENDSTOPC suggests a policyholder may act in a way which makes an insured event less
+likely to occur
+ENDSTOPD suggests a policyholder may act in a way which makes an insured event more
+likely to occur</string>"
+    "<string name='apr2006_choices_10'>A total sales are maximised
+ENDSTOPB average total costs are minimised
+ENDSTOPC marginal cost equals marginal revenue
+ENDSTOPD average revenue is maximised</string>"
+    "<string name='apr2006_choices_11'>A Country Y has an absolute advantage in the production of both goods
+ENDSTOPB Country Y has a comparative advantage in the production of bicycles
+ENDSTOPC Country X has a comparative advantage in the production of bicycles
+ENDSTOPD Country Y has a comparative advantage in the production of cars</string>"
+    "<string name='apr2006_choices_12'>A There is freedom of entry and exit to the industry.
+ENDSTOPB There are many firms supplying the market.
+ENDSTOPC Firms can lower their prices without influencing the behaviour of other firms.
+ENDSTOPD Each firm faces a horizontal demand curve.</string>"
+    "<string name='apr2006_choices_13'>A increase output and reduce price
+ENDSTOPB reduce price and output
+ENDSTOPC increase price and output
+ENDSTOPD reduce output and increase price</string>"
+    "<string name='apr2006_choices_14'>A the market price to increase and the quantity traded to decrease
+ENDSTOPB the market price to decrease and the quantity traded to decrease
+ENDSTOPC the market price to increase and the quantity traded to increase
+ENDSTOPD no change to price or the quantity traded</string>"
+    "<string name='apr2006_choices_15'>A suggests that price will remain constant even with fluctuations in demand
+ENDSTOPB assumes that competitors will match price cuts and ignore price increases
+ENDSTOPC assumes that marginal revenue sometimes increases with output
+ENDSTOPD suggests how the current price is determined</string>"
+    "<string name='apr2006_choices_16'>A Real GDP per capita falls
+ENDSTOPB Real GDP per capita rises
+ENDSTOPC Real GDP falls
+ENDSTOPD Real GDP rises</string>"
+    "<string name='apr2006_choices_17'>A deduct transfer payments
+ENDSTOPB deduct any indirect taxes paid by firms
+ENDSTOPC add net property income from abroad
+ENDSTOPD deduct depreciation</string>"
+    "<string name='apr2006_choices_18'>A the marginal utility of an extra pound of income decreases as more income is
+received
+ENDSTOPB the marginal utility of an extra pound of income increases as more income is
+received
+ENDSTOPC there will always be some individuals willing to take risks while others will be
+unwilling to take risks regardless of the pay offs
+ENDSTOPD investors will only take an increased risk if the marginal utility of risk over the
+price of risk rises</string>"
+    "<string name='apr2006_choices_19'>A A fall in wages.
+ENDSTOPB An increase in imported commodity prices.
+ENDSTOPC An increase in consumer expenditure.
+ENDSTOPD An increase in direct taxes.</string>"
+    "<string name='apr2006_choices_20'>A The marginal propensity to consume.
+ENDSTOPB The autonomous expenditure multiplier.
+ENDSTOPC The vertical long run aggregate supply curve.
+ENDSTOPD The speculative demand for money.</string>"
+    "<string name='apr2006_choices_21'>A 0.4
+ENDSTOPB 0.6
+ENDSTOPC 0.67
+ENDSTOPD 0.7</string>"
+    "<string name='apr2006_choices_22'>A The demand for air travel is price inelastic.
+ENDSTOPB The demand for air travel is price elastic.
+ENDSTOPC The demand for air travel is perfectly price elastic.
+ENDSTOPD The demand for air travel perfectly price inelastic.</string>"
+    "<string name='apr2006_choices_23'>A fall as the short term interest rate rises
+ENDSTOPB fall as the short term interest rate falls
+ENDSTOPC rise as the short term interest rate rises
+ENDSTOPD rise as the short term interest rate falls</string>"
+    "<string name='apr2006_choices_24'>A an increase in aggregate demand and a reduction in real output and
+unemployment
+ENDSTOPB an increase in aggregate demand, real output and unemployment
+ENDSTOPC an increase in aggregate demand and real output and a reduction in
+unemployment
+ENDSTOPD a reduction in aggregate demand and real output and an increase in
+unemployment</string>"
+    "<string name='apr2006_choices_25'>A 4.8%
+ENDSTOPB 4.0%
+ENDSTOPC 5.0%
+ENDSTOPD 5.3%</string>"
+    "<string name='apr2006_choices_26'>A increasing its net liabilities and increasing its net assets
+ENDSTOPB decreasing its net liabilities and increasing its net assets
+ENDSTOPC increasing its net liabilities and decreasing its net assets
+ENDSTOPD decreasing its net liabilities and decreasing its net assets</string>"
+</resources>
