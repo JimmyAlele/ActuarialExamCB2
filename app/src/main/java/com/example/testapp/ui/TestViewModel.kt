@@ -1,10 +1,6 @@
 package com.example.testapp.ui
 
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import androidx.navigation.NavBackStackEntry
 import com.example.testapp.data.DataSource
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -20,6 +16,7 @@ class TestViewModel: ViewModel() {
     private val _uiState = MutableStateFlow(TestUiState())
     val uiState: StateFlow<TestUiState> = _uiState.asStateFlow()
 
+    /*
     private var selectedAnswers: MutableList<Int?> by mutableStateOf(mutableListOf(*arrayOfNulls(
         NUMBER_OF_QUESTIONS)))
 
@@ -29,16 +26,17 @@ class TestViewModel: ViewModel() {
         NUMBER_OF_QUESTIONS)))
     //var selectedOptions: MutableList<Int?> by mutableStateOf(MutableList(questionsList.size){0})
     //var selectedOptions: MutableList<Int?> = MutableList(questionsList.size){2}
+    */
 
     fun checkAnswer (index: Int, answer: List<Int>, text: String, choices: MutableList<String>) {
-        selectedOptions[index] = choices.indexOf(text)
+        uiState.value.selectedOptions[index] = choices.indexOf(text)
         //selectedAnswers is a mutableList that stores values of the answers entered by the user
         //might be useful
-        selectedAnswers[index] = choices.indexOf(text)
+        uiState.value.selectedAnswers[index] = choices.indexOf(text)
 
         when {
-            selectedOptions[index] in answer -> scoresList[index] = 1
-            selectedOptions[index] !in answer -> scoresList[index] = 0
+            uiState.value.selectedOptions[index] in answer -> uiState.value.scoresList[index] = 1
+            uiState.value.selectedOptions[index] !in answer -> uiState.value.scoresList[index] = 0
         }
 
         _uiState.update { currentState ->
@@ -51,7 +49,7 @@ class TestViewModel: ViewModel() {
     fun testFinished () {
         _uiState.update { currentState ->
             currentState.copy(
-                score = scoresList.sumOf{it},
+                score = uiState.value.scoresList.sumOf{it},
                 testFinished = true,
                 enableClickable = false,
             )
@@ -71,15 +69,15 @@ class TestViewModel: ViewModel() {
     fun resetTest () {
         _uiState.update { currentState ->
             currentState.copy(
-            testFinished = false,
-            reviewTest = false,
-            enableClickable = true,
-            showAlertDialog = true
+                scoresList = MutableList(NUMBER_OF_QUESTIONS){0},
+                selectedOptions = mutableListOf(*arrayOfNulls(NUMBER_OF_QUESTIONS)),
+                testFinished = false,
+                reviewTest = false,
+                enableClickable = true,
+                showAlertDialog = true,
+                selectedAnswers = mutableListOf(* arrayOfNulls(NUMBER_OF_QUESTIONS)),
             )
         }
-        //selectedAnswers.clear()
-        //selectedOptions.clear()
-        //scoresList.clear()
     }
 
     fun selectTest(newTest: List<DataSource>) {
@@ -88,6 +86,8 @@ class TestViewModel: ViewModel() {
                 selectedTest = newTest
             )
         }
+        resetTest()
     }
 }
+
 

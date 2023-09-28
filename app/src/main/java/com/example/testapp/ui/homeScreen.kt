@@ -4,15 +4,19 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Info
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -25,6 +29,7 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun HomeScreen(
     onGoToQuestionsBankButtonClicked: () -> Unit,
+    onGoToAboutAppScreenButtonClicked: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Column (
@@ -60,12 +65,16 @@ fun HomeScreen(
                             .fillMaxWidth()
                     ) {
                         Text(
-                            text = "Business Economics",
-                            fontSize = 40.sp,
+                            text = "Business",
+                            fontSize = 36.sp,
+                        )
+                        Text(
+                            text = "Economics",
+                            fontSize = 36.sp,
                         )
                         Text(
                             text = "CB2",
-                            fontSize = 44.sp
+                            fontSize = 40.sp
                         )
                     }
                 }
@@ -88,11 +97,33 @@ fun HomeScreen(
                 fontSize = 16.sp
             )
         }
+        Spacer(modifier = Modifier.weight(0.5f))
+        Button(
+            onClick = onGoToAboutAppScreenButtonClicked,
+            modifier = Modifier
+                .padding(0.dp)) {
+            Row (
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween
+                    ) {
+                Text(
+                    text = "About",
+                    fontSize = 10.sp
+                )
+                Icon(
+                    imageVector = Icons.Default.Info,
+                    contentDescription = "information",
+                )
+            }
+        }
     }
 }
 
 @Preview (showBackground = true)
 @Composable
 fun HomeScreenPreview () {
-    HomeScreen(onGoToQuestionsBankButtonClicked = { /*TODO*/ })
+    HomeScreen(
+        onGoToQuestionsBankButtonClicked = { /*TODO*/ },
+        onGoToAboutAppScreenButtonClicked = {}
+    )
 }

@@ -5,4 +5,8 @@
     <string name="exit">Exit</string>
     <string name="review_test">Review Test</string>
     <string name="home">Back to Home</string>
+    <string name="about_the_app">The multiple choice questions in this app have been taken from past exam papers offered
+        by the Institute and Faculty of Actuaries UK (IFoA). This application is provided free of charge
+    to all actuarial students worldwide.</string>
+    <string name="feedback">If you have questions, suggestions or required troubleshooting, send an email to mobiledeveloper.alele@gmail.com</string>
 </resources>

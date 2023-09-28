@@ -18,6 +18,7 @@ data class QuestionsBank (
     val session_two_name: List<DataSource>
 )
 
+val sep2023questionsList: List<DataSource> = listOf()
 
 val apr2023questionsList: List<DataSource> = listOf(DataSource(R.string.q1, R.string.apr2023_que_1, R.string.apr2023_choices_1, listOf(3)),
     DataSource(R.string.q2, R.string.apr2023_que_2, R.string.apr2023_choices_2, listOf(2)),
@@ -1042,7 +1043,7 @@ val sep2005questionsList: List<DataSource> = listOf(DataSource(R.string.q1, R.st
 )
 
 val questionsBankList = listOf(
-    QuestionsBank(2023, "April", "September", apr2023questionsList, apr2023questionsList),
+    QuestionsBank(2023, "April", "September", apr2023questionsList, sep2023questionsList),
     QuestionsBank(2022, "April", "September", apr2022questionsList, sep2022questionsList),
     QuestionsBank(2021, "April", "September", apr2021questionsList, sep2021questionsList),
     QuestionsBank(2020, "April", "September", apr2020questionsList, sep2020questionsList),

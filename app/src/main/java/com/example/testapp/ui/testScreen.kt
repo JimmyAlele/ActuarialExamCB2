@@ -1,6 +1,10 @@
 package com.example.testapp.ui
 
 import android.app.Activity
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.scaleOut
+import androidx.compose.animation.slideInHorizontally
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -111,10 +115,18 @@ fun TestScreen(
             }
         }
     }
-    if (testFinished && showAlertDialog) {
+    // this animation has no effect on the created AlertDialog
+    AnimatedVisibility (
+        visible = testFinished && showAlertDialog,
+        enter = slideInHorizontally(),
+        exit = scaleOut(
+            animationSpec = tween(500)
+            //tween(2000, easing = CubicBezierEasing(0.08f,0.93f,0.68f,1.27f)
+            ),
+    ) {
         FinalScoreDialog(
             score = score,
-            onCancelButtonClicked = onHomeButtonClicked,
+            onHomeButtonClicked = onHomeButtonClicked,
             onReviewTestButtonClicked = onReviewTestButtonClicked,
             modifier = Modifier
         )
@@ -302,7 +314,7 @@ fun RadioGroup(
 @Composable
 private fun FinalScoreDialog(
     score: Int,
-    onCancelButtonClicked: () -> Unit,
+    onHomeButtonClicked: () -> Unit,
     onReviewTestButtonClicked: () -> Unit,
     modifier: Modifier = Modifier
 
@@ -327,7 +339,7 @@ private fun FinalScoreDialog(
 
        dismissButton = {
             TextButton(
-                onClick = onCancelButtonClicked
+                onClick = onHomeButtonClicked
             ) {
                 Text(text = stringResource(R.string.home))
             }
