@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TestApp</string>
     <string name="done">Done!</string>
-    <string name="you_scored">"You scored: %s"</string>
+    <string name="you_scored">"You answered: %s questions correctly."</string>
     <string name="exit">Exit</string>
     <string name="review_test">Review Test</string>
     <string name="home">Back to Home</string>
