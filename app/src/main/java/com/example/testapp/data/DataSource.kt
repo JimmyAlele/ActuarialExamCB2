@@ -18,7 +18,35 @@ data class QuestionsBank (
     val session_two_name: List<DataSource>
 )
 
-val sep2023questionsList: List<DataSource> = listOf()
+val sep2023questionsList: List<DataSource> = listOf(
+    DataSource(R.string.q1, R.string.sep2023_que_1, R.string.sep2023_choices_1, listOf(2)),
+    DataSource(R.string.q2, R.string.sep2023_que_2, R.string.sep2023_choices_2, listOf(1)),
+    DataSource(R.string.q3, R.string.sep2023_que_3, R.string.sep2023_choices_3, listOf(2)),
+    DataSource(R.string.q4, R.string.sep2023_que_4, R.string.sep2023_choices_4, listOf(1)),
+    DataSource(R.string.q5, R.string.sep2023_que_5, R.string.sep2023_choices_5, listOf(2)),
+    DataSource(R.string.q6, R.string.sep2023_que_6, R.string.sep2023_choices_6, listOf(2)),
+    DataSource(R.string.q7, R.string.sep2023_que_7, R.string.sep2023_choices_7, listOf(2)),
+    DataSource(R.string.q8, R.string.sep2023_que_8, R.string.sep2023_choices_8, listOf(0)),
+    DataSource(R.string.q9, R.string.sep2023_que_9, R.string.sep2023_choices_9, listOf(3)),
+    DataSource(R.string.q10, R.string.sep2023_que_10, R.string.sep2023_choices_10, listOf(2)),
+    DataSource(R.string.q11, R.string.sep2023_que_11, R.string.sep2023_choices_11, listOf(0), R.drawable.sep2023_img_11),
+    DataSource(R.string.q12, R.string.sep2023_que_12, R.string.sep2023_choices_12, listOf(2)),
+    DataSource(R.string.q13, R.string.sep2023_que_13, R.string.sep2023_choices_13, listOf(2)),
+    DataSource(R.string.q14, R.string.sep2023_que_14, R.string.sep2023_choices_14, listOf(3)),
+    DataSource(R.string.q15, R.string.sep2023_que_15, R.string.sep2023_choices_15, listOf(3)),
+    DataSource(R.string.q16, R.string.sep2023_que_16, R.string.sep2023_choices_16, listOf(0)),
+    DataSource(R.string.q17, R.string.sep2023_que_17, R.string.sep2023_choices_17, listOf(2)),
+    DataSource(R.string.q18, R.string.sep2023_que_18, R.string.sep2023_choices_18, listOf(3)),
+    DataSource(R.string.q19, R.string.sep2023_que_19, R.string.sep2023_choices_19, listOf(3)),
+    DataSource(R.string.q20, R.string.sep2023_que_20, R.string.sep2023_choices_20, listOf(1)),
+    DataSource(R.string.q21, R.string.sep2023_que_21, R.string.sep2023_choices_21, listOf(0)),
+    DataSource(R.string.q22, R.string.sep2023_que_22, R.string.sep2023_choices_22, listOf(3)),
+    DataSource(R.string.q23, R.string.sep2023_que_23, R.string.sep2023_choices_23, listOf(1)),
+    DataSource(R.string.q24, R.string.sep2023_que_24, R.string.sep2023_choices_24, listOf(3)),
+    DataSource(R.string.q25, R.string.sep2023_que_25, R.string.sep2023_choices_25, listOf(1)),
+    DataSource(R.string.q26, R.string.sep2023_que_26, R.string.sep2023_choices_26, listOf(0)),
+
+    )
 
 val apr2023questionsList: List<DataSource> = listOf(DataSource(R.string.q1, R.string.apr2023_que_1, R.string.apr2023_choices_1, listOf(3)),
     DataSource(R.string.q2, R.string.apr2023_que_2, R.string.apr2023_choices_2, listOf(2)),

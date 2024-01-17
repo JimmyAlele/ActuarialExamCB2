@@ -1,0 +1,126 @@
+<resources>
+    "<string name='sep2023_choices_1'>A Machinery
+ENDSTOPB Casual labour
+ENDSTOPC Money in the bank
+ENDSTOPD Land.</string>"
+    "<string name='sep2023_choices_2'>A individuals and firms make decisions that determine economic outcomes with
+SOME government involvement in priority sectors such as healthcare and
+education.
+ENDSTOPB individuals and firms make decisions that determine economic outcomes and
+there is NO government involvement in any sector of the economy.
+ENDSTOPC individuals and government make decisions that determine economic
+outcomes in ALL sectors of the economy.
+ENDSTOPD firms and the government make decisions that determine economic outcomes
+in ALL sectors of the economy.</string>"
+    "<string name='sep2023_choices_3'>A The availability of capital.
+ENDSTOPB The skill level of the labour force.
+ENDSTOPC The level of demand in the economy.
+ENDSTOPD The availability of inputs.</string>"
+    "<string name='sep2023_choices_4'>A Price stays the same and quantity falls.
+ENDSTOPB Price falls and quantity rises.
+ENDSTOPC Price rises and quantity rises.
+ENDSTOPD Price falls and quantity stays the same.</string>"
+    "<string name='sep2023_choices_5'>A quantity is 60 and price is 80.
+ENDSTOPB quantity is 70 and price is 90.
+ENDSTOPC quantity is 80 and price is 100.
+ENDSTOPD quantity is 90 and price is 110.</string>"
+    "<string name='sep2023_choices_6'>A They are complements and are closely related.
+ENDSTOPB They are complements and are not closely related.
+ENDSTOPC They are substitutes and are closely related.
+ENDSTOPD They are substitutes and are not closely related.</string>"
+    "<string name='sep2023_choices_7'>A make supernormal profit in the long run.
+ENDSTOPB face barriers when entering the industry.
+ENDSTOPC charge a price equal to the marginal cost of the firm.
+ENDSTOPD normally face a downward sloping demand curve.</string>"
+    "<string name='sep2023_choices_8'>A increasing returns to scale.
+ENDSTOPB decreasing returns to scale.
+ENDSTOPC diminishing returns.
+ENDSTOPD constant returns to scale.</string>"
+    "<string name='sep2023_choices_9'>A increase the firm’s average fixed costs.
+ENDSTOPB decrease the firm’s average total costs.
+ENDSTOPC decrease the firm’s average variable costs.
+ENDSTOPD increase the firm’s marginal costs.</string>"
+    "<string name='sep2023_choices_10'>A under perfect competition there are only a few firms, whereas in an oligopoly
+there are many firms.
+ENDSTOPB under perfect competition a firm experiences a downward sloping demand
+curve, but in an oligopoly the firm tends to have a perfectly elastic demand
+curve.
+ENDSTOPC under perfect competition firms can only make normal profit in the long run,
+whereas in an oligopoly firms can make abnormal profit in the long run and
+short run.
+ENDSTOPD under perfect competition firms may be able to dominate the market and
+restrict entry, whereas firms operating in an oligopoly tend to facilitate free
+entry.</string>"
+    "<string name='sep2023_choices_11'>A $1,625 million
+ENDSTOPB $1,500 million
+ENDSTOPC $2,575 million
+ENDSTOPD $2,450 million.</string>"
+    "<string name='sep2023_choices_12'>A Consumption
+ENDSTOPB Net taxes
+ENDSTOPC Exports
+ENDSTOPD Imports.</string>"
+    "<string name='sep2023_choices_13'>A will generally be reported at a higher value than it would be otherwise.
+ENDSTOPB will be growing at a faster rate than official figures report.
+ENDSTOPC will generally be reported at a lower value than it would be otherwise.
+ENDSTOPD growth is unchanged by the working population undertaking activities
+themselves.</string>"
+    "<string name='sep2023_choices_14'>A cyclically unemployed.
+ENDSTOPB structurally unemployed.
+ENDSTOPC involuntarily unemployed.
+ENDSTOPD not part of the labour force.</string>"
+    "<string name='sep2023_choices_15'>A its welfare payment bill will fall.
+ENDSTOPB its income tax revenue rises.
+ENDSTOPC its production possibility curve shifts outwards.
+ENDSTOPD it is operating inside its production possibility curve.</string>"
+    "<string name='sep2023_choices_16'>A risen by approximately 6%.
+ENDSTOPB fallen by approximately 6%.
+ENDSTOPC risen by approximately 11%.
+ENDSTOPD fallen by approximately 11%.</string>"
+    "<string name='sep2023_choices_17'>A an appreciation of the domestic currency.
+ENDSTOPB a fall in business confidence.
+ENDSTOPC a fall in interest rates.
+ENDSTOPD an increase in the rate of income tax.</string>"
+    "<string name='sep2023_choices_18'>A spending is less than income.
+ENDSTOPB spending is equal to income.
+ENDSTOPC saving is more than expenditure.
+ENDSTOPD spending is greater than income.</string>"
+    "<string name='sep2023_choices_19'>A shift the long run and short run aggregate supply curves downwards.
+ENDSTOPB shift the long run and short run aggregate supply curves upwards.
+ENDSTOPC not shift the short run aggregate supply but will shift the long run aggregate
+supply curves downwards.
+ENDSTOPD shift the short run aggregate supply curve downwards and leave the long run
+aggregate supply curve unchanged.</string>"
+    "<string name='sep2023_choices_20'>A 18
+ENDSTOPB 4
+ENDSTOPC 12
+ENDSTOPD 8.</string>"
+    "<string name='sep2023_choices_21'>A reduce government expenditure.
+ENDSTOPB increase the level of protectionism by raising tariffs and implementing quotas.
+ENDSTOPC decrease the rate of income tax.
+ENDSTOPD increase the level of unemployment benefits.</string>"
+    "<string name='sep2023_choices_22'>A a decrease in loans.
+ENDSTOPB a decrease in aggregate demand.
+ENDSTOPC an increase in the rate of interest.
+ENDSTOPD a decrease in the rate of interest.</string>"
+    "<string name='sep2023_choices_23'>A asset motive for holding money.
+ENDSTOPB precautionary motive for holding money.
+ENDSTOPC speculative motive for holding money.
+ENDSTOPD transactions motive for holding money.</string>"
+    "<string name='sep2023_choices_24'>A Consumers pay a higher price, producers receive a lower price and the
+government receives tariff income.
+ENDSTOPB Consumers pay a lower price, producers receive a higher price and the
+government loses tariff income.
+ENDSTOPC Consumers pay a higher price, producers receive a higher price and the
+government receives tariff income.
+ENDSTOPD Consumers pay a lower price, producers receive a lower price and the
+government loses tariff income.</string>"
+    "<string name='sep2023_choices_25'>A Domestic consumers of the good
+ENDSTOPB Domestic producers of the good
+ENDSTOPC International producers of the good
+ENDSTOPD International consumers of the good.</string>"
+    "<string name='sep2023_choices_26'>A purchased in Scotland and sold back in Toronto.
+ENDSTOPB purchased in Toronto and sold back in Scotland.
+ENDSTOPC sold in both Scotland and Toronto.
+ENDSTOPD purchased in both Scotland and Toronto.</string>"
+
+</resources>
